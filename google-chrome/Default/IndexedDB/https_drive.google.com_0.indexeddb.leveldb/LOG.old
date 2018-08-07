@@ -1,0 +1,6 @@
+2018/08/05-21:38:45.637 16243 Reusing MANIFEST /home/goatwizard/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/08/05-21:38:45.637 16243 Recovering log #44
+2018/08/05-21:38:45.642 16243 Reusing old log /home/goatwizard/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000044.log 
+2018/08/05-21:38:46.296 16529 Level-0 table #48: started
+2018/08/05-21:38:46.359 16529 Level-0 table #48: 599991 bytes OK
+2018/08/05-21:38:46.404 16529 Delete type=0 #44

@@ -1,0 +1,3 @@
+/home/goatwizard/altar.blend
+/home/goatwizard/untitled.blend
+/home/goatwizard/Downloads/pedestalhandles.blend

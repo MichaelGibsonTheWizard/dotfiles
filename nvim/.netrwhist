@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/goatwizard/Repos/DruidCraft/run/config'
+let g:netrw_dirhist_2='/home/goatwizard'
+let g:netrw_dirhist_3='/home/goatwizard/.config/alacritty'

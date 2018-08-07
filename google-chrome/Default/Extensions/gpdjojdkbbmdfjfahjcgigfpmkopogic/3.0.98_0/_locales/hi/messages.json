@@ -1,0 +1,30 @@
+{
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "क्षमा करेंं, यह तस्वीर सेव नहीं की जा सकती है."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "वेब पर मिलने वाली चीज़ें सेव करें."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterest सेव बटन"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "सेव बटन पर होवर करना छुपाएँ"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "सेव बटन के विकल्प"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "सेव करें"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "खोजें"
+   }
+}

@@ -1,0 +1,7 @@
+[Bookmarks]
+[Recent]
+/home/goatwizard/
+/home/goatwizard/Repos/DruidCraft/src/main/resources/assets/druidcraft/models/block/
+/home/goatwizard/Downloads/
+/home/goatwizard/Repos/DruidCraft/src/main/resources/assets/druidcraft/textures/blocks/
+/home/goatwizard/Repos/DruidCraft/src/main/resources/models/blocks/

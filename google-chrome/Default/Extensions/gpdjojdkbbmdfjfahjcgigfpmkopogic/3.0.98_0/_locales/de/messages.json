@@ -1,0 +1,30 @@
+{
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Leider kann dieses Bild nicht als Pin gesammelt werden."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Merk dir Ideen, auf die du im Internet stößt."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "„Merken“-Button von Pinterest"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Hover-Buttons ausblenden"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Optionen für den „Merken“-Button"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Merken"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Suchen"
+   }
+}

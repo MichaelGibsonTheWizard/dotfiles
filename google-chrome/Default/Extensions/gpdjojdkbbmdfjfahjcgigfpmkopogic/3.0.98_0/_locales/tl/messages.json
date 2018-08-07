@@ -1,0 +1,30 @@
+{
+  "extName" : {
+    "message" : "Button na I-save ng Pinterest",
+    "description" : "The extension's title, seen in gallery and extensions page"
+  },
+  "extDescription" : {
+    "message" : "I-save ang mga bagay na mahahanap mo sa Web.",
+    "description" : "The extension's description, seen in gallery and extensions page"
+  },
+  "saveAction" : {
+    "message" : "I-save",
+    "description" : "Appears in the right-click-to-save menu item"
+  },
+  "searchAction" : {
+    "message" : "Maghanap",
+    "description" : "Appears in the right-click-to-search menu item"
+  },
+  "errorPin" : {
+    "message" : "Pasensya na, hindi ma-save ang larawan na ito.",
+    "description" : "The error message seen when an image can't be pinned"
+  },
+  "optionTitle" : {
+    "message" : "Mga opsyon ng I-save na button",
+    "description" : "Title for the Options page"
+  },
+  "optionHide" : {
+    "message" : "Itago ang mga button na I-save para sa pag-hover",
+    "description" : "Text next to the checkbox that turns off hoverbuttons"
+  }
+}

@@ -1,0 +1,30 @@
+{
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Hups! Kuvaa ei voi tallentaa."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Ota nettilöydöt helposti talteen."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterestin tallennuspainike"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Piilota osoitettaessa näytettävät tallennuspainikkeet"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Tallennuspainikkeen asetukset"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Tallenna"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Haku"
+   }
+}

@@ -1,0 +1,30 @@
+{
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Maalesef bu görüntü kaydedilemez."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "İnternet'te bulduklarınızı kaydedin."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterest Kaydet düğmesi"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Üzerinde durulduğunda beliren Kaydet düğmelerini gizle"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Kaydet düğmesi seçenekleri"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Kaydet"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Ara"
+   }
+}

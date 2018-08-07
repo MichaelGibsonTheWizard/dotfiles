@@ -1,0 +1,30 @@
+{
+  "extName" : {
+    "message" : "Botón Guardar de Pinterest",
+    "description" : "The extension's title, seen in gallery and extensions page"
+  },
+  "extDescription" : {
+    "message" : "Guarda lo que más te interesa de Internet",
+    "description" : "The extension's description, seen in gallery and extensions page"
+  },
+  "saveAction" : {
+    "message" : "Guardar",
+    "description" : "Appears in the right-click-to-save menu item"
+  },
+  "searchAction" : {
+    "message" : "Buscar",
+    "description" : "Appears in the right-click-to-search menu item"
+  },
+  "errorPin" : {
+    "message" : "Lo sentimos, no se puede guardar esta imagen.",
+    "description" : "The error message seen when an image can't be pinned"
+  },
+  "optionTitle" : {
+    "message" : "Opciones del botón Guardar",
+    "description" : "Title for the Options page"
+  },
+  "optionHide" : {
+    "message" : "Ocultar botones Guardar flotantes",
+    "description" : "Text next to the checkbox that turns off hoverbuttons"
+  }
+}
