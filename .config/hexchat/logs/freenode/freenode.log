@@ -1,0 +1,741 @@
+**** BEGIN LOGGING AT Tue Aug 28 19:08:48 2018
+
+Aug 28 19:08:48 *	*** Looking up your hostname...
+Aug 28 19:08:48 *	*** Checking Ident
+Aug 28 19:08:48 *	*** Couldn't look up your hostname
+Aug 28 19:08:48 *	*** No Ident response
+Aug 28 19:08:48 *	Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+Aug 28 19:08:48 *	Capabilities requested: account-notify extended-join identify-msg multi-prefix sasl 
+Aug 28 19:08:49 *	GoatWizard is already in use. Retrying with goatwizard_...
+Aug 28 19:08:49 *	Capabilities acknowledged: account-notify extended-join identify-msg multi-prefix sasl 
+Aug 28 19:08:50 *	Authenticating via SASL as MichaelTheGoatWi (PLAIN)
+Aug 28 19:08:51 *	You are now logged in as MichaelTheGoatWi.
+Aug 28 19:08:51 *	SASL authentication successful
+**** ENDING LOGGING AT Tue Aug 28 19:08:51 2018
+
+**** BEGIN LOGGING AT Tue Aug 28 19:08:51 2018
+
+Aug 28 19:08:51 *	Welcome to the freenode Internet Relay Chat Network goatwizard_
+Aug 28 19:08:52 *	Your host is wilhelm.freenode.net[2001:41d0:401:3100::5136/6697], running version ircd-seven-1.1.7
+Aug 28 19:08:52 *	This server was created Tue Aug 21 2018 at 18:40:23 UTC
+Aug 28 19:08:52 *	wilhelm.freenode.net ircd-seven-1.1.7 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+Aug 28 19:08:52 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Aug 28 19:08:52 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE SAFELIST :are supported by this server
+Aug 28 19:08:52 *	ELIST=CTU WHOX ETRACE KNOCK :are supported by this server
+Aug 28 19:08:52 *	There are 120 users and 83706 invisible on 32 servers
+Aug 28 19:08:52 *	32 :IRC Operators online
+Aug 28 19:08:52 *	2 :unknown connection(s)
+Aug 28 19:08:52 *	45395 :channels formed
+Aug 28 19:08:52 *	I have 7876 clients and 1 servers
+Aug 28 19:08:52 *	7876 9004 :Current local users 7876, max 9004
+Aug 28 19:08:52 *	83826 88594 :Current global users 83826, max 88594
+Aug 28 19:08:52 *	Highest connection count: 9005 (9004 clients) (129785 connections received)
+Aug 28 19:08:52 *	- wilhelm.freenode.net Message of the Day - 
+Aug 28 19:08:52 *	- Welcome to wilhelm.freenode.net in Strasbourg, France. 
+Aug 28 19:08:52 *	- Thanks to http://digitaltreemedia.co.uk/ for sponsoring
+Aug 28 19:08:52 *	- this server!
+Aug 28 19:08:52 *	-  
+Aug 28 19:08:52 *	- Welcome to freenode - supporting the free and open source
+Aug 28 19:08:52 *	- software communities since 1998.
+Aug 28 19:08:52 *	-  
+Aug 28 19:08:52 *	- By connecting to freenode you indicate that you have read and
+Aug 28 19:08:52 *	- accept our policies and guidelines as set out on https://freenode.net
+Aug 28 19:08:52 *	-  
+Aug 28 19:08:52 *	- In the event that you observe behaviour that contravenes our policies,
+Aug 28 19:08:52 *	- please notify a volunteer staff member via private message, or send us an
+Aug 28 19:08:52 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Aug 28 19:08:52 *	- situation within a reasonable period of time, and we may request further
+Aug 28 19:08:52 *	- information or, as appropriate, involve other parties such as channel operators 
+Aug 28 19:08:52 *	- Group Contacts representing an on-topic group.
+Aug 28 19:08:52 *	-  
+Aug 28 19:08:52 *	- freenode runs an open proxy scanner.
+Aug 28 19:08:52 *	-  
+Aug 28 19:08:52 *	- If you are looking for assistance, you will be able to find a list of
+Aug 28 19:08:52 *	- volunteer staff using the '/who freenode/staff/*' command, and you may
+Aug 28 19:08:52 *	- message any of us at any time. Please note that freenode predominantly
+Aug 28 19:08:52 *	- provides assistance via private message, and while we have a network
+Aug 28 19:08:52 *	- channel the primary venue for support requests is via private message to
+Aug 28 19:08:52 *	- a member of the volunteer staff team.
+Aug 28 19:08:52 *	-  
+Aug 28 19:08:52 *	- From time to time, volunteer staff may send server-wide notices relating to
+Aug 28 19:08:52 *	- the project, or the communities that we host. The majority of such notices
+Aug 28 19:08:52 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Aug 28 19:08:52 *	- do not miss them. Important messages relating to the freenode project, including
+Aug 28 19:08:52 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Aug 28 19:08:52 *	- global notices.
+Aug 28 19:08:52 *	-  
+Aug 28 19:08:52 *	- Representing an on-topic project? Don't forget to register, more information
+Aug 28 19:08:52 *	- can be found on the https://freenode.net website under "Group Registration".
+Aug 28 19:08:52 *	-  
+Aug 28 19:08:52 *	- freenode organises an annual conference, and we would like to extend our
+Aug 28 19:08:52 *	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+Aug 28 19:08:52 *	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+Aug 28 19:08:52 *	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+Aug 28 19:08:52 *	-  
+Aug 28 19:08:52 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Aug 28 19:08:52 *	- network going for close to two decades.
+Aug 28 19:08:52 *	-  
+Aug 28 19:08:52 *	- freenode #live returns to Bristol, UK on November 3rd-4th 2018. Our Call for
+Aug 28 19:08:52 *	- Proposals is live at https://freenode.live and open until July 31, 2018. If 
+Aug 28 19:08:52 *	- you are interested in sponsoring this event, please send an e-mail to
+Aug 28 19:08:52 *	- sponsor@freenode.live
+Aug 28 19:08:52 *	-  
+Aug 28 19:08:52 *	- Thank you for using freenode!
+Aug 28 19:08:52 *	-  
+Aug 28 19:08:52 *	-  
+Aug 28 19:08:52 *	End of /MOTD command.
+Aug 28 19:08:52 *	goatwizard_ sets mode +R on goatwizard_
+Aug 28 19:08:52 *	goatwizard_ sets mode +Z on goatwizard_
+Aug 28 19:08:52 *	goatwizard_ sets mode +i on goatwizard_
+Aug 28 19:08:52 -freenode-connect-	Due to the persistent ongoing spam, all new connections are being set +R (block messages from unidentified users) and will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Aug 28 19:08:52 *	Received a CTCP VERSION from freenode-connect
+Aug 28 19:10:38 Sysinfo plugin unloaded
+Aug 28 19:10:38 Checksum plugin unloaded
+Aug 28 19:10:38 FiSHLiM	hexchat_print called without a valid context.
+**** BEGIN LOGGING AT Tue Aug 28 19:11:45 2018
+
+Aug 28 19:11:45 *	Welcome to the freenode Internet Relay Chat Network TheGoatWizard
+Aug 28 19:11:45 *	Your host is wilhelm.freenode.net[2001:41d0:401:3100::5136/6697], running version ircd-seven-1.1.7
+Aug 28 19:11:45 *	This server was created Tue Aug 21 2018 at 18:40:23 UTC
+Aug 28 19:11:45 *	wilhelm.freenode.net ircd-seven-1.1.7 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+Aug 28 19:11:45 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Aug 28 19:11:45 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE SAFELIST :are supported by this server
+Aug 28 19:11:45 *	ELIST=CTU WHOX ETRACE KNOCK :are supported by this server
+Aug 28 19:11:45 *	There are 120 users and 83718 invisible on 32 servers
+Aug 28 19:11:45 *	32 :IRC Operators online
+Aug 28 19:11:45 *	2 :unknown connection(s)
+Aug 28 19:11:45 *	45393 :channels formed
+Aug 28 19:11:45 *	I have 7869 clients and 1 servers
+Aug 28 19:11:45 *	7869 9004 :Current local users 7869, max 9004
+Aug 28 19:11:45 *	83838 88594 :Current global users 83838, max 88594
+Aug 28 19:11:45 *	Highest connection count: 9005 (9004 clients) (129794 connections received)
+Aug 28 19:11:45 *	- wilhelm.freenode.net Message of the Day - 
+Aug 28 19:11:45 *	- Welcome to wilhelm.freenode.net in Strasbourg, France. 
+Aug 28 19:11:45 *	- Thanks to http://digitaltreemedia.co.uk/ for sponsoring
+Aug 28 19:11:45 *	- this server!
+Aug 28 19:11:45 *	-  
+Aug 28 19:11:45 *	- Welcome to freenode - supporting the free and open source
+Aug 28 19:11:45 *	- software communities since 1998.
+Aug 28 19:11:45 *	-  
+Aug 28 19:11:45 *	- By connecting to freenode you indicate that you have read and
+Aug 28 19:11:45 *	- accept our policies and guidelines as set out on https://freenode.net
+Aug 28 19:11:45 *	-  
+Aug 28 19:11:45 *	- In the event that you observe behaviour that contravenes our policies,
+Aug 28 19:11:45 *	- please notify a volunteer staff member via private message, or send us an
+Aug 28 19:11:45 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Aug 28 19:11:45 *	- situation within a reasonable period of time, and we may request further
+Aug 28 19:11:45 *	- information or, as appropriate, involve other parties such as channel operators 
+Aug 28 19:11:45 *	- Group Contacts representing an on-topic group.
+Aug 28 19:11:45 *	-  
+Aug 28 19:11:45 *	- freenode runs an open proxy scanner.
+Aug 28 19:11:45 *	-  
+Aug 28 19:11:45 *	- If you are looking for assistance, you will be able to find a list of
+Aug 28 19:11:45 *	- volunteer staff using the '/who freenode/staff/*' command, and you may
+Aug 28 19:11:45 *	- message any of us at any time. Please note that freenode predominantly
+Aug 28 19:11:45 *	- provides assistance via private message, and while we have a network
+Aug 28 19:11:45 *	- channel the primary venue for support requests is via private message to
+Aug 28 19:11:45 *	- a member of the volunteer staff team.
+Aug 28 19:11:45 *	-  
+Aug 28 19:11:45 *	- From time to time, volunteer staff may send server-wide notices relating to
+Aug 28 19:11:45 *	- the project, or the communities that we host. The majority of such notices
+Aug 28 19:11:45 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Aug 28 19:11:45 *	- do not miss them. Important messages relating to the freenode project, including
+Aug 28 19:11:45 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Aug 28 19:11:45 *	- global notices.
+Aug 28 19:11:45 *	-  
+Aug 28 19:11:45 *	- Representing an on-topic project? Don't forget to register, more information
+Aug 28 19:11:45 *	- can be found on the https://freenode.net website under "Group Registration".
+Aug 28 19:11:45 *	-  
+Aug 28 19:11:45 *	- freenode organises an annual conference, and we would like to extend our
+Aug 28 19:11:45 *	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+Aug 28 19:11:45 *	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+Aug 28 19:11:45 *	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+Aug 28 19:11:45 *	-  
+Aug 28 19:11:45 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Aug 28 19:11:45 *	- network going for close to two decades.
+Aug 28 19:11:45 *	-  
+Aug 28 19:11:45 *	- freenode #live returns to Bristol, UK on November 3rd-4th 2018. Our Call for
+Aug 28 19:11:45 *	- Proposals is live at https://freenode.live and open until July 31, 2018. If 
+Aug 28 19:11:45 *	- you are interested in sponsoring this event, please send an e-mail to
+Aug 28 19:11:45 *	- sponsor@freenode.live
+Aug 28 19:11:45 *	-  
+Aug 28 19:11:45 *	- Thank you for using freenode!
+Aug 28 19:11:45 *	-  
+Aug 28 19:11:45 *	-  
+Aug 28 19:11:45 *	End of /MOTD command.
+Aug 28 19:11:45 *	TheGoatWizard sets mode +R on TheGoatWizard
+Aug 28 19:11:45 *	TheGoatWizard sets mode +Z on TheGoatWizard
+Aug 28 19:11:45 *	TheGoatWizard sets mode +i on TheGoatWizard
+Aug 28 19:11:45 -freenode-connect-	Due to the persistent ongoing spam, all new connections are being set +R (block messages from unidentified users) and will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Aug 28 19:11:45 *	Received a CTCP VERSION from freenode-connect
+Aug 28 19:11:58 Sysinfo plugin unloaded
+Aug 28 19:11:58 Checksum plugin unloaded
+Aug 28 19:11:58 FiSHLiM plugin unloaded
+**** BEGIN LOGGING AT Tue Aug 28 19:12:53 2018
+
+Aug 28 19:12:53 *	Welcome to the freenode Internet Relay Chat Network GoatWizard
+Aug 28 19:12:53 *	Your host is wilhelm.freenode.net[2001:41d0:401:3100::5136/6697], running version ircd-seven-1.1.7
+Aug 28 19:12:53 *	This server was created Tue Aug 21 2018 at 18:40:23 UTC
+Aug 28 19:12:53 *	wilhelm.freenode.net ircd-seven-1.1.7 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+Aug 28 19:12:53 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Aug 28 19:12:53 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE SAFELIST :are supported by this server
+Aug 28 19:12:53 *	ELIST=CTU WHOX ETRACE KNOCK :are supported by this server
+Aug 28 19:12:53 *	There are 120 users and 83715 invisible on 32 servers
+Aug 28 19:12:53 *	32 :IRC Operators online
+Aug 28 19:12:53 *	2 :unknown connection(s)
+Aug 28 19:12:53 *	45382 :channels formed
+Aug 28 19:12:53 *	I have 7868 clients and 1 servers
+Aug 28 19:12:53 *	7868 9004 :Current local users 7868, max 9004
+Aug 28 19:12:53 *	83835 88594 :Current global users 83835, max 88594
+Aug 28 19:12:53 *	Highest connection count: 9005 (9004 clients) (129798 connections received)
+Aug 28 19:12:53 *	- wilhelm.freenode.net Message of the Day - 
+Aug 28 19:12:53 *	- Welcome to wilhelm.freenode.net in Strasbourg, France. 
+Aug 28 19:12:53 *	- Thanks to http://digitaltreemedia.co.uk/ for sponsoring
+Aug 28 19:12:53 *	- this server!
+Aug 28 19:12:53 *	-  
+Aug 28 19:12:53 *	- Welcome to freenode - supporting the free and open source
+Aug 28 19:12:53 *	- software communities since 1998.
+Aug 28 19:12:53 *	-  
+Aug 28 19:12:53 *	- By connecting to freenode you indicate that you have read and
+Aug 28 19:12:53 *	- accept our policies and guidelines as set out on https://freenode.net
+Aug 28 19:12:53 *	-  
+Aug 28 19:12:53 *	- In the event that you observe behaviour that contravenes our policies,
+Aug 28 19:12:53 *	- please notify a volunteer staff member via private message, or send us an
+Aug 28 19:12:53 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Aug 28 19:12:53 *	- situation within a reasonable period of time, and we may request further
+Aug 28 19:12:53 *	- information or, as appropriate, involve other parties such as channel operators 
+Aug 28 19:12:53 *	- Group Contacts representing an on-topic group.
+Aug 28 19:12:53 *	-  
+Aug 28 19:12:53 *	- freenode runs an open proxy scanner.
+Aug 28 19:12:53 *	-  
+Aug 28 19:12:53 *	- If you are looking for assistance, you will be able to find a list of
+Aug 28 19:12:53 *	- volunteer staff using the '/who freenode/staff/*' command, and you may
+Aug 28 19:12:53 *	- message any of us at any time. Please note that freenode predominantly
+Aug 28 19:12:53 *	- provides assistance via private message, and while we have a network
+Aug 28 19:12:53 *	- channel the primary venue for support requests is via private message to
+Aug 28 19:12:53 *	- a member of the volunteer staff team.
+Aug 28 19:12:53 *	-  
+Aug 28 19:12:53 *	- From time to time, volunteer staff may send server-wide notices relating to
+Aug 28 19:12:53 *	- the project, or the communities that we host. The majority of such notices
+Aug 28 19:12:53 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Aug 28 19:12:53 *	- do not miss them. Important messages relating to the freenode project, including
+Aug 28 19:12:53 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Aug 28 19:12:53 *	- global notices.
+Aug 28 19:12:53 *	-  
+Aug 28 19:12:53 *	- Representing an on-topic project? Don't forget to register, more information
+Aug 28 19:12:53 *	- can be found on the https://freenode.net website under "Group Registration".
+Aug 28 19:12:53 *	-  
+Aug 28 19:12:53 *	- freenode organises an annual conference, and we would like to extend our
+Aug 28 19:12:53 *	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+Aug 28 19:12:53 *	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+Aug 28 19:12:53 *	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+Aug 28 19:12:53 *	-  
+Aug 28 19:12:53 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Aug 28 19:12:53 *	- network going for close to two decades.
+Aug 28 19:12:53 *	-  
+Aug 28 19:12:53 *	- freenode #live returns to Bristol, UK on November 3rd-4th 2018. Our Call for
+Aug 28 19:12:53 *	- Proposals is live at https://freenode.live and open until July 31, 2018. If 
+Aug 28 19:12:53 *	- you are interested in sponsoring this event, please send an e-mail to
+Aug 28 19:12:53 *	- sponsor@freenode.live
+Aug 28 19:12:53 *	-  
+Aug 28 19:12:53 *	- Thank you for using freenode!
+Aug 28 19:12:53 *	-  
+Aug 28 19:12:53 *	-  
+Aug 28 19:12:53 *	End of /MOTD command.
+Aug 28 19:12:53 *	GoatWizard sets mode +R on GoatWizard
+Aug 28 19:12:53 *	GoatWizard sets mode +Z on GoatWizard
+Aug 28 19:12:53 *	GoatWizard sets mode +i on GoatWizard
+Aug 28 19:12:53 -freenode-connect-	Due to the persistent ongoing spam, all new connections are being set +R (block messages from unidentified users) and will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Aug 28 19:12:53 *	Received a CTCP VERSION from freenode-connect
+Aug 28 19:28:15 *	No ping reply for 89 seconds, disconnecting.
+Aug 28 19:28:15 *	Disconnected ()
+Aug 28 19:28:25 *	Looking up chat.freenode.net
+Aug 28 19:28:26 *	Connecting to chat.freenode.net (2001:41d0:401:3100::5136:6697)
+Aug 28 19:28:28 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Aug 28 19:28:28 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Aug 28 19:28:28 *	* Subject: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Aug 28 19:28:28 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Aug 28 19:28:28 *	* Subject: /CN=wilhelm.freenode.net
+Aug 28 19:28:28 *	* Issuer: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Aug 28 19:28:28 *	* Certification info:
+Aug 28 19:28:28 *	  Subject:
+Aug 28 19:28:28 *	    CN=wilhelm.freenode.net
+Aug 28 19:28:28 *	  Issuer:
+Aug 28 19:28:28 *	    C=US
+Aug 28 19:28:28 *	    O=Let's Encrypt
+Aug 28 19:28:28 *	    CN=Let's Encrypt Authority X3
+Aug 28 19:28:28 *	  Public key algorithm: rsaEncryption (4096 bits)
+Aug 28 19:28:28 *	  Sign algorithm sha256WithRSAEncryption
+Aug 28 19:28:28 *	  Valid since Aug 10 08:00:09 2018 GM to Nov  8 08:00:09 2018 GM
+Aug 28 19:28:28 *	* Cipher info:
+Aug 28 19:28:28 *	  Version: TLSv1.2, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+Aug 28 19:28:28 *	Connected. Now logging in.
+Aug 28 19:28:28 *	*** Looking up your hostname...
+Aug 28 19:28:28 *	*** Checking Ident
+Aug 28 19:28:28 *	*** Couldn't look up your hostname
+Aug 28 19:28:28 *	*** No Ident response
+Aug 28 19:28:29 *	Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+Aug 28 19:28:29 *	Capabilities requested: account-notify extended-join identify-msg multi-prefix sasl 
+Aug 28 19:28:30 *	Capabilities acknowledged: account-notify extended-join identify-msg multi-prefix sasl 
+Aug 28 19:28:30 *	Authenticating via SASL as MichaelTheGoatWi (PLAIN)
+Aug 28 19:28:30 *	You are now logged in as MichaelTheGoatWi.
+Aug 28 19:28:30 *	SASL authentication successful
+Aug 28 19:28:31 *	Welcome to the freenode Internet Relay Chat Network GoatWizard
+Aug 28 19:28:32 *	Your host is wilhelm.freenode.net[2001:41d0:401:3100::5136/6697], running version ircd-seven-1.1.7
+Aug 28 19:28:32 *	This server was created Tue Aug 21 2018 at 18:40:23 UTC
+Aug 28 19:28:32 *	wilhelm.freenode.net ircd-seven-1.1.7 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+Aug 28 19:28:32 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Aug 28 19:28:32 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE SAFELIST :are supported by this server
+Aug 28 19:28:32 *	ELIST=CTU WHOX ETRACE KNOCK :are supported by this server
+Aug 28 19:28:32 *	There are 116 users and 83628 invisible on 32 servers
+Aug 28 19:28:32 *	32 :IRC Operators online
+Aug 28 19:28:32 *	6 :unknown connection(s)
+Aug 28 19:28:32 *	45369 :channels formed
+Aug 28 19:28:32 *	I have 7848 clients and 1 servers
+Aug 28 19:28:32 *	7848 9004 :Current local users 7848, max 9004
+Aug 28 19:28:32 *	83744 88594 :Current global users 83744, max 88594
+Aug 28 19:28:32 *	Highest connection count: 9005 (9004 clients) (129841 connections received)
+Aug 28 19:28:32 *	- wilhelm.freenode.net Message of the Day - 
+Aug 28 19:28:32 *	- Welcome to wilhelm.freenode.net in Strasbourg, France. 
+Aug 28 19:28:32 *	- Thanks to http://digitaltreemedia.co.uk/ for sponsoring
+Aug 28 19:28:32 *	- this server!
+Aug 28 19:28:32 *	-  
+Aug 28 19:28:32 *	- Welcome to freenode - supporting the free and open source
+Aug 28 19:28:32 *	- software communities since 1998.
+Aug 28 19:28:32 *	-  
+Aug 28 19:28:32 *	- By connecting to freenode you indicate that you have read and
+Aug 28 19:28:32 *	- accept our policies and guidelines as set out on https://freenode.net
+Aug 28 19:28:32 *	-  
+Aug 28 19:28:32 *	- In the event that you observe behaviour that contravenes our policies,
+Aug 28 19:28:32 *	- please notify a volunteer staff member via private message, or send us an
+Aug 28 19:28:32 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Aug 28 19:28:32 *	- situation within a reasonable period of time, and we may request further
+Aug 28 19:28:32 *	- information or, as appropriate, involve other parties such as channel operators 
+Aug 28 19:28:32 *	- Group Contacts representing an on-topic group.
+Aug 28 19:28:32 *	-  
+Aug 28 19:28:32 *	- freenode runs an open proxy scanner.
+Aug 28 19:28:32 *	-  
+Aug 28 19:28:32 *	- If you are looking for assistance, you will be able to find a list of
+Aug 28 19:28:32 *	- volunteer staff using the '/who freenode/staff/*' command, and you may
+Aug 28 19:28:32 *	- message any of us at any time. Please note that freenode predominantly
+Aug 28 19:28:32 *	- provides assistance via private message, and while we have a network
+Aug 28 19:28:32 *	- channel the primary venue for support requests is via private message to
+Aug 28 19:28:32 *	- a member of the volunteer staff team.
+Aug 28 19:28:32 *	-  
+Aug 28 19:28:32 *	- From time to time, volunteer staff may send server-wide notices relating to
+Aug 28 19:28:32 *	- the project, or the communities that we host. The majority of such notices
+Aug 28 19:28:32 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Aug 28 19:28:32 *	- do not miss them. Important messages relating to the freenode project, including
+Aug 28 19:28:32 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Aug 28 19:28:32 *	- global notices.
+Aug 28 19:28:32 *	-  
+Aug 28 19:28:32 *	- Representing an on-topic project? Don't forget to register, more information
+Aug 28 19:28:32 *	- can be found on the https://freenode.net website under "Group Registration".
+Aug 28 19:28:32 *	-  
+Aug 28 19:28:32 *	- freenode organises an annual conference, and we would like to extend our
+Aug 28 19:28:32 *	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+Aug 28 19:28:32 *	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+Aug 28 19:28:32 *	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+Aug 28 19:28:32 *	-  
+Aug 28 19:28:32 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Aug 28 19:28:32 *	- network going for close to two decades.
+Aug 28 19:28:32 *	-  
+Aug 28 19:28:32 *	- freenode #live returns to Bristol, UK on November 3rd-4th 2018. Our Call for
+Aug 28 19:28:32 *	- Proposals is live at https://freenode.live and open until July 31, 2018. If 
+Aug 28 19:28:32 *	- you are interested in sponsoring this event, please send an e-mail to
+Aug 28 19:28:32 *	- sponsor@freenode.live
+Aug 28 19:28:32 *	-  
+Aug 28 19:28:32 *	- Thank you for using freenode!
+Aug 28 19:28:32 *	-  
+Aug 28 19:28:32 *	-  
+Aug 28 19:28:32 *	End of /MOTD command.
+Aug 28 20:55:15 *	No ping reply for 69 seconds, disconnecting.
+Aug 28 20:55:15 *	Disconnected ()
+Aug 28 20:55:25 *	Looking up chat.freenode.net
+Aug 28 20:55:26 *	Connecting to chat.freenode.net (2001:41d0:401:3100::5136:6697)
+Aug 28 20:56:51 *	Looking up chat.freenode.net
+Aug 28 20:56:51 *	Connecting to chat.freenode.net (2001:41d0:401:3100::5136:6697)
+Aug 28 20:56:59 Sysinfo plugin unloaded
+Aug 28 20:56:59 Checksum plugin unloaded
+**** BEGIN LOGGING AT Tue Aug 28 20:57:29 2018
+
+Aug 28 20:57:29 *	Welcome to the freenode Internet Relay Chat Network GoatWizard
+Aug 28 20:57:29 *	Your host is wilhelm.freenode.net[2001:41d0:401:3100::5136/6697], running version ircd-seven-1.1.7
+Aug 28 20:57:29 *	This server was created Tue Aug 21 2018 at 18:40:23 UTC
+Aug 28 20:57:29 *	wilhelm.freenode.net ircd-seven-1.1.7 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+Aug 28 20:57:29 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Aug 28 20:57:29 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE SAFELIST :are supported by this server
+Aug 28 20:57:29 *	ELIST=CTU WHOX ETRACE KNOCK :are supported by this server
+Aug 28 20:57:29 *	There are 116 users and 83266 invisible on 31 servers
+Aug 28 20:57:29 *	31 :IRC Operators online
+Aug 28 20:57:29 *	4 :unknown connection(s)
+Aug 28 20:57:29 *	45314 :channels formed
+Aug 28 20:57:29 *	I have 8028 clients and 1 servers
+Aug 28 20:57:29 *	8028 9004 :Current local users 8028, max 9004
+Aug 28 20:57:29 *	83382 88594 :Current global users 83382, max 88594
+Aug 28 20:57:29 *	Highest connection count: 9005 (9004 clients) (130527 connections received)
+Aug 28 20:57:29 *	- wilhelm.freenode.net Message of the Day - 
+Aug 28 20:57:29 *	- Welcome to wilhelm.freenode.net in Strasbourg, France. 
+Aug 28 20:57:29 *	- Thanks to http://digitaltreemedia.co.uk/ for sponsoring
+Aug 28 20:57:29 *	- this server!
+Aug 28 20:57:29 *	-  
+Aug 28 20:57:29 *	- Welcome to freenode - supporting the free and open source
+Aug 28 20:57:29 *	- software communities since 1998.
+Aug 28 20:57:29 *	-  
+Aug 28 20:57:29 *	- By connecting to freenode you indicate that you have read and
+Aug 28 20:57:29 *	- accept our policies and guidelines as set out on https://freenode.net
+Aug 28 20:57:29 *	-  
+Aug 28 20:57:29 *	- In the event that you observe behaviour that contravenes our policies,
+Aug 28 20:57:29 *	- please notify a volunteer staff member via private message, or send us an
+Aug 28 20:57:29 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Aug 28 20:57:29 *	- situation within a reasonable period of time, and we may request further
+Aug 28 20:57:29 *	- information or, as appropriate, involve other parties such as channel operators 
+Aug 28 20:57:29 *	- Group Contacts representing an on-topic group.
+Aug 28 20:57:29 *	-  
+Aug 28 20:57:29 *	- freenode runs an open proxy scanner.
+Aug 28 20:57:29 *	-  
+Aug 28 20:57:29 *	- If you are looking for assistance, you will be able to find a list of
+Aug 28 20:57:29 *	- volunteer staff using the '/who freenode/staff/*' command, and you may
+Aug 28 20:57:29 *	- message any of us at any time. Please note that freenode predominantly
+Aug 28 20:57:29 *	- provides assistance via private message, and while we have a network
+Aug 28 20:57:29 *	- channel the primary venue for support requests is via private message to
+Aug 28 20:57:29 *	- a member of the volunteer staff team.
+Aug 28 20:57:29 *	-  
+Aug 28 20:57:29 *	- From time to time, volunteer staff may send server-wide notices relating to
+Aug 28 20:57:29 *	- the project, or the communities that we host. The majority of such notices
+Aug 28 20:57:29 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Aug 28 20:57:29 *	- do not miss them. Important messages relating to the freenode project, including
+Aug 28 20:57:29 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Aug 28 20:57:29 *	- global notices.
+Aug 28 20:57:29 *	-  
+Aug 28 20:57:29 *	- Representing an on-topic project? Don't forget to register, more information
+Aug 28 20:57:29 *	- can be found on the https://freenode.net website under "Group Registration".
+Aug 28 20:57:29 *	-  
+Aug 28 20:57:29 *	- freenode organises an annual conference, and we would like to extend our
+Aug 28 20:57:29 *	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+Aug 28 20:57:29 *	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+Aug 28 20:57:29 *	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+Aug 28 20:57:29 *	-  
+Aug 28 20:57:29 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Aug 28 20:57:29 *	- network going for close to two decades.
+Aug 28 20:57:29 *	-  
+Aug 28 20:57:29 *	- freenode #live returns to Bristol, UK on November 3rd-4th 2018. Our Call for
+Aug 28 20:57:29 *	- Proposals is live at https://freenode.live and open until July 31, 2018. If 
+Aug 28 20:57:29 *	- you are interested in sponsoring this event, please send an e-mail to
+Aug 28 20:57:29 *	- sponsor@freenode.live
+Aug 28 20:57:29 *	-  
+Aug 28 20:57:29 *	- Thank you for using freenode!
+Aug 28 20:57:29 *	-  
+Aug 28 20:57:29 *	-  
+Aug 28 20:57:29 *	End of /MOTD command.
+Aug 28 20:57:29 *	GoatWizard sets mode +R on GoatWizard
+Aug 28 20:57:29 *	GoatWizard sets mode +Z on GoatWizard
+Aug 28 20:57:29 *	GoatWizard sets mode +i on GoatWizard
+Aug 28 20:57:29 -freenode-connect-	Due to the persistent ongoing spam, all new connections are being set +R (block messages from unidentified users) and will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Aug 28 20:57:29 *	Received a CTCP VERSION from freenode-connect
+Aug 28 20:57:35 *	JOIN :Not enough parameters
+Aug 28 21:05:25 *	No ping reply for 89 seconds, disconnecting.
+Aug 28 21:05:25 *	Disconnected ()
+Aug 28 21:05:35 *	Looking up chat.freenode.net
+Aug 28 21:05:36 *	Connecting to chat.freenode.net (2001:708:40:2001::f5ee:d0de:6697)
+Aug 28 21:05:37 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Aug 28 21:05:37 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Aug 28 21:05:37 *	* Subject: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Aug 28 21:05:37 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Aug 28 21:05:37 *	* Subject: /CN=rajaniemi.freenode.net
+Aug 28 21:05:37 *	* Issuer: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Aug 28 21:05:37 *	* Certification info:
+Aug 28 21:05:37 *	  Subject:
+Aug 28 21:05:37 *	    CN=rajaniemi.freenode.net
+Aug 28 21:05:37 *	  Issuer:
+Aug 28 21:05:37 *	    C=US
+Aug 28 21:05:37 *	    O=Let's Encrypt
+Aug 28 21:05:37 *	    CN=Let's Encrypt Authority X3
+Aug 28 21:05:37 *	  Public key algorithm: rsaEncryption (4096 bits)
+Aug 28 21:05:37 *	  Sign algorithm sha256WithRSAEncryption
+Aug 28 21:05:37 *	  Valid since Jul 30 05:05:25 2018 GM to Oct 28 05:05:25 2018 GM
+Aug 28 21:05:37 *	* Cipher info:
+Aug 28 21:05:37 *	  Version: TLSv1.2, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+Aug 28 21:05:37 *	Connected. Now logging in.
+Aug 28 21:05:38 *	*** Looking up your hostname...
+Aug 28 21:05:38 *	*** Checking Ident
+Aug 28 21:05:38 *	*** Couldn't look up your hostname
+Aug 28 21:05:38 *	*** No Ident response
+Aug 28 21:05:38 *	Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+Aug 28 21:05:38 *	Capabilities requested: account-notify extended-join identify-msg multi-prefix sasl 
+Aug 28 21:05:38 *	Capabilities acknowledged: account-notify extended-join identify-msg multi-prefix sasl 
+Aug 28 21:05:39 *	Authenticating via SASL as MichaelTheGoatWi (PLAIN)
+Aug 28 21:05:40 *	You are now logged in as MichaelTheGoatWi.
+Aug 28 21:05:40 *	SASL authentication successful
+Aug 28 21:05:40 *	Welcome to the freenode Internet Relay Chat Network GoatWizard
+Aug 28 21:05:40 *	Your host is rajaniemi.freenode.net[2001:708:40:2001::f5ee:d0de/6697], running version ircd-seven-1.1.7
+Aug 28 21:05:40 *	This server was created Thu Aug 23 2018 at 15:08:05 UTC
+Aug 28 21:05:40 *	rajaniemi.freenode.net ircd-seven-1.1.7 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+Aug 28 21:05:40 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Aug 28 21:05:40 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 WHOX MONITOR=100 SAFELIST :are supported by this server
+Aug 28 21:05:40 *	ELIST=CTU KNOCK CPRIVMSG CNOTICE ETRACE :are supported by this server
+Aug 28 21:05:40 *	There are 116 users and 83269 invisible on 32 servers
+Aug 28 21:05:40 *	31 :IRC Operators online
+Aug 28 21:05:40 *	38 :unknown connection(s)
+Aug 28 21:05:40 *	45336 :channels formed
+Aug 28 21:05:40 *	I have 1530 clients and 1 servers
+Aug 28 21:05:40 *	1530 1530 :Current local users 1530, max 1530
+Aug 28 21:05:40 *	83385 83595 :Current global users 83385, max 83595
+Aug 28 21:05:40 *	Highest connection count: 1531 (1530 clients) (1849 connections received)
+Aug 28 21:05:40 *	- rajaniemi.freenode.net Message of the Day - 
+Aug 28 21:05:40 *	- Welcome to rajaniemi.freenode.net in Helsinki, Finland.  Our thanks to
+Aug 28 21:05:40 *	- Aalto University for sponsoring this server!
+Aug 28 21:05:41 *	-  
+Aug 28 21:05:41 *	- RAJANIEMI, Hannu  (1978-). Born in Ylivieska, Finland, Rajaniemi is the
+Aug 28 21:05:41 *	- author of two novels and several short stories, and his debut novel 'The
+Aug 28 21:05:41 *	- Quantum Thief' was nominated for the 2011 Locus Award for Best First
+Aug 28 21:05:41 *	- Novel.  Rajaniemi lives in Edinburgh, Scotland where he is founding
+Aug 28 21:05:41 *	- director of ThinkTank Maths, a commercial research organisation.
+Aug 28 21:05:41 *	-  
+Aug 28 21:05:41 *	-  
+Aug 28 21:05:41 *	- Welcome to freenode - supporting the free and open source
+Aug 28 21:05:41 *	- software communities since 1998.
+Aug 28 21:05:41 *	-  
+Aug 28 21:05:41 *	- By connecting to freenode you indicate that you have read and
+Aug 28 21:05:41 *	- accept our policies and guidelines as set out on https://freenode.net
+Aug 28 21:05:41 *	-  
+Aug 28 21:05:41 *	- In the event that you observe behaviour that contravenes our policies,
+Aug 28 21:05:41 *	- please notify a volunteer staff member via private message, or send us an
+Aug 28 21:05:41 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Aug 28 21:05:41 *	- situation within a reasonable period of time, and we may request further
+Aug 28 21:05:41 *	- information or, as appropriate, involve other parties such as channel operators 
+Aug 28 21:05:41 *	- Group Contacts representing an on-topic group.
+Aug 28 21:05:41 *	-  
+Aug 28 21:05:41 *	- freenode runs an open proxy scanner.
+Aug 28 21:05:41 *	-  
+Aug 28 21:05:41 *	- If you are looking for assistance, you will be able to find a list of
+Aug 28 21:05:41 *	- volunteer staff using the '/who freenode/staff/*' command, and you may
+Aug 28 21:05:41 *	- message any of us at any time. Please note that freenode predominantly
+Aug 28 21:05:41 *	- provides assistance via private message, and while we have a network
+Aug 28 21:05:41 *	- channel the primary venue for support requests is via private message to
+Aug 28 21:05:41 *	- a member of the volunteer staff team.
+Aug 28 21:05:41 *	-  
+Aug 28 21:05:41 *	- From time to time, volunteer staff may send server-wide notices relating to
+Aug 28 21:05:41 *	- the project, or the communities that we host. The majority of such notices
+Aug 28 21:05:41 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Aug 28 21:05:41 *	- do not miss them. Important messages relating to the freenode project, including
+Aug 28 21:05:41 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Aug 28 21:05:41 *	- global notices.
+Aug 28 21:05:41 *	-  
+Aug 28 21:05:41 *	- Representing an on-topic project? Don't forget to register, more information
+Aug 28 21:05:41 *	- can be found on the https://freenode.net website under "Group Registration".
+Aug 28 21:05:41 *	-  
+Aug 28 21:05:41 *	- freenode organises an annual conference, and we would like to extend our
+Aug 28 21:05:41 *	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+Aug 28 21:05:41 *	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+Aug 28 21:05:41 *	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+Aug 28 21:05:41 *	-  
+Aug 28 21:05:41 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Aug 28 21:05:41 *	- network going for close to two decades.
+Aug 28 21:05:41 *	-  
+Aug 28 21:05:41 *	- freenode #live returns to Bristol, UK on November 3rd-4th 2018. Our Call for
+Aug 28 21:05:41 *	- Proposals is live at https://freenode.live and open until July 31, 2018. If 
+Aug 28 21:05:41 *	- you are interested in sponsoring this event, please send an e-mail to
+Aug 28 21:05:41 *	- sponsor@freenode.live
+Aug 28 21:05:41 *	-  
+Aug 28 21:05:41 *	- Thank you for using freenode!
+Aug 28 21:05:41 *	-  
+Aug 28 21:05:41 *	-  
+Aug 28 21:05:41 *	End of /MOTD command.
+Aug 28 21:28:25 *	No ping reply for 89 seconds, disconnecting.
+Aug 28 21:28:25 *	Disconnected ()
+Aug 28 21:28:35 *	Looking up chat.freenode.net
+Aug 28 21:28:35 *	Connecting to chat.freenode.net (2600:3c02::f03c:91ff:fe59:7d2e:6697)
+Aug 28 21:28:37 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Aug 28 21:28:37 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Aug 28 21:28:37 *	* Subject: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Aug 28 21:28:37 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Aug 28 21:28:37 *	* Subject: /CN=moon.freenode.net
+Aug 28 21:28:37 *	* Issuer: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Aug 28 21:28:37 *	* Certification info:
+Aug 28 21:28:37 *	  Subject:
+Aug 28 21:28:37 *	    CN=moon.freenode.net
+Aug 28 21:28:37 *	  Issuer:
+Aug 28 21:28:37 *	    C=US
+Aug 28 21:28:37 *	    O=Let's Encrypt
+Aug 28 21:28:37 *	    CN=Let's Encrypt Authority X3
+Aug 28 21:28:37 *	  Public key algorithm: rsaEncryption (4096 bits)
+Aug 28 21:28:37 *	  Sign algorithm sha256WithRSAEncryption
+Aug 28 21:28:37 *	  Valid since Jul 20 17:47:51 2018 GM to Oct 18 17:47:51 2018 GM
+Aug 28 21:28:37 *	* Cipher info:
+Aug 28 21:28:37 *	  Version: TLSv1.2, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+Aug 28 21:28:37 *	Connected. Now logging in.
+Aug 28 21:28:37 *	*** Looking up your hostname...
+Aug 28 21:28:37 *	*** Checking Ident
+Aug 28 21:28:37 *	*** Couldn't look up your hostname
+Aug 28 21:28:37 *	*** No Ident response
+Aug 28 21:28:38 *	Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+Aug 28 21:28:38 *	Capabilities requested: account-notify extended-join identify-msg multi-prefix sasl 
+Aug 28 21:28:39 *	Capabilities acknowledged: account-notify extended-join identify-msg multi-prefix sasl 
+Aug 28 21:28:40 *	Authenticating via SASL as MichaelTheGoatWi (PLAIN)
+Aug 28 21:28:40 *	You are now logged in as MichaelTheGoatWi.
+Aug 28 21:28:40 *	SASL authentication successful
+Aug 28 21:28:40 *	Welcome to the freenode Internet Relay Chat Network GoatWizard
+Aug 28 21:28:40 *	Your host is moon.freenode.net[2600:3c02::f03c:91ff:fe59:7d2e/6697], running version ircd-seven-1.1.7
+Aug 28 21:28:40 *	This server was created Mon Aug 27 2018 at 22:46:47 UTC
+Aug 28 21:28:40 *	moon.freenode.net ircd-seven-1.1.7 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+Aug 28 21:28:40 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Aug 28 21:28:40 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU CPRIVMSG :are supported by this server
+Aug 28 21:28:40 *	CNOTICE MONITOR=100 WHOX ETRACE KNOCK :are supported by this server
+Aug 28 21:28:40 *	There are 118 users and 83218 invisible on 32 servers
+Aug 28 21:28:40 *	31 :IRC Operators online
+Aug 28 21:28:40 *	33 :unknown connection(s)
+Aug 28 21:28:40 *	45350 :channels formed
+Aug 28 21:28:40 *	I have 156 clients and 1 servers
+Aug 28 21:28:40 *	156 156 :Current local users 156, max 156
+Aug 28 21:28:40 *	83336 83421 :Current global users 83336, max 83421
+Aug 28 21:28:40 *	Highest connection count: 157 (156 clients) (263 connections received)
+Aug 28 21:28:40 *	- moon.freenode.net Message of the Day - 
+Aug 28 21:28:40 *	- Welcome to moon.freenode.net in Atlanta, GA, US! Thanks to
+Aug 28 21:28:40 *	- Linode for sponsoring this server!
+Aug 28 21:28:40 *	-  
+Aug 28 21:28:40 *	- MOON, ELIZABETH (1945-) Born in South Texas, USA, 
+Aug 28 21:28:40 *	- Elizabeth Moon is an American science fiction and fantasy
+Aug 28 21:28:40 *	- author with over 20 published works. Her novel The Speed 
+Aug 28 21:28:40 *	- Of Dark received the Arthur C. Clarke and Nebula Awards in 2003
+Aug 28 21:28:40 *	-  
+Aug 28 21:28:40 *	- Welcome to freenode - supporting the free and open source
+Aug 28 21:28:40 *	- software communities since 1998.
+Aug 28 21:28:40 *	-  
+Aug 28 21:28:40 *	- By connecting to freenode you indicate that you have read and
+Aug 28 21:28:40 *	- accept our policies and guidelines as set out on https://freenode.net
+Aug 28 21:28:40 *	-  
+Aug 28 21:28:40 *	- In the event that you observe behaviour that contravenes our policies,
+Aug 28 21:28:40 *	- please notify a volunteer staff member via private message, or send us an
+Aug 28 21:28:40 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Aug 28 21:28:40 *	- situation within a reasonable period of time, and we may request further
+Aug 28 21:28:40 *	- information or, as appropriate, involve other parties such as channel operators 
+Aug 28 21:28:40 *	- Group Contacts representing an on-topic group.
+Aug 28 21:28:40 *	-  
+Aug 28 21:28:40 *	- freenode runs an open proxy scanner.
+Aug 28 21:28:40 *	-  
+Aug 28 21:28:40 *	- If you are looking for assistance, you will be able to find a list of
+Aug 28 21:28:40 *	- volunteer staff using the '/who freenode/staff/*' command, and you may
+Aug 28 21:28:40 *	- message any of us at any time. Please note that freenode predominantly
+Aug 28 21:28:40 *	- provides assistance via private message, and while we have a network
+Aug 28 21:28:40 *	- channel the primary venue for support requests is via private message to
+Aug 28 21:28:40 *	- a member of the volunteer staff team.
+Aug 28 21:28:40 *	-  
+Aug 28 21:28:40 *	- From time to time, volunteer staff may send server-wide notices relating to
+Aug 28 21:28:40 *	- the project, or the communities that we host. The majority of such notices
+Aug 28 21:28:40 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Aug 28 21:28:40 *	- do not miss them. Important messages relating to the freenode project, including
+Aug 28 21:28:40 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Aug 28 21:28:40 *	- global notices.
+Aug 28 21:28:40 *	-  
+Aug 28 21:28:40 *	- Representing an on-topic project? Don't forget to register, more information
+Aug 28 21:28:40 *	- can be found on the https://freenode.net website under "Group Registration".
+Aug 28 21:28:40 *	-  
+Aug 28 21:28:40 *	- freenode organises an annual conference, and we would like to extend our
+Aug 28 21:28:40 *	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+Aug 28 21:28:40 *	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+Aug 28 21:28:40 *	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+Aug 28 21:28:40 *	-  
+Aug 28 21:28:40 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Aug 28 21:28:40 *	- network going for close to two decades.
+Aug 28 21:28:40 *	-  
+Aug 28 21:28:40 *	- freenode #live returns to Bristol, UK on November 3rd-4th 2018. Our Call for
+Aug 28 21:28:40 *	- Proposals is live at https://freenode.live and open until July 31, 2018. If 
+Aug 28 21:28:40 *	- you are interested in sponsoring this event, please send an e-mail to
+Aug 28 21:28:40 *	- sponsor@freenode.live
+Aug 28 21:28:40 *	-  
+Aug 28 21:28:40 *	- Thank you for using freenode!
+Aug 28 21:28:40 *	-  
+Aug 28 21:28:40 *	-  
+Aug 28 21:28:40 *	End of /MOTD command.
+Aug 29 08:01:35 -SaslServ-	<Unknown user (via SASL):2607:fb90:40e8:11c3:65bf:28da:1f30:486d> failed to login to MichaelTheGoatWi.  There has been 1 failed login attempt since your last successful login.
+Aug 29 08:02:04 -SaslServ-	<Unknown user (via SASL):2607:fb90:40e8:11c3:65bf:28da:1f30:486d> failed to login to MichaelTheGoatWi.  There have been 2 failed login attempts since your last successful login.
+Aug 29 08:03:13 -SaslServ-	<Unknown user (via SASL):2607:fb90:40e8:11c3:65bf:28da:1f30:486d> failed to login to MichaelTheGoatWi.  There have been 3 failed login attempts since your last successful login.
+Aug 29 08:04:52 -SaslServ-	dhand!~androirc@2607:fb90:40e8:11c3:65bf:28da:1f30:486d has just authenticated as you (MichaelTheGoatWi)
+Aug 29 12:36:49 -SaslServ-	docfd!~androirc@2607:fb90:40e8:11c3:65bf:28da:1f30:486d has just authenticated as you (MichaelTheGoatWi)
+Aug 29 17:00:26 Sysinfo plugin unloaded
+Aug 29 17:00:26 Checksum plugin unloaded
+Aug 29 17:00:26 FiSHLiM plugin unloaded
+**** BEGIN LOGGING AT Thu Aug 30 22:14:43 2018
+
+Aug 30 22:14:43 *	Welcome to the freenode Internet Relay Chat Network GoatWizard
+Aug 30 22:14:43 *	Your host is moon.freenode.net[2600:3c02::f03c:91ff:fe59:7d2e/6697], running version ircd-seven-1.1.7
+Aug 30 22:14:43 *	This server was created Mon Aug 27 2018 at 22:46:47 UTC
+Aug 30 22:14:43 *	moon.freenode.net ircd-seven-1.1.7 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+Aug 30 22:14:43 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Aug 30 22:14:43 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU CPRIVMSG :are supported by this server
+Aug 30 22:14:43 *	CNOTICE WHOX ETRACE KNOCK :are supported by this server
+Aug 30 22:14:43 *	There are 120 users and 84109 invisible on 32 servers
+Aug 30 22:14:43 *	32 :IRC Operators online
+Aug 30 22:14:43 *	1 :unknown connection(s)
+Aug 30 22:14:43 *	45689 :channels formed
+Aug 30 22:14:43 *	I have 2869 clients and 1 servers
+Aug 30 22:14:43 *	2869 3342 :Current local users 2869, max 3342
+Aug 30 22:14:43 *	84229 89381 :Current global users 84229, max 89381
+Aug 30 22:14:43 *	Highest connection count: 3343 (3342 clients) (29512 connections received)
+Aug 30 22:14:43 *	- moon.freenode.net Message of the Day - 
+Aug 30 22:14:43 *	- Welcome to moon.freenode.net in Atlanta, GA, US! Thanks to
+Aug 30 22:14:43 *	- Linode for sponsoring this server!
+Aug 30 22:14:43 *	-  
+Aug 30 22:14:43 *	- MOON, ELIZABETH (1945-) Born in South Texas, USA, 
+Aug 30 22:14:43 *	- Elizabeth Moon is an American science fiction and fantasy
+Aug 30 22:14:43 *	- author with over 20 published works. Her novel The Speed 
+Aug 30 22:14:43 *	- Of Dark received the Arthur C. Clarke and Nebula Awards in 2003
+Aug 30 22:14:43 *	-  
+Aug 30 22:14:43 *	- Welcome to freenode - supporting the free and open source
+Aug 30 22:14:43 *	- software communities since 1998.
+Aug 30 22:14:43 *	-  
+Aug 30 22:14:43 *	- By connecting to freenode you indicate that you have read and
+Aug 30 22:14:43 *	- accept our policies and guidelines as set out on https://freenode.net
+Aug 30 22:14:43 *	-  
+Aug 30 22:14:43 *	- In the event that you observe behaviour that contravenes our policies,
+Aug 30 22:14:43 *	- please notify a volunteer staff member via private message, or send us an
+Aug 30 22:14:43 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Aug 30 22:14:43 *	- situation within a reasonable period of time, and we may request further
+Aug 30 22:14:43 *	- information or, as appropriate, involve other parties such as channel operators 
+Aug 30 22:14:43 *	- Group Contacts representing an on-topic group.
+Aug 30 22:14:43 *	-  
+Aug 30 22:14:43 *	- freenode runs an open proxy scanner.
+Aug 30 22:14:43 *	-  
+Aug 30 22:14:43 *	- If you are looking for assistance, you will be able to find a list of
+Aug 30 22:14:43 *	- volunteer staff using the '/who freenode/staff/*' command, and you may
+Aug 30 22:14:43 *	- message any of us at any time. Please note that freenode predominantly
+Aug 30 22:14:43 *	- provides assistance via private message, and while we have a network
+Aug 30 22:14:43 *	- channel the primary venue for support requests is via private message to
+Aug 30 22:14:43 *	- a member of the volunteer staff team.
+Aug 30 22:14:43 *	-  
+Aug 30 22:14:43 *	- From time to time, volunteer staff may send server-wide notices relating to
+Aug 30 22:14:43 *	- the project, or the communities that we host. The majority of such notices
+Aug 30 22:14:43 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Aug 30 22:14:43 *	- do not miss them. Important messages relating to the freenode project, including
+Aug 30 22:14:43 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Aug 30 22:14:43 *	- global notices.
+Aug 30 22:14:43 *	-  
+Aug 30 22:14:43 *	- Representing an on-topic project? Don't forget to register, more information
+Aug 30 22:14:43 *	- can be found on the https://freenode.net website under "Group Registration".
+Aug 30 22:14:43 *	-  
+Aug 30 22:14:43 *	- freenode organises an annual conference, and we would like to extend our
+Aug 30 22:14:43 *	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+Aug 30 22:14:43 *	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+Aug 30 22:14:43 *	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+Aug 30 22:14:43 *	-  
+Aug 30 22:14:43 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Aug 30 22:14:43 *	- network going for close to two decades.
+Aug 30 22:14:43 *	-  
+Aug 30 22:14:43 *	- freenode #live returns to Bristol, UK on November 3rd-4th 2018. Our Call for
+Aug 30 22:14:43 *	- Proposals is live at https://freenode.live and open until July 31, 2018. If 
+Aug 30 22:14:43 *	- you are interested in sponsoring this event, please send an e-mail to
+Aug 30 22:14:43 *	- sponsor@freenode.live
+Aug 30 22:14:43 *	-  
+Aug 30 22:14:43 *	- Thank you for using freenode!
+Aug 30 22:14:43 *	-  
+Aug 30 22:14:43 *	-  
+Aug 30 22:14:43 *	End of /MOTD command.
+Aug 30 22:14:43 *	GoatWizard sets mode +R on GoatWizard
+Aug 30 22:14:43 *	GoatWizard sets mode +Z on GoatWizard
+Aug 30 22:14:43 *	GoatWizard sets mode +i on GoatWizard
+Aug 30 22:14:43 -freenode-connect-	Due to the persistent ongoing spam, all new connections are being set +R (block messages from unidentified users) and will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Aug 30 22:14:43 *	Received a CTCP VERSION from freenode-connect
+Aug 30 22:14:49 *	JOIN :Not enough parameters
+Aug 31 16:20:27 Sysinfo plugin unloaded
+Aug 31 16:20:27 Checksum plugin unloaded

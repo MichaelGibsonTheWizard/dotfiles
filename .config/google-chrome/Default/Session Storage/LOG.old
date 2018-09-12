@@ -1,0 +1,48 @@
+2018/09/06-23:41:07.806 21343 Reusing MANIFEST /home/goatwizard/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2018/09/06-23:41:07.806 21343 Recovering log #53
+2018/09/06-23:41:07.857 21343 Reusing old log /home/goatwizard/.config/google-chrome/Default/Session Storage/000053.log 
+2018/09/06-23:44:05.040 22959 Level-0 table #58: started
+2018/09/06-23:44:05.070 22959 Level-0 table #58: 17162 bytes OK
+2018/09/06-23:44:05.137 22959 Delete type=0 #53
+2018/09/06-23:45:57.527 22959 Level-0 table #60: started
+2018/09/06-23:45:57.561 22959 Level-0 table #60: 16378 bytes OK
+2018/09/06-23:45:57.587 22959 Delete type=0 #57
+2018/09/06-23:49:26.430 22959 Level-0 table #62: started
+2018/09/06-23:49:26.451 22959 Level-0 table #62: 16804 bytes OK
+2018/09/06-23:49:26.476 22959 Delete type=0 #59
+2018/09/06-23:55:15.006 22959 Level-0 table #64: started
+2018/09/06-23:55:15.026 22959 Level-0 table #64: 17494 bytes OK
+2018/09/06-23:55:15.052 22959 Delete type=0 #61
+2018/09/06-23:55:15.052 22959 Compacting 4@0 + 1@1 files
+2018/09/06-23:55:15.093 22959 Generated table #65@0: 3408 keys, 179730 bytes
+2018/09/06-23:55:15.093 22959 Compacted 4@0 + 1@1 files => 179730 bytes
+2018/09/06-23:55:15.119 22959 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/09/06-23:55:15.119 22959 Delete type=2 #64
+2018/09/06-23:55:15.119 22959 Delete type=2 #62
+2018/09/06-23:55:15.119 22959 Delete type=2 #55
+2018/09/06-23:55:15.119 22959 Delete type=2 #60
+2018/09/06-23:55:15.119 22959 Delete type=2 #58
+2018/09/07-00:06:11.680 22959 Level-0 table #67: started
+2018/09/07-00:06:11.717 22959 Level-0 table #67: 13815 bytes OK
+2018/09/07-00:06:11.743 22959 Delete type=0 #63
+2018/09/07-00:31:07.156 22959 Level-0 table #69: started
+2018/09/07-00:31:07.187 22959 Level-0 table #69: 15084 bytes OK
+2018/09/07-00:31:07.221 22959 Delete type=0 #66
+2018/09/07-00:44:26.939 22959 Level-0 table #71: started
+2018/09/07-00:44:26.979 22959 Level-0 table #71: 19651 bytes OK
+2018/09/07-00:44:27.004 22959 Delete type=0 #68
+2018/09/07-01:44:27.200 22959 Level-0 table #73: started
+2018/09/07-01:44:27.241 22959 Level-0 table #73: 19078 bytes OK
+2018/09/07-01:44:27.267 22959 Delete type=0 #70
+2018/09/07-01:44:27.267 22959 Compacting 4@0 + 1@1 files
+2018/09/07-01:44:27.301 22959 Generated table #74@0: 3601 keys, 240152 bytes
+2018/09/07-01:44:27.301 22959 Compacted 4@0 + 1@1 files => 240152 bytes
+2018/09/07-01:44:27.334 22959 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/09/07-01:44:27.334 22959 Delete type=2 #73
+2018/09/07-01:44:27.334 22959 Delete type=2 #65
+2018/09/07-01:44:27.334 22959 Delete type=2 #67
+2018/09/07-01:44:27.334 22959 Delete type=2 #71
+2018/09/07-01:44:27.334 22959 Delete type=2 #69
+2018/09/07-02:05:24.394 22959 Level-0 table #76: started
+2018/09/07-02:05:24.422 22959 Level-0 table #76: 25142 bytes OK
+2018/09/07-02:05:24.466 22959 Delete type=0 #72

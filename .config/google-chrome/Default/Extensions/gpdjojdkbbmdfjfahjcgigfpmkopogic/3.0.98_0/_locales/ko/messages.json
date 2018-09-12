@@ -1,0 +1,30 @@
+{
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "죄송합니다. 이 이미지는 저장할 수 없습니다."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "웹에서 찾은 내용을 저장하세요. "
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterest 저장 버튼"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "마우스 오버 저장 버튼 숨기기"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Pinterest 저장 버튼 옵션"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "저장"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "검색"
+   }
+}

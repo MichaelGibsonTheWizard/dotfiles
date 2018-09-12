@@ -1,0 +1,30 @@
+{
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Niestety, ten obraz nie może być zapisany."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Zapisuj rzeczy, które znajdujesz w sieci."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterestowy przycisk Zapisz"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Ukryj przyciski Zapisz na warstwie obrazka"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Opcje przycisku Zapisz"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Zapisz"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Szukaj"
+   }
+}

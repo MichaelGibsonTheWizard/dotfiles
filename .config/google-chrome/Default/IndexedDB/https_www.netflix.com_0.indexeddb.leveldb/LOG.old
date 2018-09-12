@@ -1,0 +1,6 @@
+2018/08/04-21:24:20.766 2757 Reusing MANIFEST /home/goatwizard/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/08/04-21:24:20.766 2757 Recovering log #4
+2018/08/04-21:24:20.874 2757 Reusing old log /home/goatwizard/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000004.log 
+2018/08/04-22:14:21.006 7437 Level-0 table #8: started
+2018/08/04-22:14:21.107 7437 Level-0 table #8: 1502362 bytes OK
+2018/08/04-22:14:21.173 7437 Delete type=0 #4

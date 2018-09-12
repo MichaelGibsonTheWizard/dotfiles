@@ -1,0 +1,11 @@
+enabled = true
+
+[[plugs]]
+name = "vimtex"
+url = "https://git::@github.com/lervag/vimtex.git"
+removed = false
+
+[[plugs]]
+name = "haskell-vim"
+url = "https://github.com/neovimhaskell/haskell-vim"
+removed = false

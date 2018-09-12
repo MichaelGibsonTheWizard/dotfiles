@@ -1,0 +1,30 @@
+{
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Prepáčte, tento obrázok sa nedá uložiť."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Uložte si veci, ktoré nájdete na internete."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Tlačidlo Uložiť na Pintereste"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Skryť plávajúce tlačidlá Uložiť"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Možnosti tlačidla Uložiť"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Uložiť"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Hľadať"
+   }
+}

@@ -1,0 +1,14 @@
+# settings
+
+(GimpGegl-gegl-color-to-alpha-config "2018-07-18 02:09:47"
+    (time 1531897787)
+    (color (color-rgba 1.000000 1.000000 1.000000 1.000000))
+    (transparency-threshold 1.000000)
+    (opacity-threshold 1.000000))
+(GimpGegl-gegl-color-to-alpha-config "2018-07-18 01:52:22"
+    (time 1531896742)
+    (color (color-rgba 1.000000 1.000000 1.000000 1.000000))
+    (transparency-threshold 0.000000)
+    (opacity-threshold 1.000000))
+
+# end of settings

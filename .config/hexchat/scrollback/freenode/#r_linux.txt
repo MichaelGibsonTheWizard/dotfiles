@@ -1,0 +1,603 @@
+T 1535501358 19*	Now talking on 22#r/linux
+T 1535501358 22*	Topic for 22#r/linux is: Cannot send to channel? Register your nick: https://freenode.net/kb/answer/registration
+T 1535501358 22*	Topic for 22#r/linux set by 26dhscholb (24Wed Aug  8 16:54:05 2018)
+T 1535501580 19*	Now talking on 22#r/linux
+T 1535501580 22*	Topic for 22#r/linux is: Cannot send to channel? Register your nick: https://freenode.net/kb/answer/registration
+T 1535501580 22*	Topic for 22#r/linux set by 26dhscholb (24Wed Aug  8 16:54:05 2018)
+T 1535502124 18<ouemt18>	Jesus fuck how do you connect to a wpa2 network from the cli
+T 1535502131 18<ouemt18>	I can see them but not connect
+T 1535502345 20<GoatWizard>30	Use WPA_supplicant: https://wiki.archlinux.org/index.php/WPA_supplicant#Advanced_usage
+T 1535502346 18<irkbot18>	^ WPA supplicant - ArchWiki - [wiki.archlinux.org]
+T 1535502367 18<icarusthecow18>	wicd-curses
+T 1535502495 20*	Disconnected (20)
+T 1535502512 22*	26GoatWizard sets mode 24+R on 22GoatWizard
+T 1535502512 22*	26GoatWizard sets mode 24+Z on 22GoatWizard
+T 1535502512 22*	26GoatWizard sets mode 24+i on 22GoatWizard
+T 1535502512 -18freenode-connect-	Due to the persistent ongoing spam, all new connections are being set +R (block messages from unidentified users) and will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+T 1535502512 24*	Received a CTCP 24VERSION from 18freenode-connect
+T 1535502517 19*	Now talking on 22#r/linux
+T 1535502517 22*	Topic for 22#r/linux is: Cannot send to channel? Register your nick: https://freenode.net/kb/answer/registration
+T 1535502517 22*	Topic for 22#r/linux set by 26dhscholb (24Wed Aug  8 16:54:05 2018)
+T 1535502720 18<ouemt18>	Doesn’t work
+T 1535502795 18<jrobeson18>	ouemt, if you're using networkmanager then using nm-cli
+T 1535502819 18<ouemt18>	Hmm. Managed to get it after a reboot this time
+T 1535502838 18<ouemt18>	jrobeson I’ve been trying
+T 1535503042 18<ouemt18>	It’s prolly the shitty fucking wifi driver for this laptop
+T 1535503234 18<jrobeson18>	what chip is it?
+T 1535503254 19<jrobeson>	GoatWizard, nobody should use wpa_supplicant directly if they have something like wicd or networkmanager or some other frontend
+T 1535503266 18<jrobeson18>	wpa_supplicant needs to die. i wonder whne that intel thing is gonna be ready
+T 1535503273 18<jrobeson18>	icarusthecow, 
+T 1535503279 18<jrobeson18>	https://twitter.com/Popehat/status/1034589746033389568
+T 1535503279 18<irkbot18>	^ Individual-1Hat on Twitter: "dear @elonmusk does the @Tesla autopilot function help if your own vision is temporarily impairedlike by some sort of water or something" - [twitter.com]
+T 1535503297 18<jrobeson18>	poor elon.. 
+T 1535503472 18<ouemt18>	jrobeson: MT7630E
+T 1535503485 18<jrobeson18>	that's not a chipset i've ever heard of
+T 1535503494 18<ouemt18>	Thank ASUS for that
+T 1535503641 18<jrobeson18>	might be cheapre for you to just buy an intel replacement and plug it in
+T 1535503647 18<jrobeson18>	or atheros
+T 1535503746 18<ouemt18>	Cheaper is not the word you were looking for. Lol
+T 1535503777 18<jrobeson18>	yes it is
+T 1535503777 18<jrobeson18>	assuming your time is even worth a few dollars an hour
+T 1535503797 18<ouemt18>	Grad student, so no
+T 1535503821 18<jrobeson18>	it should be worth that much.. 
+T 1535503836 18<jrobeson18>	maybe not like $10.. but it's at least worth $3
+T 1535503837 18<icarusthecow18>	bout tree fiddy
+T 1535503856 18<jrobeson18>	exactly
+T 1535503873 18<jrobeson18>	icarusthecow, hello
+T 1535503941 18<icarusthecow18>	moo
+T 1535503952 18<jrobeson18>	moo indeed
+T 1535504012 18<ouemt18>	My goddamn mac address changes every reboot...
+T 1535504032 18<jrobeson18>	is that without networkmanager turned on?
+T 1535504037 18<jrobeson18>	i know that mac changing is a feature to some
+T 1535504044 18<jrobeson18>	but i think it requires macchanger 
+T 1535504058 18<icarusthecow18>	you running tails or something mr ed?
+T 1535504060 18<ouemt18>	No fucking clue
+T 1535504061 18<jrobeson18>	but if that's a driver or hardware issue you could infact use machanger to force it to use the same one
+T 1535504205 20<GoatWizard>30	That's kinda funny to see on a desktop; I've only heard of that happening with mobile devices
+T 1535504220 18<jrobeson18>	https://goose.game/
+T 1535504221 18<irkbot18>	^ Untitled Goose Game - [goose.game]
+T 1535504237 19<ouemt>	GoatWizard: it’s a laptop
+T 1535504269 18<jrobeson18>	"It's a lovely morning in the village, and you are a horrible goose"
+T 1535504336 18<jrobeson18>	more horrible goose footage
+T 1535504347 18<jrobeson18>	https://www.youtube.com/watch?v=wQknBJo4aBQ
+T 1535504347 18<irkbot18>	^ Untitled Goose Game by House House - Pre-Alpha Gameplay - YouTube - [www.youtube.com]
+T 1535505059 18<jrobeson18>	i think the horrible goose game is good content
+T 1535505233 20<GoatWizard>30	It seems good; do you know if it's planned for early or late 2019?
+T 1535505460 18<logiz18>	howdy
+T 1535505534 24*	irkbot has quit (*.net *.split)
+T 1535505534 24*	TingPing has quit (*.net *.split)
+T 1535505534 24*	fimion has quit (*.net *.split)
+T 1535505534 24*	vim24x7 has quit (*.net *.split)
+T 1535505542 23*	fimion (~fimion@server.uhh.fyi23) has joined
+T 1535505556 23*	irkbot (~irkbot@codehammer.io23) has joined
+T 1535505574 23*	vim24x7 (~vim24x7@216.151.4.22223) has joined
+T 1535505701 23*	TingPing (~tingping@fedora/pdpc.professional.tingping23) has joined
+T 1535506048 23*	skeer_work (~Skeer@209.124.40.6623) has joined
+T 1535506258 24*	Skeer_ has quit (Ping timeout: 272 seconds)
+T 1535506311 24*	alienpirate5 has quit (Read error: Connection reset by peer)
+T 1535506335 23*	alienpirate5 (~alienpira@2601:600:a27f:9f50::1fe423) has joined
+T 1535506526 23*	drakonis (~drakonis@unaffiliated/drakonis23) has joined
+T 1535506554 24*	JasonO- (~jason@znc.ohdoom.net24) has left
+T 1535506593 18<icarusthecow18>	https://twitter.com/jbendery/status/1034454764690567169
+T 1535506593 18<irkbot18>	^ Jennifer Bendery on Twitter: "Serena Williams was told she wasn't allowed to wear her “Black Panther” catsuit back to the French Open because she had to "respect the game." So she showed up in a tutu. 💯https://t.co/WifbS5iDpk" - [twitter.com]
+T 1535506695 23*	JasonO (~jason@unaffiliated/hereticlocke23) has joined
+T 1535506782 19<jrobeson>	GoatWizard,  no idea. i was just enjoying the footage :)
+T 1535506819 18<jrobeson18>	icarusthecow, yeah.. serena definitely has a lot of power in a situation like this :)
+T 1535507324 24*	lesderid has quit (*.net *.split)
+T 1535507328 24*	kspencer has quit (*.net *.split)
+T 1535507331 23*	lesderid (~lesderid@2a03:b0c0:1:d0::2a5:400223) has joined
+T 1535507353 23*	kspencer (sid238933@gateway/web/irccloud.com/x-emmubvoouybjgnje23) has joined
+T 1535507429 24*	kspencer has quit (Changing host)
+T 1535507430 23*	kspencer (sid238933@gitall/owner-dev/kspencer23) has joined
+T 1535507715 20*	Disconnected (20)
+T 1535507793 Not connected. Try /server <host> [<port>]
+T 1535507800 Not connected. Try /server <host> [<port>]
+T 1535507808 23*	Stopped previous connection attempt (247949)
+T 1535507819 FiSHLiM plugin unloaded
+T 1535507863 19*	Now talking on 22#r/linux
+T 1535507863 22*	Topic for 22#r/linux is: Cannot send to channel? Register your nick: https://freenode.net/kb/answer/registration
+T 1535507863 22*	Topic for 22#r/linux set by 26dhscholb (24Wed Aug  8 16:54:05 2018)
+T 1535508058 18<ouemt18>	Hai logiz
+T 1535508086 18<slycurgus18>	Hi friends
+T 1535508099 18*	slycurgus is in the airport for another singapore trip
+T 1535508111 18<jrobeson18>	slycurgus, again?
+T 1535508116 18<slycurgus18>	Yeah
+T 1535508118 18<ouemt18>	Ich lerne Deutsch 
+T 1535508120 18<jrobeson18>	why won't they send you somewhere else at least
+T 1535508125 18<icarusthecow18>	tfw slycurgus is captain jack sparrow
+T 1535508127 18<slycurgus18>	Got the call like 3pm yesterday haha
+T 1535508141 18<slycurgus18>	jrobeson: we dont have projects anywhere else lol
+T 1535508152 18<jrobeson18>	are you getting paid extra?
+T 1535508160 18<slycurgus18>	Except the US and those are all under control
+T 1535508187 18<slycurgus18>	Yeah they said something about giving me a $1000 bonus
+T 1535508187 18<slycurgus18>	For the 6 day trip
+T 1535508192 18<slycurgus18>	icarusthecow: i should buy a hat
+T 1535508195 18<slycurgus18>	And a boat
+T 1535508210 18<icarusthecow18>	slycurgus, steal both
+T 1535508222 18<slycurgus18>	Oo even better
+T 1535508245 18<icarusthecow18>	you could just download it illegally too
+T 1535508289 18<slycurgus18>	:O
+T 1535508289 18<slycurgus18>	You wouldn't download a boat
+T 1535508325 20*	Disconnected (20)
+T 1535508341 22*	26GoatWizard sets mode 24+R on 22GoatWizard
+T 1535508341 22*	26GoatWizard sets mode 24+Z on 22GoatWizard
+T 1535508341 22*	26GoatWizard sets mode 24+i on 22GoatWizard
+T 1535508341 -18freenode-connect-	Due to the persistent ongoing spam, all new connections are being set +R (block messages from unidentified users) and will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+T 1535508341 24*	Received a CTCP 24VERSION from 18freenode-connect
+T 1535508345 19*	Now talking on 22#r/linux
+T 1535508345 22*	Topic for 22#r/linux is: Cannot send to channel? Register your nick: https://freenode.net/kb/answer/registration
+T 1535508345 22*	Topic for 22#r/linux set by 26dhscholb (24Wed Aug  8 16:54:05 2018)
+T 1535508364 18<logiz18>	hi ouemt 
+T 1535508467 18<jrobeson18>	burn
+T 1535508469 18<jrobeson18>	https://twitter.com/sarahmei/status/1034611201945128965
+T 1535508469 18<irkbot18>	^ Sarah Mei on Twitter: "the shittiest post I’ve _ever_ written adds more value to the world than a business that exists purely so the owners can write off trips to Japan soooooo… https://t.co/1FNx3ldW2p" - [twitter.com]
+T 1535508550 18<icarusthecow18>	idk, those trips stimulate the japanese economy while not providing more revenue to use for war and military expenditures
+T 1535508555 18<icarusthecow18>	seems like a win/win
+T 1535508615 18<jrobeson18>	hey people going to japan and spending money there is fine 
+T 1535508625 18<jrobeson18>	but really, they do provide plenty of revenue.. 
+T 1535508629 18<jrobeson18>	to america i mean
+T 1535508643 18<ouemt18>	Logiz: How’s life?
+T 1535509057 18<logiz18>	ouemt: it's meh right now lol
+T 1535509705 20*	Disconnected (20)
+T 1535509720 22*	26GoatWizard sets mode 24+R on 22GoatWizard
+T 1535509720 22*	26GoatWizard sets mode 24+Z on 22GoatWizard
+T 1535509720 22*	26GoatWizard sets mode 24+i on 22GoatWizard
+T 1535509721 -18freenode-connect-	Due to the persistent ongoing spam, all new connections are being set +R (block messages from unidentified users) and will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+T 1535509721 24*	Received a CTCP 24VERSION from 18freenode-connect
+T 1535509727 19*	Now talking on 22#r/linux
+T 1535509727 22*	Topic for 22#r/linux is: Cannot send to channel? Register your nick: https://freenode.net/kb/answer/registration
+T 1535509727 22*	Topic for 22#r/linux set by 26dhscholb (24Wed Aug  8 16:54:05 2018)
+T 1535510546 24*	Nik05 has quit (*.net *.split)
+T 1535510546 24*	surtin has quit (*.net *.split)
+T 1535510546 24*	logiz has quit (*.net *.split)
+T 1535510546 24*	SOO7 has quit (*.net *.split)
+T 1535510546 24*	isawan has quit (*.net *.split)
+T 1535510546 24*	steev has quit (*.net *.split)
+T 1535510546 24*	stephe has quit (*.net *.split)
+T 1535510546 24*	rossome has quit (*.net *.split)
+T 1535510546 24*	erhandsome has quit (*.net *.split)
+T 1535510552 23*	erhandsome (~erhandsom@li1589-118.members.linode.com23) has joined
+T 1535510556 23*	Nik05 (~Nik05@s559686af.adsl.online.nl23) has joined
+T 1535510561 24*	erhandsome has quit (Changing host)
+T 1535510561 23*	erhandsome (~erhandsom@fsf/member/erhandsome23) has joined
+T 1535510568 23*	isawan (isawan@2a01:7e00::f03c:91ff:fefb:ed8223) has joined
+T 1535510576 23*	stephe (sid14127@gateway/web/irccloud.com/x-kgezxstiimytnkol23) has joined
+T 1535510577 23*	steev (sid1383@gateway/web/irccloud.com/x-lxsxcfpvfslqnnho23) has joined
+T 1535510579 23*	logiz (~logiz@207.38.255.22123) has joined
+T 1535510602 24*	Nik05 has quit (Changing host)
+T 1535510602 23*	Nik05 (~Nik05@unaffiliated/nik0523) has joined
+T 1535510627 23*	rossome (~indieross@server.likeaross.com23) has joined
+T 1535510772 24*	28steev is now known as 18Guest2527
+T 1535510788 24*	Guest2527 has quit (Changing host)
+T 1535510788 23*	Guest2527 (sid1383@gentoo/developer/steev23) has joined
+T 1535510881 18<jrobeson18>	lol
+T 1535510882 18<jrobeson18>	https://twitter.com/TooMuchTuna/status/1033665357771198464
+T 1535510882 18<irkbot18>	^ Fun Fact: TWlTTER is the bad place on Twitter: "Hey @LucyXIV - your tweet about Turnbull eating a pie with a knife & fork, calling him a fucking wanker was just on screen on 60 minutes for a few seconds in an article about outrage & political correctness gone mad." - [twitter.com]
+T 1535510906 24*	28logiz is now known as 18Guest54928
+T 1535511024 18<jrobeson18>	https://twitter.com/dannolan/status/1032178775553798144
+T 1535511024 18<irkbot18>	^ dan nolan on Twitter: "remember when the entire australian discourse was about forcing macklemore to sing an anti-gay-marriage song for the purposes of free speech" - [twitter.com]
+T 1535511229 18<jrobeson18>	slycurgus, be careful
+T 1535511230 18<jrobeson18>	https://twitter.com/LucyXIV/status/1030251949764079616
+T 1535511231 18<irkbot18>	^ lucy valentine on Twitter: "i'm very sick and i believe it is because i let an american into my home. stay safe out there folks" - [twitter.com]
+T 1535511237 23*	SOO7 (~spydar007@unaffiliated/spydar00723) has joined
+T 1535511305 18<jrobeson18>	icarusthecow, it sucks that it makes me feel slightly better to see that we're not the only stupid ones :(
+T 1535511307 18<jrobeson18>	https://twitter.com/thomas_violence/status/1029914646000455680
+T 1535511308 18<irkbot18>	^ thomas violence on Twitter: "you don't understand, Labor HAS to support the torture camps, otherwise they won't get voted in. YES they will continue to support the torture camps once they get in but wait what was your question again" - [twitter.com]
+T 1535511394 23*	surtin (surtin@if.this.is.a.bnc.i.cant.be.surtin.com23) has joined
+T 1535511453 18<jrobeson18>	https://twitter.com/macaulaybalkan/status/1027906450763345921
+T 1535511454 18<irkbot18>	^ ed on Twitter: "Truly terrifying… " - [twitter.com]
+T 1535511459 18<jrobeson18>	you could read it in one of our papers easily
+T 1535511616 18<icarusthecow18>	truly it is the end of times when the youth is setting fire to the public barbeque and playing "hoops"
+T 1535511833 23*	Lyqyd (~quassel@97-120-149-48.ptld.qwest.net23) has joined
+T 1535512255 18<jrobeson18>	icarusthecow, it's pretty much the exact same thing over in australia as here as far as i can tell. 
+T 1535512264 18<icarusthecow18>	https://twitter.com/mitsuhiko/status/1034395721942921216
+T 1535512265 18<irkbot18>	^ Armin Ronacher on Twitter: "A customer's debug symbol fails to be processed by Sentry. It ran into the 65k character limit for a function name. Has a 140.000 character function name. Yay C++!" - [twitter.com]
+T 1535512277 18<icarusthecow18>	jrobeson, everything is stupid everywhere.
+T 1535512297 18<jrobeson18>	i'd prefer at least different kinds of stupid
+T 1535512368 18<jrobeson18>	how does that even happen?
+T 1535512413 18<jrobeson18>	i know function names get mangled but what would cause them to go go for 140,000?
+T 1535512426 18<icarusthecow18>	i blame freebsd
+T 1535512441 18<jrobeson18>	ah i didn't think about that
+T 1535512454 18<jrobeson18>	but i don't know what specifically in freebsd would do it
+T 1535512508 18<icarusthecow18>	bsd clang
+T 1535512628 18<jrobeson18>	and what about it?
+T 1535512643 18<jrobeson18>	btw.. i'm about to eat some pudding
+T 1535512644 18<icarusthecow18>	no idea. im just making shit up
+T 1535512671 18<icarusthecow18>	like actual pudding, or pudding as in what britsh people falsely call all desserts
+T 1535512680 18<jrobeson18>	pudding
+T 1535512699 18<jrobeson18>	chocolate pudding
+T 1535512699 18<icarusthecow18>	how many gallons?
+T 1535512707 18<jrobeson18>	sadly only 2 cups worth
+T 1535512732 18<icarusthecow18>	thats barely enought to wet your nipples though
+T 1535512743 18<jrobeson18>	i guess?
+T 1535512759 18<icarusthecow18>	at least 2 gallons minimum
+T 1535512774 18<icarusthecow18>	otherwise you might as well be a damn rooskie
+T 1535512808 18<jrobeson18>	i guess i'm not familiar with your traditions you capitalist pig
+T 1535512819 18<jrobeson18>	seriously, i don't know what you're referring to
+T 1535512840 20<GoatWizard>30	So, is that 2 gallons a nipple, or 1 gallon per nipple?
+T 1535512854 20<GoatWizard>30	If I have a third nipple, do I need to gather a third gallon?
+T 1535512868 18<icarusthecow18>	depends on the nipple density
+T 1535512879 18<icarusthecow18>	and exposed surface area
+T 1535512943 20<GoatWizard>30	Honestly any scientific funding that isn't going into how we can make people constantly lactate pudding is just wasting money.
+T 1535512972 18<jrobeson18>	i'm pretty happy with my non pudding lactating nipples 
+T 1535513018 18<icarusthecow18>	are you suggesting a pudding laction nipple force?
+T 1535513039 20<GoatWizard>30	I am now
+T 1535513072 18<icarusthecow18>	we can have them run joint excercises with the space force
+T 1535514292 18<icarusthecow18>	https://twitter.com/xor/status/1034465187477291009
+T 1535514292 18<irkbot18>	^ Parker Higgins on Twitter: "seems solvable… " - [twitter.com]
+T 1535514777 18<slycurgus18>	jrobeson: oh no, my brother in law is american, do you think I'm already infected?
+T 1535514792 18<slycurgus18>	Pray for me etc
+T 1535515000 24*	skeer_work has quit (Read error: Connection reset by peer)
+T 1535515020 23*	skeer_work (~Skeer@209.124.40.6623) has joined
+T 1535515598 23*	Skeer_ (~Skeer@209.124.40.6623) has joined
+T 1535515606 24*	drakonis has quit (Remote host closed the connection)
+T 1535515751 24*	skeer_work has quit (Ping timeout: 245 seconds)
+T 1535516283 18<momoyome18>	hi friends
+T 1535516291 18<momoyome18>	who wants to remove a DRM from a PDF for me
+T 1535516291 18<momoyome18>	:D
+T 1535516626 18<slycurgus18>	momoyome: print & scan? :D
+T 1535516652 18<slycurgus18>	What kind of drm tho?
+T 1535516672 18<slycurgus18>	Not that i can do anything rn as I'm on a phone, but just out of interest
+T 1535516767 18<momoyome18>	I'm not sure what kinda drm 
+T 1535516773 18<momoyome18>	it's on a PDF
+T 1535516790 18<slycurgus18>	What's it not let you do? 
+T 1535516791 18<momoyome18>	I have no idea how to figure out what kinda DRM it is 
+T 1535516799 18<slycurgus18>	Heh k
+T 1535516812 18<momoyome18>	I can't print
+T 1535516823 18<momoyome18>	it's dumb
+T 1535516825 18<slycurgus18>	Oh weird, hm
+T 1535516836 18<momoyome18>	it's because of the whole law school racket thing
+T 1535516843 18<slycurgus18>	Maybe just pipe it to lpr? Not sure if that will work
+T 1535516857 18<momoyome18>	I spent $20 on it, I wasn't gonna spend another $10 for the ability to print/edit
+T 1535516860 18<slycurgus18>	Hoping it magicslly goes through
+T 1535516862 18<slycurgus18>	Haha
+T 1535516865 18<momoyome18>	it was already stupid expensive
+T 1535516954 18<lainlives18>	you can OCR your monitor though
+T 1535516960 18<lainlives18>	or even your display out
+T 1535517086 18<slycurgus18>	Heh
+T 1535517102 18<slycurgus18>	Yeah just screengrab the page and print that
+T 1535517124 18<slycurgus18>	Unless it's a long document in which case it's shell script time i guess?
+T 1535517139 18<momoyome18>	80 pages
+T 1535517144 18<momoyome18>	time is precious 
+T 1535517150 18<slycurgus18>	Oof ouch
+T 1535517151 18<momoyome18>	i'm already only sleeping 5 hours a day
+T 1535517167 18<slycurgus18>	Did you try just hitting lpr with it?
+T 1535517175 18<slycurgus18>	lp thing.pf
+T 1535517184 18<slycurgus18>	Might work
+T 1535517187 18<momoyome18>	I don't know anything
+T 1535517200 18<slycurgus18>	Heh ok
+T 1535517212 18<momoyome18>	I googled that and get "Volcano Suns - Thing of Beauty Vinyl, LP" 
+T 1535517230 18<momoyome18>	:D
+T 1535517256 18<slycurgus18>	Haha
+T 1535517268 18<momoyome18>	oh it's 60 pages
+T 1535517273 18<slycurgus18>	lp, linux command line utility for talking to a printer
+T 1535517289 18<momoyome18>	I'm not using linux, coudld I do that in terminal on a mac
+T 1535517293 18<slycurgus18>	Idk how it's configured, on my machine that has a printer itbjust works
+T 1535517299 18<slycurgus18>	Ahhh maybe? Not sure
+T 1535517301 18<momoyome18>	oh
+T 1535517304 18<slycurgus18>	Seems possible
+T 1535517316 18<momoyome18>	best I not do something then 
+T 1535517316 18<momoyome18>	I can't afford a meltdown
+T 1535517370 18<slycurgus18>	It won't break anything to try... Maybe just print some gibberish
+T 1535517416 18<slycurgus18>	I googled "lp mac" and there's a hit for the lp man page from Mac OS, but it's a 404
+T 1535517425 18<slycurgus18>	So maybe they removed it? Idk
+T 1535517476 18<momoyome18>	this prob isn't something complicated right? 
+T 1535517477 18<slycurgus18>	https://ss64.com/osx/lp.html
+T 1535517478 18<irkbot18>	^ lp Man Page - macOS - SS64.com - [ss64.com]
+T 1535517494 18<slycurgus18>	Try with -P 1 to just print thefirst page as a test
+T 1535517505 18<momoyome18>	like, someone that knows computery stuff this should be like boiling water
+T 1535517613 18<slycurgus18>	Mmm not sure, depends how complicated this drm stuff is
+T 1535517651 24*	icarusthecow has quit (Ping timeout: 252 seconds)
+T 1535517657 18<slycurgus18>	They seem to go to great lengths to maintain control these days so it might just be impossible 
+T 1535517665 18<slycurgus18>	Or it might be simple to get around
+T 1535517831 18<momoyome18>	i don't think the drm would be complicated
+T 1535517836 18<momoyome18>	it's from a shoe string website
+T 1535517848 18<momoyome18>	this isn't itunes or amazon 
+T 1535517892 18<slycurgus18>	Mm ok
+T 1535517919 18<momoyome18>	I really hate DRM 
+T 1535517930 18<slycurgus18>	But if they paid for an Adobe thing to lock it, it'd be top of the line stuff you know?
+T 1535517933 18<slycurgus18>	Yeah
+T 1535517944 18<momoyome18>	oh I didn't know about stuff like that
+T 1535517975 18<momoyome18>	blah 
+T 1535517989 18<momoyome18>	I guess I'll wait till morning and then con my mother into screen capping it all for me
+T 1535517994 18<slycurgus18>	Heh
+T 1535517995 18<momoyome18>	she has nothing better to do
+T 1535518014 18<slycurgus18>	Try lp in Terminal, might be a quick victory
+T 1535518035 18<slycurgus18>	lp -P 1 your_pdf_here.pdf
+T 1535518052 18<slycurgus18>	If it prints the first page you can do the rest
+T 1535518069 18<slycurgus18>	If it prints garbage, time to explore other options
+T 1535518571 18<jrobeson18>	does lp even print pdfs?
+T 1535518662 18<momoyome18>	I know this sounds dumb but how do i find the file location 
+T 1535518671 18<slycurgus18>	I think so? I've printed a PNG with it, I thought i had done a PDF too but maybe I'm misremembering that
+T 1535518711 18<slycurgus18>	momoyome: uhh I don't know the Mac directory structure
+T 1535518719 18<momoyome18>	Allisons-MacBook-Pro:~ momoyome$ lp -P EVIDENCE_GARLAND_FALL16.pdf
+T 1535518719 18<momoyome18>	lp: Bad page-ranges values 0-0.
+T 1535518720 18<momoyome18>	Allisons-MacBook-Pro:~ momoyome$
+T 1535518727 18<momoyome18>	haha
+T 1535518740 18<slycurgus18>	Needs a number after -P
+T 1535518746 18<slycurgus18>	Just give it 1
+T 1535518755 18<slycurgus18>	-P 1
+T 1535518775 18<jrobeson18>	remember it's the bsd version of these commands, so they dont support all the gnu niceties
+T 1535518801 18<jrobeson18>	i'm already forgetting which niceties those are regarding argument parsing, but i know there are some
+T 1535518802 18<slycurgus18>	That was from ss64's copy of the mac man page, jrobeson
+T 1535518814 18<jrobeson18>	good good
+T 1535518853 18<jrobeson18>	evidence garland fall 2016, sounds interesting.
+T 1535518871 18<slycurgus18>	A garland of evidence
+T 1535518879 18<slycurgus18>	Like a hat made of plants
+T 1535518885 18<slycurgus18>	But with evidence!
+T 1535518900 18<momoyome18>	it's fucking awful
+T 1535518903 18<momoyome18>	this fucking class
+T 1535518910 24*	Lyqyd has quit (Remote host closed the connection)
+T 1535518926 18<momoyome18>	https://www.youtube.com/watch?v=SlJML6xoWWc
+T 1535518927 18<jrobeson18>	garland was the supreme court nominee who didn't get a hearing during obama's last year in office slycurgus 
+T 1535518927 18<irkbot18>	^ Prof Garland v. Student - YouTube - [www.youtube.com]
+T 1535518937 18<momoyome18>	different garland
+T 1535518940 18<jrobeson18>	oh
+T 1535518943 18<jrobeson18>	prof garland :)
+T 1535519012 18<jrobeson18>	the date happened to match 
+T 1535519015 18<momoyome18>	he reads from his powerpoint for 2 hours
+T 1535519022 18<slycurgus18>	Oof 
+T 1535519059 18<slycurgus18>	momoyome: did the print work with the 1 added? 
+T 1535519080 18<momoyome18>	I cna't figure it out
+T 1535519091 18<slycurgus18>	:< file path? 
+T 1535519101 18<momoyome18>	yeah
+T 1535519107 18<momoyome18>	lp: Error - unable to access “EVIDENCE_GARLAND_FALL16.pdf” - No such file or directory
+T 1535519111 18<slycurgus18>	Start at / and just explore the tab completion
+T 1535519141 18<momoyome18>	it's ok
+T 1535519167 18<momoyome18>	I knjow my place in the world
+T 1535519196 18<slycurgus18>	I think user files are under /Users/<username>
+T 1535519218 18<slycurgus18>	And then tab complete from there if it's in desktop etc
+T 1535519256 18<slycurgus18>	momoyome: you can do this, I believe in you :V
+T 1535519288 18<momoyome18>	i'm already near tears
+T 1535519311 18<momoyome18>	there were so many word
+T 1535519311 18<momoyome18>	s
+T 1535519313 18<slycurgus18>	:< 
+T 1535519328 18<slycurgus18>	I'm sorry I can't be more help
+T 1535519339 18<momoyome18>	you did more than my "friends"
+T 1535519355 18<momoyome18>	suddenly they all went silent
+T 1535519361 18<slycurgus18>	:<
+T 1535519371 18<momoyome18>	never baking them anything again
+T 1535519404 18*	slycurgus suddenly first in line (presumably) for baked goods, yesssss
+T 1535519412 18<slycurgus18>	Life goal achieved
+T 1535519422 18<momoyome18>	I am an awesome cook and baker
+T 1535519487 18<slycurgus18>	momoyome: omg I'm an idiot for not searching google first... https://www.ilovepdf.com/unlock_pdf does this thing help?
+T 1535519487 18<irkbot18>	^ Unlock PDF files. Remove PDF password - [www.ilovepdf.com]
+T 1535519524 18<slycurgus18>	Not sure if it's a password or some other mechanism, or if that works for unprintable stuff even
+T 1535519563 18<momoyome18>	oh lets see
+T 1535519576 18<momoyome18>	if it does, i dont know how i overlooked it
+T 1535519582 18<momoyome18>	cause i DID google
+T 1535519582 18<slycurgus18>	Or print from google drive in chrome apparently https://www.wikihow.com/Unlock-a-Secure-PDF-File
+T 1535519583 18<irkbot18>	^ 3 Ways to Unlock a Secure PDF File - wikiHow - [www.wikihow.com]
+T 1535519717 18<momoyome18>	hot dog
+T 1535519719 18<momoyome18>	<3
+T 1535519733 18<momoyome18>	merry christmas thank you 
+T 1535519793 18<slycurgus18>	Yay! You're welcome :)
+T 1535520198 18<momoyome18>	I have shit friends
+T 1535520204 18<momoyome18>	seriously
+T 1535520219 18<momoyome18>	and I have equally bad googling skills
+T 1535520564 18<slycurgus18>	We got there eventually haha
+T 1535520568 18<lainlives18>	https://www.youtube.com/watch?v=HoLsRPnu2fk
+T 1535520575 18<irkbot18>	^ KANSAI DORIFTO - YouTube - [www.youtube.com]
+T 1535520577 18<lainlives18>	now that TOOK FOREVER
+T 1535520579 18<lainlives18>	to make
+T 1535520589 18<slycurgus18>	I can't believe my mind went to command line first without googling
+T 1535520596 18<slycurgus18>	I've gone full linux
+T 1535520602 18<momoyome18>	when you're a hammer, everything's a nail
+T 1535520604 18<slycurgus18>	There's no hope for me
+T 1535520607 18<slycurgus18>	Haha
+T 1535520610 18<slycurgus18>	:D
+T 1535520679 18<slycurgus18>	Ok and now it's time for an international flight so I'll be afk for a while :3
+T 1535521909 18<momoyome18>	D: 
+T 1535522028 18<jrobeson18>	have a good day slycurgus 
+T 1535522035 18<jrobeson18>	err safe flight*
+T 1535522043 18<jrobeson18>	momoyome, what's a momoyome? :)
+T 1535523382 18<lainlives18>	https://www.youtube.com/watch?v=yYygvvfIW70
+T 1535523382 18<irkbot18>	^ DORIFO THE RAINBOOOOO - YouTube - [www.youtube.com]
+T 1535523389 18<lainlives18>	man i should find something better to do with my time
+T 1535523405 18<lainlives18>	rather than spend hours making a video where the eurobeat climax drops on the first drift
+T 1535524287 18<momoyome18>	momoyome means peach bride in japanese, it's from an old anime 
+T 1535525095 18<jrobeson18>	ah
+T 1535525124 18<jrobeson18>	momoyome, well if you ever wanna talk about anime here.. go for it :)
+T 1535525275 18<momoyome18>	anime is for weebs
+T 1535525288 18<momoyome18>	I don't watch anime anymore
+T 1535525298 18<momoyome18>	though I still go to conventions
+T 1535526134 18<jrobeson18>	lol
+T 1535526500 24*	lainlives has quit (Ping timeout: 244 seconds)
+T 1535526550 23*	lainlives (lainlives@gateway/vpn/privateinternetaccess/lainlives23) has joined
+T 1535527398 23*	lainlives_ (lainlives@gateway/vpn/privateinternetaccess/lainlives23) has joined
+T 1535527398 24*	lainlives has quit (Disconnected by services)
+T 1535528978 23*	trqx (~trqx@shroom.party23) has joined
+T 1535529560 24*	trqx has quit (Quit: WeeChat 2.1)
+T 1535529597 23*	trqx (~trqx@shroom.party23) has joined
+T 1535529646 24*	trqx has quit (Client Quit)
+T 1535529659 23*	trqx (~trqx@shroom.party23) has joined
+T 1535529761 24*	trqx (~trqx@shroom.party24) has left
+T 1535534363 18<MrElendig18>	its a story way older than the anime
+T 1535534518 23*	cdown (~cdown@82-132-233-193.dab.02.net23) has joined
+T 1535534738 23*	asafniv (~asafniv@unaffiliated/asafniv23) has joined
+T 1535534988 23*	asafniv_ (~asafniv@unaffiliated/asafniv23) has joined
+T 1535535009 24*	cdown has quit (Remote host closed the connection)
+T 1535535135 24*	asafniv has quit (Ping timeout: 252 seconds)
+T 1535535336 18<jrobeson18>	you're a story way older than the anime
+T 1535535349 18<jrobeson18>	hehe
+T 1535536069 23*	asafniv__ (~asafniv@2a00:55a0:2:2::f1de23) has joined
+T 1535536224 24*	asafniv_ has quit (Ping timeout: 252 seconds)
+T 1535536226 24*	pilotauto has quit (Quit: http://quassel-irc.org - Chat comfortably. Anywhere.)
+T 1535536518 23*	asafniv_ (~asafniv@unaffiliated/asafniv23) has joined
+T 1535536686 24*	asafniv__ has quit (Ping timeout: 252 seconds)
+T 1535536796 18<MrElendig18>	I am, I'm really a 8000 year old god in the shape of a 11 year old girl with fox ears/tail and a murderous yandere streak
+T 1535536814 24*	asafniv_ has quit (Quit: Leaving)
+T 1535536843 23*	asafniv (~asafniv@unaffiliated/asafniv23) has joined
+T 1535537076 18<jrobeson18>	hah
+T 1535537604 23*	asafniv_ (~asafniv@unaffiliated/asafniv23) has joined
+T 1535537775 24*	asafniv has quit (Ping timeout: 252 seconds)
+T 1535537845 23*	asafniv__ (~asafniv@2a00:55a0:2:2::f1de23) has joined
+T 1535537977 24*	asafniv_ has quit (Ping timeout: 240 seconds)
+T 1535538615 24*	asafniv__ has quit (Quit: Leaving)
+T 1535539100 23*	asafniv (~asafniv@unaffiliated/asafniv23) has joined
+T 1535539135 18<dhscholb18>	@grab MrElendig 
+T 1535539135 18<irkbot18>	dhscholb: grabbed
+T 1535542574 23*	gareppa (~gareppa@unaffiliated/gareppa23) has joined
+T 1535542671 23*	cdown (~cdown@82-132-221-182.dab.02.net23) has joined
+T 1535542839 24*	gareppa has quit (Remote host closed the connection)
+T 1535543251 24*	cdown has quit (Remote host closed the connection)
+T 1535544116 23*	cdown (~cdown@82-132-221-182.dab.02.net23) has joined
+T 1535544282 24*	cdown has quit (Remote host closed the connection)
+T 1535544464 23*	cdown (~cdown@82-132-221-182.dab.02.net23) has joined
+T 1535544515 24*	cdown has quit (Remote host closed the connection)
+T 1535545545 23*	cdown (~cdown@82-132-221-182.dab.02.net23) has joined
+T 1535545587 18<Eryn_1983_FL18>	hi peeps
+T 1535545607 18<Eryn_1983_FL18>	so I only lost two elections in the primary
+T 1535545638 18<Eryn_1983_FL18>	state rep and agri commissioner
+T 1535545677 18<Eryn_1983_FL18>	so happy 
+T 1535545683 18<Eryn_1983_FL18>	now the hard stuff happens, 
+T 1535545695 18<Eryn_1983_FL18>	got to turn this purple state dark dark blue..
+T 1535545708 18<Eryn_1983_FL18>	pull it out of the stone age!
+T 1535545719 18<Eryn_1983_FL18>	Bernie Bernie !
+T 1535546304 24*	cdown has quit (Ping timeout: 246 seconds)
+T 1535685302 19*	Now talking on 22#r/linux
+T 1535685302 22*	Topic for 22#r/linux is: Cannot send to channel? Register your nick: https://freenode.net/kb/answer/registration
+T 1535685302 22*	Topic for 22#r/linux set by 26dhscholb (24Wed Aug  8 16:54:05 2018)
+T 1535686780 24*	EMH-Mark-I has quit (Quit: leaving)
+T 1535688745 24*	drakonis has quit (Remote host closed the connection)
+T 1535691143 24*	icarusthecow has quit (Ping timeout: 240 seconds)
+T 1535693800 23*	kdc (~kdc@dustpuppy.is.co.za23) has joined
+T 1535694866 24*	kdc has quit (Quit: Textual IRC Client: www.textualapp.com)
+T 1535695826 23*	varesa28 (~varesa@41.43.206.15023) has joined
+T 1535695836 24*	varesa28 has quit (Remote host closed the connection)
+T 1535695961 23*	Techman23 (~Techman@218.51.15.18723) has joined
+T 1535696109 24*	Techman23 has quit (Remote host closed the connection)
+T 1535699239 23*	sabre1041 (~sabre1041@pl11819.ag2424.nttpc.ne.jp23) has joined
+T 1535699368 23*	lainlives_ (lainlives@gateway/vpn/privateinternetaccess/lainlives23) has joined
+T 1535699368 24*	lainlives has quit (Disconnected by services)
+T 1535699370 24*	28lainlives_ is now known as 18lainlives
+T 1535699547 24*	sabre1041 has quit (Remote host closed the connection)
+T 1535701817 23*	tomaw28 (~tomaw@112.168.36.8123) has joined
+T 1535702109 24*	tomaw28 has quit (Remote host closed the connection)
+T 1535706397 23*	Thargoid (~Thargoid@183.88.84.18023) has joined
+T 1535706420 24*	28Thargoid is now known as 18Guest8284
+T 1535706659 24*	Guest8284 has quit (Read error: Connection reset by peer)
+T 1535707740 23*	cdown_ (~cdown@199.201.66.523) has joined
+T 1535707881 24*	cdown has quit (Ping timeout: 246 seconds)
+T 1535707883 24*	28cdown_ is now known as 18cdown
+T 1535710092 23*	asafniv_ (~asafniv@unaffiliated/asafniv23) has joined
+T 1535710422 24*	28asafniv_ is now known as 18asafniv
+T 1535710471 24*	pilotauto_ has quit (Quit: http://quassel-irc.org - Chat comfortably. Anywhere.)
+T 1535712732 24*	Drakonis[m] has quit (Remote host closed the connection)
+T 1535713300 23*	Drakonis[m] (drakonisma@gateway/shell/matrix.org/x-tyfdyxdsvrjdphxv23) has joined
+T 1535715406 24*	lainlives has quit (Ping timeout: 244 seconds)
+T 1535715654 24*	jrobeson has quit (Ping timeout: 244 seconds)
+T 1535715816 23*	jrobeson (~johnny22@unaffiliated/johnny2223) has joined
+T 1535715816 22*	26ChanServ gives voice to 18jrobeson
+T 1535716422 24*	cdown has quit (Ping timeout: 250 seconds)
+T 1535716482 23*	cdown (~cdown@88.98.208.523) has joined
+T 1535716577 23*	brethil28 (~brethil@117.31.210.8023) has joined
+T 1535716786 24*	brethil28 has quit (Remote host closed the connection)
+T 1535717177 23*	Skeer (~Skeer@209.124.40.6623) has joined
+T 1535717257 24*	cdown has quit (Ping timeout: 252 seconds)
+T 1535718383 23*	cdown (~cdown@88.98.208.523) has joined
+T 1535718549 24*	JasonO has quit (Changing host)
+T 1535718549 23*	JasonO (~jason@fsf/member/jasono23) has joined
+T 1535718783 23*	Eduard_Munteanu (~Eduard_Mu@host158-157-dynamic.55-82-r.retail.telecomitalia.it23) has joined
+T 1535718808 24*	28Eduard_Munteanu is now known as 18Guest94983
+T 1535719077 24*	Guest94983 has quit (Remote host closed the connection)
+T 1535719775 24*	Drakonis[m] has quit (Remote host closed the connection)
+T 1535719915 23*	mark___ (~mark@cpc146290-brig23-2-0-cust853.3-3.cable.virginm.net23) has joined
+T 1535719936 24*	mark___ has quit (Quit: leaving)
+T 1535719981 23*	drakonis (~drakonis@unaffiliated/drakonis23) has joined
+T 1535720076 23*	jeggott6 (~jeggott@105.108.143.22023) has joined
+T 1535720359 24*	jeggott6 has quit (Remote host closed the connection)
+T 1535720409 23*	Drakonis[m] (drakonisma@gateway/shell/matrix.org/x-wicmwlgzyhcqqnyp23) has joined
+T 1535720411 23*	rhelQues (c0c34204@gateway/web/freenode/ip.192.195.66.423) has joined
+T 1535720610 24*	rhelQues has quit (Client Quit)
+T 1535720636 23*	rhelQs (c0c34204@gateway/web/freenode/ip.192.195.66.423) has joined
+T 1535720773 24*	rhelQs has quit (Client Quit)
+T 1535720797 23*	astor (c0c34204@gateway/web/freenode/ip.192.195.66.423) has joined
+T 1535720852 18<astor18>	Quick question since I dont have access to a RHEL server. What is the newest supported version of samba? Is there an update for 3.6.23?
+T 1535721919 23*	cdown_ (~cdown@199.201.66.323) has joined
+T 1535722073 24*	cdown has quit (Ping timeout: 245 seconds)
+T 1535722082 24*	28cdown_ is now known as 18cdown
+T 1535723111 18<icarusdekoe18>	centos 7.4 has 4.7.1
+T 1535723156 18<icarusdekoe18>	sorry, 7.5 that is
+T 1535723297 18<astor18>	But is there a new version of 3 for rhel 6? Someone told me samba 4.x isnt support on rhel 6
+T 1535723452 18<icarusdekoe18>	probably not. its probably frozen at whatever version was available at release
+T 1535723456 18<icarusdekoe18>	because redhat
+T 1535723485 23*	atk4 (~atk@91.105.78.7323) has joined
+T 1535723772 24*	atk4 has quit (Remote host closed the connection)
+T 1535724514 18<dhscholb18>	i am now part man, part machine
+T 1535725799 18<dvdmuckle18>	dongleBookPro: how's the weather in worcester? pretty nice up here
+T 1535726649 23*	Patrick2 (~Patrick@123.191.0.13823) has joined
+T 1535726767 24*	Patrick2 has quit (Killed (Unit193 (Spam is not permitted on freenode.)))
+T 1535726835 18<ouemt18>	dhscholb: everything went well?
+T 1535727123 24*	cheet has quit (Ping timeout: 245 seconds)
+T 1535727128 23*	cheetypants (~cheet@modemcable126.157-131-66.mc.videotron.ca23) has joined
+T 1535727209 18<dongleBookPro18>	dvdmuckle: nice!
+T 1535727218 18<dongleBookPro18>	for the first time I shivered in my bed when I woke up hahaha
+T 1535727255 18<dongleBookPro18>	finally no more 85º and 100% humidity when I wake up
+T 1535727302 18<dongleBookPro18>	dhscholb: is your implant an IoT though..??
+T 1535727314 18<dongleBookPro18>	#armPhne
+T 1535727347 24*	Skeer has quit (Ping timeout: 246 seconds)
+T 1535727557 18<dvdmuckle18>	yeah dhscholb, did you get NFC in there?
+T 1535727568 18<dvdmuckle18>	hook that up to your front door
+T 1535727573 18<dvdmuckle18>	now you can never lose your keys again
+T 1535727581 18<dvdmuckle18>	unless you get in some mafia-related accident or something
+T 1535727827 23*	gersa (0e8bb5e5@gateway/web/freenode/ip.14.139.181.22923) has joined
+T 1535727849 24*	gersa has quit (Client Quit)
+T 1535727855 24*	crayon has quit (Quit: Quit)
+T 1535727896 23*	gersa (0e8bb5e5@gateway/web/freenode/ip.14.139.181.22923) has joined
+T 1535728006 18<gersa18>	hello, I'm having trouble with wireguard on kubuntu. I uninstalled resolvconf because I'm using dnscrypt. But when I run sudo wg-quick up SOMETHING, I get this error [#] resolvconf -a tun.azirevpn-us1 -m 0 -x /usr/bin/wg-quick: line 31: resolvconf: command not found
+T 1535728028 23*	crayon (~crayon@unaffiliated/crayon23) has joined
+T 1535728062 18<gersa18>	I opened up that file and I'm only seeing cmd() { 	echo "[#] $*" >&2 	"$@" } in lines 29 -32
+T 1535728139 18<gersa18>	also can someone confirm they're seeing my messages? I just registeres
+T 1535728146 18<gersa18>	*registered
+T 1535728253 23*	asafniv_ (~asafniv@unaffiliated/asafniv23) has joined
+T 1535728439 24*	asafniv has quit (Ping timeout: 252 seconds)
+T 1535729258 23*	Skeer (~Skeer@209.124.40.6623) has joined
+T 1535729508 23*	Skeer_ (~Skeer@209.124.40.6623) has joined
+T 1535729984 23*	Dan_Bennett (~Dan_Benne@121.100.73.2023) has joined
+T 1535730158 24*	Dan_Bennett has quit (Remote host closed the connection)
+T 1535731554 24*	gersa has quit (Quit: Page closed)
+T 1535732090 24*	cdown has quit (Read error: Connection reset by peer)
+T 1535732162 23*	cdown (~cdown@88.98.208.523) has joined
+T 1535733607 23*	Corvus`7 (~Corvus`@190.200.44.8023) has joined
+T 1535733636 24*	Corvus`7 has quit (Remote host closed the connection)
+T 1535734188 23*	lainlives (lainlives@gateway/vpn/privateinternetaccess/lainlives23) has joined
+T 1535736322 23*	terminalator (terminalat@gateway/vpn/privateinternetaccess/terminalator23) has joined
+T 1535737408 23*	Hedaaa (~Hedaaa@2a00:801:3df:ceeb:29d6:ba9d:f77a:694c23) has joined
+T 1535737424 24*	Hedaaa has quit (Read error: Connection reset by peer)
+T 1535737447 23*	Hedaaa (~Hedaaa@2a00:801:3df:ceeb:29d6:ba9d:f77a:694c23) has joined
+T 1535737691 24*	28asafniv_ is now known as 18asafniv
+T 1535738432 24*	vim24x7 has quit (Quit: WeeChat 2.1)
+T 1535739411 24*	drakonis has quit (Remote host closed the connection)
+T 1535741449 23*	CaptainKnots (~CaptainKn@freebsd/lover/CaptainKnots23) has joined
+T 1535742312 18<fauxm18>	I have attempted coffee
+T 1535742316 18<fauxm18>	it went ok
+T 1535742323 18<fauxm18>	how's everyone else
+T 1535744590 18<eleventhscribe18>	Been watching some Louis Rossmann videos. I feel like I should invest in flux manufacturers.
+T 1535745487 23*	drakonis_ (~drakonis@unaffiliated/drakonis23) has joined
+T 1535745537 18<dongleBookPro18>	one micro paul unit of flux please
+T 1535745597 18<dongleBookPro18>	fitter; happier; more productive 
+T 1535745918 18<lainlives18>	you know those shitty totinos party pizzas?
+T 1535745925 18<lainlives18>	they are really struggling to keep their price low
+T 1535745937 18<lainlives18>	packaging got downgraded yet again
+T 1535746520 18<eleventhscribe18>	Didn't know you could downgrade from construction paper.
+T 1535747098 24*	astor has quit (Ping timeout: 252 seconds)
+T 1535747702 24*	Skeer_ has quit (Ping timeout: 240 seconds)
+T 1535747722 24*	Skeer has quit (Ping timeout: 245 seconds)
+T 1535748418 24*	Guest2527 has quit ()
+T 1535748437 23*	steev (sid1383@gentoo/developer/steev23) has joined
+T 1535748570 24*	drakonis_ has quit (Remote host closed the connection)
+T 1535748843 23*	Hedaa (~Hedaaa@2a00:801:3df:ceeb:29d6:ba9d:f77a:694c23) has joined
+T 1535749030 24*	Hedaaa has quit (Ping timeout: 252 seconds)
+T 1535749709 18<jrobeson18>	lainlives, you mean as to a bag?
+T 1535749729 18<jrobeson18>	or from the bag
+T 1535749807 18<lainlives18>	jrobeson: the boxed ones now have completely translucent bags and the bagged ones bags got thinner
+T 1535749830 18<jrobeson18>	why did they keep any boxed ones after thye went bagged?
+T 1535749835 18<lainlives18>	4packs
+T 1535749840 18<lainlives18>	4bagged ones in a box
+T 1535749903 18<jrobeson18>	ah, i've never seen those ever
+T 1535749917 18<jrobeson18>	like not at any grocery store in any of the places i've lived
+T 1535750079 18<jrobeson18>	i'm not surprised they exist though
+T 1535750391 18<lainlives18>	its cheap garbage food when you dont really need food
+T 1535750400 18<lainlives18>	when your hungry because your bored
+T 1535750427 FiSHLiM plugin unloaded

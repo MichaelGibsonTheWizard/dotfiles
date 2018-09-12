@@ -1,0 +1,30 @@
+{
+  "extName" : {
+    "message" : "Botão Salvar do Pinterest",
+    "description" : "The extension's title, seen in gallery and extensions page"
+  },
+  "extDescription" : {
+    "message" : "Salve tudo o que você encontrar na Web",
+    "description" : "The extension's description, seen in gallery and extensions page"
+  },
+  "saveAction" : {
+    "message" : "Salvar",
+    "description" : "Appears in the right-click-to-save menu item"
+  },
+  "searchAction" : {
+    "message" : "Pesquisar",
+    "description" : "Appears in the right-click-to-search menu item"
+  },
+  "errorPin" : {
+    "message" : "Não é possível salvar esta imagem.",
+    "description" : "The error message seen when an image can't be pinned"
+  },
+  "optionTitle" : {
+    "message" : "Opções do botão Salvar",
+    "description" : "Title for the Options page"
+  },
+  "optionHide" : {
+    "message" : "Clique em Ocultar botões Salvar contextuais",
+    "description" : "Text next to the checkbox that turns off hoverbuttons"
+  }
+}

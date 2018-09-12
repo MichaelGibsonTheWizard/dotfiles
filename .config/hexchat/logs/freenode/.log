@@ -1,0 +1,49 @@
+**** BEGIN LOGGING AT Tue Aug 28 19:08:13 2018
+
+Aug 28 19:08:13 *	Connecting to chat.freenode.net (2001:41d0:401:3100::5136:6697)
+Aug 28 19:08:48 *	* Certification info:
+Aug 28 19:08:48 *	  Subject:
+Aug 28 19:08:48 *	    CN=wilhelm.freenode.net
+Aug 28 19:08:48 *	  Issuer:
+Aug 28 19:08:48 *	    C=US
+Aug 28 19:08:48 *	    O=Let's Encrypt
+Aug 28 19:08:48 *	    CN=Let's Encrypt Authority X3
+Aug 28 19:08:48 *	  Public key algorithm: rsaEncryption (4096 bits)
+Aug 28 19:08:48 *	  Sign algorithm sha256WithRSAEncryption
+Aug 28 19:08:48 *	  Valid since Aug 10 08:00:09 2018 GM to Nov  8 08:00:09 2018 GM
+Aug 28 19:08:48 *	* Cipher info:
+Aug 28 19:08:48 *	  Version: TLSv1.2, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+Aug 28 19:08:48 *	Connected. Now logging in.
+**** BEGIN LOGGING AT Tue Aug 28 19:28:32 2018
+
+Aug 28 19:28:32 *	GoatWizard sets mode +R on GoatWizard
+Aug 28 19:28:32 *	GoatWizard sets mode +Z on GoatWizard
+Aug 28 19:28:32 *	GoatWizard sets mode +i on GoatWizard
+Aug 28 19:28:32 -freenode-connect-	Due to the persistent ongoing spam, all new connections are being set +R (block messages from unidentified users) and will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Aug 28 19:28:32 *	Received a CTCP VERSION from freenode-connect
+**** ENDING LOGGING AT Tue Aug 28 19:28:37 2018
+
+**** BEGIN LOGGING AT Tue Aug 28 20:56:33 2018
+
+Aug 28 20:56:33 Not connected. Try /server <host> [<port>]
+Aug 28 20:56:40 Not connected. Try /server <host> [<port>]
+Aug 28 20:56:48 *	Stopped previous connection attempt (7949)
+Aug 28 20:56:59 FiSHLiM plugin unloaded
+**** BEGIN LOGGING AT Tue Aug 28 21:05:41 2018
+
+Aug 28 21:05:41 *	GoatWizard sets mode +R on GoatWizard
+Aug 28 21:05:41 *	GoatWizard sets mode +Z on GoatWizard
+Aug 28 21:05:41 *	GoatWizard sets mode +i on GoatWizard
+Aug 28 21:05:41 -freenode-connect-	Due to the persistent ongoing spam, all new connections are being set +R (block messages from unidentified users) and will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Aug 28 21:05:41 *	Received a CTCP VERSION from freenode-connect
+**** ENDING LOGGING AT Tue Aug 28 21:05:45 2018
+
+**** BEGIN LOGGING AT Tue Aug 28 21:28:40 2018
+
+Aug 28 21:28:40 *	GoatWizard sets mode +R on GoatWizard
+Aug 28 21:28:40 *	GoatWizard sets mode +Z on GoatWizard
+Aug 28 21:28:40 *	GoatWizard sets mode +i on GoatWizard
+Aug 28 21:28:41 -freenode-connect-	Due to the persistent ongoing spam, all new connections are being set +R (block messages from unidentified users) and will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Aug 28 21:28:41 *	Received a CTCP VERSION from freenode-connect
+**** ENDING LOGGING AT Tue Aug 28 21:28:47 2018
+

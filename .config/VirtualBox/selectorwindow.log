@@ -1,0 +1,24 @@
+VirtualBox GUI VM Selector Window 5.2.18 r123745 linux.amd64 (Aug 15 2018 12:32:31) release log
+00:00:00.510023 Log opened 2018-09-04T02:23:49.918475000Z
+00:00:00.510024 Build Type: release
+00:00:00.510025 OS Product: Linux
+00:00:00.510026 OS Release: 4.18.5-arch1-1-ARCH
+00:00:00.510026 OS Version: #1 SMP PREEMPT Fri Aug 24 12:48:58 UTC 2018
+00:00:00.510042 DMI Product Name: AB350-Gaming 3
+00:00:00.510046 DMI Product Version: Default string
+00:00:00.510072 Host RAM: 7993MB (7.8GB) total, 5830MB (5.6GB) available
+00:00:00.510074 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.510075 Process ID: 11591
+00:00:00.510075 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.510088 Qt version: 5.11.1
+00:00:00.583782 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.711209 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 20x37 x 930x1023
+00:00:00.732004 Failed to open "/dev/vboxdrv", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:00.764232 refreshCertificates/#1: Certificate '/etc/ca-certificates/extracted/objsign-ca-bundle.pem' is empty
+00:00:00.765053 refreshCertificates/#3: Found 1/147 SSL certs we/you trust (previously 1/149).
+00:00:01.040752 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:38.388067 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:50.931388 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:51.222851 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:46.050352 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={7844aa05-b02e-4cdd-a04f-ade4a762e6b7} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:04:46.053467 GUI: UIMediumEnumerator: Medium-enumeration finished!

@@ -1,0 +1,30 @@
+{
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Rất tiếc, không lưu được ảnh này."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Lưu những thứ bạn tìm thấy trên web."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Nút Lưu của Pinterest"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Ẩn các nút Lưu dạng nổi lên"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Lưu tùy chọn nút"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Lưu"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Tìm kiếm"
+   }
+}

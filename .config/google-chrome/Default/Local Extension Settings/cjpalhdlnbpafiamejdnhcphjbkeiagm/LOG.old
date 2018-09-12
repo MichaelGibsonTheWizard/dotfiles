@@ -1,0 +1,25 @@
+2018/09/06-23:41:07.677 21346 Reusing MANIFEST /home/goatwizard/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2018/09/06-23:41:07.678 21346 Recovering log #91
+2018/09/06-23:41:08.011 21346 Reusing old log /home/goatwizard/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000091.log 
+2018/09/06-23:50:11.085 22959 Level-0 table #95: started
+2018/09/06-23:50:11.360 22959 Level-0 table #95: 2094358 bytes OK
+2018/09/06-23:50:11.452 22959 Delete type=0 #91
+2018/09/06-23:52:11.155 22959 Level-0 table #97: started
+2018/09/06-23:52:11.229 22959 Level-0 table #97: 1652524 bytes OK
+2018/09/06-23:52:11.255 22959 Delete type=0 #94
+2018/09/06-23:52:11.256 22959 Compacting 4@0 + 3@1 files
+2018/09/06-23:52:11.372 22959 Generated table #98@0: 9 keys, 2176141 bytes
+2018/09/06-23:52:11.464 22959 Generated table #99@0: 13 keys, 2189002 bytes
+2018/09/06-23:52:11.497 22959 Generated table #100@0: 10 keys, 272027 bytes
+2018/09/06-23:52:11.497 22959 Compacted 4@0 + 3@1 files => 4637170 bytes
+2018/09/06-23:52:11.522 22959 compacted to: files[ 0 3 1 0 0 0 0 ]
+2018/09/06-23:52:11.522 22959 Delete type=2 #85
+2018/09/06-23:52:11.523 22959 Delete type=2 #95
+2018/09/06-23:52:11.523 22959 Delete type=2 #97
+2018/09/06-23:52:11.523 22959 Delete type=2 #87
+2018/09/06-23:52:11.523 22959 Delete type=2 #89
+2018/09/06-23:52:11.534 22959 Delete type=2 #86
+2018/09/06-23:52:11.534 22959 Delete type=2 #92
+2018/09/07-00:29:07.583 22959 Level-0 table #102: started
+2018/09/07-00:29:07.706 22959 Level-0 table #102: 4056030 bytes OK
+2018/09/07-00:29:07.740 22959 Delete type=0 #96

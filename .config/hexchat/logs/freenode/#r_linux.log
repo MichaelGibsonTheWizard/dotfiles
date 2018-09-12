@@ -1,0 +1,610 @@
+**** BEGIN LOGGING AT Tue Aug 28 19:09:18 2018
+
+Aug 28 19:09:18 *	Now talking on #r/linux
+Aug 28 19:09:18 *	Topic for #r/linux is: Cannot send to channel? Register your nick: https://freenode.net/kb/answer/registration
+Aug 28 19:09:18 *	Topic for #r/linux set by dhscholb (Wed Aug  8 16:54:05 2018)
+**** ENDING LOGGING AT Tue Aug 28 19:10:07 2018
+
+**** BEGIN LOGGING AT Tue Aug 28 19:13:00 2018
+
+Aug 28 19:13:00 *	Now talking on #r/linux
+Aug 28 19:13:00 *	Topic for #r/linux is: Cannot send to channel? Register your nick: https://freenode.net/kb/answer/registration
+Aug 28 19:13:00 *	Topic for #r/linux set by dhscholb (Wed Aug  8 16:54:05 2018)
+Aug 28 19:22:04 <ouemt>	Jesus fuck how do you connect to a wpa2 network from the cli
+Aug 28 19:22:11 <ouemt>	I can see them but not connect
+Aug 28 19:25:45 <GoatWizard>	Use WPA_supplicant: https://wiki.archlinux.org/index.php/WPA_supplicant#Advanced_usage
+Aug 28 19:25:46 <irkbot>	^ WPA supplicant - ArchWiki - [wiki.archlinux.org]
+Aug 28 19:26:07 <icarusthecow>	wicd-curses
+Aug 28 19:28:15 *	Disconnected ()
+**** ENDING LOGGING AT Tue Aug 28 19:28:15 2018
+
+**** BEGIN LOGGING AT Tue Aug 28 19:28:37 2018
+
+Aug 28 19:28:37 *	Now talking on #r/linux
+Aug 28 19:28:37 *	Topic for #r/linux is: Cannot send to channel? Register your nick: https://freenode.net/kb/answer/registration
+Aug 28 19:28:37 *	Topic for #r/linux set by dhscholb (Wed Aug  8 16:54:05 2018)
+Aug 28 19:32:00 <ouemt>	Doesn’t work
+Aug 28 19:33:15 <jrobeson>	ouemt, if you're using networkmanager then using nm-cli
+Aug 28 19:33:39 <ouemt>	Hmm. Managed to get it after a reboot this time
+Aug 28 19:33:58 <ouemt>	jrobeson I’ve been trying
+Aug 28 19:37:22 <ouemt>	It’s prolly the shitty fucking wifi driver for this laptop
+Aug 28 19:40:34 <jrobeson>	what chip is it?
+Aug 28 19:40:54 <jrobeson>	GoatWizard, nobody should use wpa_supplicant directly if they have something like wicd or networkmanager or some other frontend
+Aug 28 19:41:06 <jrobeson>	wpa_supplicant needs to die. i wonder whne that intel thing is gonna be ready
+Aug 28 19:41:13 <jrobeson>	icarusthecow, 
+Aug 28 19:41:19 <jrobeson>	https://twitter.com/Popehat/status/1034589746033389568
+Aug 28 19:41:19 <irkbot>	^ Individual-1Hat on Twitter: "dear @elonmusk does the @Tesla autopilot function help if your own vision is temporarily impairedlike by some sort of water or something" - [twitter.com]
+Aug 28 19:41:37 <jrobeson>	poor elon.. 
+Aug 28 19:44:32 <ouemt>	jrobeson: MT7630E
+Aug 28 19:44:45 <jrobeson>	that's not a chipset i've ever heard of
+Aug 28 19:44:54 <ouemt>	Thank ASUS for that
+Aug 28 19:47:21 <jrobeson>	might be cheapre for you to just buy an intel replacement and plug it in
+Aug 28 19:47:27 <jrobeson>	or atheros
+Aug 28 19:49:06 <ouemt>	Cheaper is not the word you were looking for. Lol
+Aug 28 19:49:37 <jrobeson>	yes it is
+Aug 28 19:49:37 <jrobeson>	assuming your time is even worth a few dollars an hour
+Aug 28 19:49:57 <ouemt>	Grad student, so no
+Aug 28 19:50:21 <jrobeson>	it should be worth that much.. 
+Aug 28 19:50:36 <jrobeson>	maybe not like $10.. but it's at least worth $3
+Aug 28 19:50:37 <icarusthecow>	bout tree fiddy
+Aug 28 19:50:56 <jrobeson>	exactly
+Aug 28 19:51:13 <jrobeson>	icarusthecow, hello
+Aug 28 19:52:21 <icarusthecow>	moo
+Aug 28 19:52:32 <jrobeson>	moo indeed
+Aug 28 19:53:32 <ouemt>	My goddamn mac address changes every reboot...
+Aug 28 19:53:52 <jrobeson>	is that without networkmanager turned on?
+Aug 28 19:53:57 <jrobeson>	i know that mac changing is a feature to some
+Aug 28 19:54:04 <jrobeson>	but i think it requires macchanger 
+Aug 28 19:54:18 <icarusthecow>	you running tails or something mr ed?
+Aug 28 19:54:20 <ouemt>	No fucking clue
+Aug 28 19:54:21 <jrobeson>	but if that's a driver or hardware issue you could infact use machanger to force it to use the same one
+Aug 28 19:56:45 <GoatWizard>	That's kinda funny to see on a desktop; I've only heard of that happening with mobile devices
+Aug 28 19:57:00 <jrobeson>	https://goose.game/
+Aug 28 19:57:01 <irkbot>	^ Untitled Goose Game - [goose.game]
+Aug 28 19:57:17 <ouemt>	GoatWizard: it’s a laptop
+Aug 28 19:57:49 <jrobeson>	"It's a lovely morning in the village, and you are a horrible goose"
+Aug 28 19:58:56 <jrobeson>	more horrible goose footage
+Aug 28 19:59:07 <jrobeson>	https://www.youtube.com/watch?v=wQknBJo4aBQ
+Aug 28 19:59:07 <irkbot>	^ Untitled Goose Game by House House - Pre-Alpha Gameplay - YouTube - [www.youtube.com]
+Aug 28 20:10:59 <jrobeson>	i think the horrible goose game is good content
+Aug 28 20:13:53 <GoatWizard>	It seems good; do you know if it's planned for early or late 2019?
+Aug 28 20:17:40 <logiz>	howdy
+Aug 28 20:18:54 *	irkbot has quit (*.net *.split)
+Aug 28 20:18:54 *	TingPing has quit (*.net *.split)
+Aug 28 20:18:54 *	fimion has quit (*.net *.split)
+Aug 28 20:18:54 *	vim24x7 has quit (*.net *.split)
+Aug 28 20:19:02 *	fimion (~fimion@server.uhh.fyi) has joined
+Aug 28 20:19:16 *	irkbot (~irkbot@codehammer.io) has joined
+Aug 28 20:19:34 *	vim24x7 (~vim24x7@216.151.4.222) has joined
+Aug 28 20:21:41 *	TingPing (~tingping@fedora/pdpc.professional.tingping) has joined
+Aug 28 20:27:28 *	skeer_work (~Skeer@209.124.40.66) has joined
+Aug 28 20:30:58 *	Skeer_ has quit (Ping timeout: 272 seconds)
+Aug 28 20:31:51 *	alienpirate5 has quit (Read error: Connection reset by peer)
+Aug 28 20:32:15 *	alienpirate5 (~alienpira@2601:600:a27f:9f50::1fe4) has joined
+Aug 28 20:35:26 *	drakonis (~drakonis@unaffiliated/drakonis) has joined
+Aug 28 20:35:54 *	JasonO- (~jason@znc.ohdoom.net) has left
+Aug 28 20:36:33 <icarusthecow>	https://twitter.com/jbendery/status/1034454764690567169
+Aug 28 20:36:33 <irkbot>	^ Jennifer Bendery on Twitter: "Serena Williams was told she wasn't allowed to wear her “Black Panther” catsuit back to the French Open because she had to "respect the game." So she showed up in a tutu. 💯https://t.co/WifbS5iDpk" - [twitter.com]
+Aug 28 20:38:15 *	JasonO (~jason@unaffiliated/hereticlocke) has joined
+Aug 28 20:39:42 <jrobeson>	GoatWizard,  no idea. i was just enjoying the footage :)
+Aug 28 20:40:19 <jrobeson>	icarusthecow, yeah.. serena definitely has a lot of power in a situation like this :)
+Aug 28 20:48:44 *	lesderid has quit (*.net *.split)
+Aug 28 20:48:48 *	kspencer has quit (*.net *.split)
+Aug 28 20:48:51 *	lesderid (~lesderid@2a03:b0c0:1:d0::2a5:4002) has joined
+Aug 28 20:49:13 *	kspencer (sid238933@gateway/web/irccloud.com/x-emmubvoouybjgnje) has joined
+Aug 28 20:50:29 *	kspencer has quit (Changing host)
+Aug 28 20:50:30 *	kspencer (sid238933@gitall/owner-dev/kspencer) has joined
+Aug 28 20:55:15 *	Disconnected ()
+**** ENDING LOGGING AT Tue Aug 28 20:55:15 2018
+
+**** BEGIN LOGGING AT Tue Aug 28 20:57:43 2018
+
+Aug 28 20:57:43 *	Now talking on #r/linux
+Aug 28 20:57:43 *	Topic for #r/linux is: Cannot send to channel? Register your nick: https://freenode.net/kb/answer/registration
+Aug 28 20:57:43 *	Topic for #r/linux set by dhscholb (Wed Aug  8 16:54:05 2018)
+Aug 28 21:00:58 <ouemt>	Hai logiz
+Aug 28 21:01:26 <slycurgus>	Hi friends
+Aug 28 21:01:39 *	slycurgus is in the airport for another singapore trip
+Aug 28 21:01:51 <jrobeson>	slycurgus, again?
+Aug 28 21:01:56 <slycurgus>	Yeah
+Aug 28 21:01:58 <ouemt>	Ich lerne Deutsch 
+Aug 28 21:02:00 <jrobeson>	why won't they send you somewhere else at least
+Aug 28 21:02:05 <icarusthecow>	tfw slycurgus is captain jack sparrow
+Aug 28 21:02:07 <slycurgus>	Got the call like 3pm yesterday haha
+Aug 28 21:02:21 <slycurgus>	jrobeson: we dont have projects anywhere else lol
+Aug 28 21:02:32 <jrobeson>	are you getting paid extra?
+Aug 28 21:02:40 <slycurgus>	Except the US and those are all under control
+Aug 28 21:03:07 <slycurgus>	Yeah they said something about giving me a $1000 bonus
+Aug 28 21:03:07 <slycurgus>	For the 6 day trip
+Aug 28 21:03:12 <slycurgus>	icarusthecow: i should buy a hat
+Aug 28 21:03:15 <slycurgus>	And a boat
+Aug 28 21:03:30 <icarusthecow>	slycurgus, steal both
+Aug 28 21:03:42 <slycurgus>	Oo even better
+Aug 28 21:04:05 <icarusthecow>	you could just download it illegally too
+Aug 28 21:04:49 <slycurgus>	:O
+Aug 28 21:04:49 <slycurgus>	You wouldn't download a boat
+Aug 28 21:05:25 *	Disconnected ()
+**** ENDING LOGGING AT Tue Aug 28 21:05:25 2018
+
+**** BEGIN LOGGING AT Tue Aug 28 21:05:45 2018
+
+Aug 28 21:05:45 *	Now talking on #r/linux
+Aug 28 21:05:45 *	Topic for #r/linux is: Cannot send to channel? Register your nick: https://freenode.net/kb/answer/registration
+Aug 28 21:05:45 *	Topic for #r/linux set by dhscholb (Wed Aug  8 16:54:05 2018)
+Aug 28 21:06:04 <logiz>	hi ouemt 
+Aug 28 21:07:47 <jrobeson>	burn
+Aug 28 21:07:49 <jrobeson>	https://twitter.com/sarahmei/status/1034611201945128965
+Aug 28 21:07:49 <irkbot>	^ Sarah Mei on Twitter: "the shittiest post I’ve _ever_ written adds more value to the world than a business that exists purely so the owners can write off trips to Japan soooooo… https://t.co/1FNx3ldW2p" - [twitter.com]
+Aug 28 21:09:10 <icarusthecow>	idk, those trips stimulate the japanese economy while not providing more revenue to use for war and military expenditures
+Aug 28 21:09:15 <icarusthecow>	seems like a win/win
+Aug 28 21:10:15 <jrobeson>	hey people going to japan and spending money there is fine 
+Aug 28 21:10:25 <jrobeson>	but really, they do provide plenty of revenue.. 
+Aug 28 21:10:29 <jrobeson>	to america i mean
+Aug 28 21:10:43 <ouemt>	Logiz: How’s life?
+Aug 28 21:17:37 <logiz>	ouemt: it's meh right now lol
+Aug 28 21:28:25 *	Disconnected ()
+**** ENDING LOGGING AT Tue Aug 28 21:28:25 2018
+
+**** BEGIN LOGGING AT Tue Aug 28 21:28:47 2018
+
+Aug 28 21:28:47 *	Now talking on #r/linux
+Aug 28 21:28:47 *	Topic for #r/linux is: Cannot send to channel? Register your nick: https://freenode.net/kb/answer/registration
+Aug 28 21:28:47 *	Topic for #r/linux set by dhscholb (Wed Aug  8 16:54:05 2018)
+Aug 28 21:42:26 *	Nik05 has quit (*.net *.split)
+Aug 28 21:42:26 *	surtin has quit (*.net *.split)
+Aug 28 21:42:26 *	logiz has quit (*.net *.split)
+Aug 28 21:42:26 *	SOO7 has quit (*.net *.split)
+Aug 28 21:42:26 *	isawan has quit (*.net *.split)
+Aug 28 21:42:26 *	steev has quit (*.net *.split)
+Aug 28 21:42:26 *	stephe has quit (*.net *.split)
+Aug 28 21:42:26 *	rossome has quit (*.net *.split)
+Aug 28 21:42:26 *	erhandsome has quit (*.net *.split)
+Aug 28 21:42:32 *	erhandsome (~erhandsom@li1589-118.members.linode.com) has joined
+Aug 28 21:42:36 *	Nik05 (~Nik05@s559686af.adsl.online.nl) has joined
+Aug 28 21:42:41 *	erhandsome has quit (Changing host)
+Aug 28 21:42:41 *	erhandsome (~erhandsom@fsf/member/erhandsome) has joined
+Aug 28 21:42:48 *	isawan (isawan@2a01:7e00::f03c:91ff:fefb:ed82) has joined
+Aug 28 21:42:56 *	stephe (sid14127@gateway/web/irccloud.com/x-kgezxstiimytnkol) has joined
+Aug 28 21:42:57 *	steev (sid1383@gateway/web/irccloud.com/x-lxsxcfpvfslqnnho) has joined
+Aug 28 21:42:59 *	logiz (~logiz@207.38.255.221) has joined
+Aug 28 21:43:22 *	Nik05 has quit (Changing host)
+Aug 28 21:43:22 *	Nik05 (~Nik05@unaffiliated/nik05) has joined
+Aug 28 21:43:47 *	rossome (~indieross@server.likeaross.com) has joined
+Aug 28 21:46:12 *	steev is now known as Guest2527
+Aug 28 21:46:28 *	Guest2527 has quit (Changing host)
+Aug 28 21:46:28 *	Guest2527 (sid1383@gentoo/developer/steev) has joined
+Aug 28 21:48:01 <jrobeson>	lol
+Aug 28 21:48:02 <jrobeson>	https://twitter.com/TooMuchTuna/status/1033665357771198464
+Aug 28 21:48:02 <irkbot>	^ Fun Fact: TWlTTER is the bad place on Twitter: "Hey @LucyXIV - your tweet about Turnbull eating a pie with a knife & fork, calling him a fucking wanker was just on screen on 60 minutes for a few seconds in an article about outrage & political correctness gone mad." - [twitter.com]
+Aug 28 21:48:26 *	logiz is now known as Guest54928
+Aug 28 21:50:24 <jrobeson>	https://twitter.com/dannolan/status/1032178775553798144
+Aug 28 21:50:24 <irkbot>	^ dan nolan on Twitter: "remember when the entire australian discourse was about forcing macklemore to sing an anti-gay-marriage song for the purposes of free speech" - [twitter.com]
+Aug 28 21:53:49 <jrobeson>	slycurgus, be careful
+Aug 28 21:53:50 <jrobeson>	https://twitter.com/LucyXIV/status/1030251949764079616
+Aug 28 21:53:51 <irkbot>	^ lucy valentine on Twitter: "i'm very sick and i believe it is because i let an american into my home. stay safe out there folks" - [twitter.com]
+Aug 28 21:53:57 *	SOO7 (~spydar007@unaffiliated/spydar007) has joined
+Aug 28 21:55:05 <jrobeson>	icarusthecow, it sucks that it makes me feel slightly better to see that we're not the only stupid ones :(
+Aug 28 21:55:07 <jrobeson>	https://twitter.com/thomas_violence/status/1029914646000455680
+Aug 28 21:55:08 <irkbot>	^ thomas violence on Twitter: "you don't understand, Labor HAS to support the torture camps, otherwise they won't get voted in. YES they will continue to support the torture camps once they get in but wait what was your question again" - [twitter.com]
+Aug 28 21:56:34 *	surtin (surtin@if.this.is.a.bnc.i.cant.be.surtin.com) has joined
+Aug 28 21:57:33 <jrobeson>	https://twitter.com/macaulaybalkan/status/1027906450763345921
+Aug 28 21:57:34 <irkbot>	^ ed on Twitter: "Truly terrifying… " - [twitter.com]
+Aug 28 21:57:39 <jrobeson>	you could read it in one of our papers easily
+Aug 28 22:00:16 <icarusthecow>	truly it is the end of times when the youth is setting fire to the public barbeque and playing "hoops"
+Aug 28 22:03:53 *	Lyqyd (~quassel@97-120-149-48.ptld.qwest.net) has joined
+Aug 28 22:10:55 <jrobeson>	icarusthecow, it's pretty much the exact same thing over in australia as here as far as i can tell. 
+Aug 28 22:11:04 <icarusthecow>	https://twitter.com/mitsuhiko/status/1034395721942921216
+Aug 28 22:11:05 <irkbot>	^ Armin Ronacher on Twitter: "A customer's debug symbol fails to be processed by Sentry. It ran into the 65k character limit for a function name. Has a 140.000 character function name. Yay C++!" - [twitter.com]
+Aug 28 22:11:17 <icarusthecow>	jrobeson, everything is stupid everywhere.
+Aug 28 22:11:37 <jrobeson>	i'd prefer at least different kinds of stupid
+Aug 28 22:12:48 <jrobeson>	how does that even happen?
+Aug 28 22:13:33 <jrobeson>	i know function names get mangled but what would cause them to go go for 140,000?
+Aug 28 22:13:46 <icarusthecow>	i blame freebsd
+Aug 28 22:14:01 <jrobeson>	ah i didn't think about that
+Aug 28 22:14:14 <jrobeson>	but i don't know what specifically in freebsd would do it
+Aug 28 22:15:08 <icarusthecow>	bsd clang
+Aug 28 22:17:08 <jrobeson>	and what about it?
+Aug 28 22:17:23 <jrobeson>	btw.. i'm about to eat some pudding
+Aug 28 22:17:24 <icarusthecow>	no idea. im just making shit up
+Aug 28 22:17:51 <icarusthecow>	like actual pudding, or pudding as in what britsh people falsely call all desserts
+Aug 28 22:18:00 <jrobeson>	pudding
+Aug 28 22:18:19 <jrobeson>	chocolate pudding
+Aug 28 22:18:19 <icarusthecow>	how many gallons?
+Aug 28 22:18:27 <jrobeson>	sadly only 2 cups worth
+Aug 28 22:18:52 <icarusthecow>	thats barely enought to wet your nipples though
+Aug 28 22:19:03 <jrobeson>	i guess?
+Aug 28 22:19:19 <icarusthecow>	at least 2 gallons minimum
+Aug 28 22:19:34 <icarusthecow>	otherwise you might as well be a damn rooskie
+Aug 28 22:20:08 <jrobeson>	i guess i'm not familiar with your traditions you capitalist pig
+Aug 28 22:20:19 <jrobeson>	seriously, i don't know what you're referring to
+Aug 28 22:20:40 <GoatWizard>	So, is that 2 gallons a nipple, or 1 gallon per nipple?
+Aug 28 22:20:54 <GoatWizard>	If I have a third nipple, do I need to gather a third gallon?
+Aug 28 22:21:08 <icarusthecow>	depends on the nipple density
+Aug 28 22:21:19 <icarusthecow>	and exposed surface area
+Aug 28 22:22:23 <GoatWizard>	Honestly any scientific funding that isn't going into how we can make people constantly lactate pudding is just wasting money.
+Aug 28 22:22:52 <jrobeson>	i'm pretty happy with my non pudding lactating nipples 
+Aug 28 22:23:38 <icarusthecow>	are you suggesting a pudding laction nipple force?
+Aug 28 22:23:59 <GoatWizard>	I am now
+Aug 28 22:24:32 <icarusthecow>	we can have them run joint excercises with the space force
+Aug 28 22:44:52 <icarusthecow>	https://twitter.com/xor/status/1034465187477291009
+Aug 28 22:44:52 <irkbot>	^ Parker Higgins on Twitter: "seems solvable… " - [twitter.com]
+Aug 28 22:52:57 <slycurgus>	jrobeson: oh no, my brother in law is american, do you think I'm already infected?
+Aug 28 22:53:12 <slycurgus>	Pray for me etc
+Aug 28 22:56:40 *	skeer_work has quit (Read error: Connection reset by peer)
+Aug 28 22:57:00 *	skeer_work (~Skeer@209.124.40.66) has joined
+Aug 28 23:06:38 *	Skeer_ (~Skeer@209.124.40.66) has joined
+Aug 28 23:06:46 *	drakonis has quit (Remote host closed the connection)
+Aug 28 23:09:11 *	skeer_work has quit (Ping timeout: 245 seconds)
+Aug 28 23:18:03 <momoyome>	hi friends
+Aug 28 23:18:11 <momoyome>	who wants to remove a DRM from a PDF for me
+Aug 28 23:18:11 <momoyome>	:D
+Aug 28 23:23:46 <slycurgus>	momoyome: print & scan? :D
+Aug 28 23:24:12 <slycurgus>	What kind of drm tho?
+Aug 28 23:24:32 <slycurgus>	Not that i can do anything rn as I'm on a phone, but just out of interest
+Aug 28 23:26:07 <momoyome>	I'm not sure what kinda drm 
+Aug 28 23:26:13 <momoyome>	it's on a PDF
+Aug 28 23:26:30 <slycurgus>	What's it not let you do? 
+Aug 28 23:26:31 <momoyome>	I have no idea how to figure out what kinda DRM it is 
+Aug 28 23:26:39 <slycurgus>	Heh k
+Aug 28 23:26:52 <momoyome>	I can't print
+Aug 28 23:27:03 <momoyome>	it's dumb
+Aug 28 23:27:05 <slycurgus>	Oh weird, hm
+Aug 28 23:27:16 <momoyome>	it's because of the whole law school racket thing
+Aug 28 23:27:23 <slycurgus>	Maybe just pipe it to lpr? Not sure if that will work
+Aug 28 23:27:37 <momoyome>	I spent $20 on it, I wasn't gonna spend another $10 for the ability to print/edit
+Aug 28 23:27:40 <slycurgus>	Hoping it magicslly goes through
+Aug 28 23:27:42 <slycurgus>	Haha
+Aug 28 23:27:45 <momoyome>	it was already stupid expensive
+Aug 28 23:29:14 <lainlives>	you can OCR your monitor though
+Aug 28 23:29:20 <lainlives>	or even your display out
+Aug 28 23:31:26 <slycurgus>	Heh
+Aug 28 23:31:42 <slycurgus>	Yeah just screengrab the page and print that
+Aug 28 23:32:04 <slycurgus>	Unless it's a long document in which case it's shell script time i guess?
+Aug 28 23:32:19 <momoyome>	80 pages
+Aug 28 23:32:24 <momoyome>	time is precious 
+Aug 28 23:32:30 <slycurgus>	Oof ouch
+Aug 28 23:32:31 <momoyome>	i'm already only sleeping 5 hours a day
+Aug 28 23:32:47 <slycurgus>	Did you try just hitting lpr with it?
+Aug 28 23:32:55 <slycurgus>	lp thing.pf
+Aug 28 23:33:04 <slycurgus>	Might work
+Aug 28 23:33:07 <momoyome>	I don't know anything
+Aug 28 23:33:20 <slycurgus>	Heh ok
+Aug 28 23:33:32 <momoyome>	I googled that and get "Volcano Suns - Thing of Beauty Vinyl, LP" 
+Aug 28 23:33:50 <momoyome>	:D
+Aug 28 23:34:16 <slycurgus>	Haha
+Aug 28 23:34:28 <momoyome>	oh it's 60 pages
+Aug 28 23:34:33 <slycurgus>	lp, linux command line utility for talking to a printer
+Aug 28 23:34:49 <momoyome>	I'm not using linux, coudld I do that in terminal on a mac
+Aug 28 23:34:53 <slycurgus>	Idk how it's configured, on my machine that has a printer itbjust works
+Aug 28 23:34:59 <slycurgus>	Ahhh maybe? Not sure
+Aug 28 23:35:01 <momoyome>	oh
+Aug 28 23:35:04 <slycurgus>	Seems possible
+Aug 28 23:35:16 <momoyome>	best I not do something then 
+Aug 28 23:35:16 <momoyome>	I can't afford a meltdown
+Aug 28 23:36:10 <slycurgus>	It won't break anything to try... Maybe just print some gibberish
+Aug 28 23:36:56 <slycurgus>	I googled "lp mac" and there's a hit for the lp man page from Mac OS, but it's a 404
+Aug 28 23:37:05 <slycurgus>	So maybe they removed it? Idk
+Aug 28 23:37:56 <momoyome>	this prob isn't something complicated right? 
+Aug 28 23:37:57 <slycurgus>	https://ss64.com/osx/lp.html
+Aug 28 23:37:58 <irkbot>	^ lp Man Page - macOS - SS64.com - [ss64.com]
+Aug 28 23:38:14 <slycurgus>	Try with -P 1 to just print thefirst page as a test
+Aug 28 23:38:25 <momoyome>	like, someone that knows computery stuff this should be like boiling water
+Aug 28 23:40:13 <slycurgus>	Mmm not sure, depends how complicated this drm stuff is
+Aug 28 23:40:51 *	icarusthecow has quit (Ping timeout: 252 seconds)
+Aug 28 23:40:57 <slycurgus>	They seem to go to great lengths to maintain control these days so it might just be impossible 
+Aug 28 23:41:05 <slycurgus>	Or it might be simple to get around
+Aug 28 23:43:51 <momoyome>	i don't think the drm would be complicated
+Aug 28 23:43:56 <momoyome>	it's from a shoe string website
+Aug 28 23:44:08 <momoyome>	this isn't itunes or amazon 
+Aug 28 23:44:52 <slycurgus>	Mm ok
+Aug 28 23:45:19 <momoyome>	I really hate DRM 
+Aug 28 23:45:30 <slycurgus>	But if they paid for an Adobe thing to lock it, it'd be top of the line stuff you know?
+Aug 28 23:45:33 <slycurgus>	Yeah
+Aug 28 23:45:44 <momoyome>	oh I didn't know about stuff like that
+Aug 28 23:46:15 <momoyome>	blah 
+Aug 28 23:46:29 <momoyome>	I guess I'll wait till morning and then con my mother into screen capping it all for me
+Aug 28 23:46:34 <slycurgus>	Heh
+Aug 28 23:46:35 <momoyome>	she has nothing better to do
+Aug 28 23:46:54 <slycurgus>	Try lp in Terminal, might be a quick victory
+Aug 28 23:47:15 <slycurgus>	lp -P 1 your_pdf_here.pdf
+Aug 28 23:47:32 <slycurgus>	If it prints the first page you can do the rest
+Aug 28 23:47:49 <slycurgus>	If it prints garbage, time to explore other options
+Aug 28 23:56:11 <jrobeson>	does lp even print pdfs?
+Aug 28 23:57:42 <momoyome>	I know this sounds dumb but how do i find the file location 
+Aug 28 23:57:51 <slycurgus>	I think so? I've printed a PNG with it, I thought i had done a PDF too but maybe I'm misremembering that
+Aug 28 23:58:31 <slycurgus>	momoyome: uhh I don't know the Mac directory structure
+Aug 28 23:58:39 <momoyome>	Allisons-MacBook-Pro:~ momoyome$ lp -P EVIDENCE_GARLAND_FALL16.pdf
+Aug 28 23:58:39 <momoyome>	lp: Bad page-ranges values 0-0.
+Aug 28 23:58:40 <momoyome>	Allisons-MacBook-Pro:~ momoyome$
+Aug 28 23:58:47 <momoyome>	haha
+Aug 28 23:59:00 <slycurgus>	Needs a number after -P
+Aug 28 23:59:06 <slycurgus>	Just give it 1
+Aug 28 23:59:15 <slycurgus>	-P 1
+Aug 28 23:59:35 <jrobeson>	remember it's the bsd version of these commands, so they dont support all the gnu niceties
+Aug 29 00:00:01 <jrobeson>	i'm already forgetting which niceties those are regarding argument parsing, but i know there are some
+Aug 29 00:00:02 <slycurgus>	That was from ss64's copy of the mac man page, jrobeson
+Aug 29 00:00:14 <jrobeson>	good good
+Aug 29 00:00:53 <jrobeson>	evidence garland fall 2016, sounds interesting.
+Aug 29 00:01:11 <slycurgus>	A garland of evidence
+Aug 29 00:01:19 <slycurgus>	Like a hat made of plants
+Aug 29 00:01:25 <slycurgus>	But with evidence!
+Aug 29 00:01:40 <momoyome>	it's fucking awful
+Aug 29 00:01:43 <momoyome>	this fucking class
+Aug 29 00:01:50 *	Lyqyd has quit (Remote host closed the connection)
+Aug 29 00:02:06 <momoyome>	https://www.youtube.com/watch?v=SlJML6xoWWc
+Aug 29 00:02:07 <jrobeson>	garland was the supreme court nominee who didn't get a hearing during obama's last year in office slycurgus 
+Aug 29 00:02:07 <irkbot>	^ Prof Garland v. Student - YouTube - [www.youtube.com]
+Aug 29 00:02:17 <momoyome>	different garland
+Aug 29 00:02:20 <jrobeson>	oh
+Aug 29 00:02:23 <jrobeson>	prof garland :)
+Aug 29 00:03:32 <jrobeson>	the date happened to match 
+Aug 29 00:03:35 <momoyome>	he reads from his powerpoint for 2 hours
+Aug 29 00:03:42 <slycurgus>	Oof 
+Aug 29 00:04:19 <slycurgus>	momoyome: did the print work with the 1 added? 
+Aug 29 00:04:40 <momoyome>	I cna't figure it out
+Aug 29 00:04:51 <slycurgus>	:< file path? 
+Aug 29 00:05:01 <momoyome>	yeah
+Aug 29 00:05:07 <momoyome>	lp: Error - unable to access “EVIDENCE_GARLAND_FALL16.pdf” - No such file or directory
+Aug 29 00:05:11 <slycurgus>	Start at / and just explore the tab completion
+Aug 29 00:05:41 <momoyome>	it's ok
+Aug 29 00:06:07 <momoyome>	I knjow my place in the world
+Aug 29 00:06:36 <slycurgus>	I think user files are under /Users/<username>
+Aug 29 00:06:58 <slycurgus>	And then tab complete from there if it's in desktop etc
+Aug 29 00:07:36 <slycurgus>	momoyome: you can do this, I believe in you :V
+Aug 29 00:08:08 <momoyome>	i'm already near tears
+Aug 29 00:08:31 <momoyome>	there were so many word
+Aug 29 00:08:31 <momoyome>	s
+Aug 29 00:08:33 <slycurgus>	:< 
+Aug 29 00:08:48 <slycurgus>	I'm sorry I can't be more help
+Aug 29 00:08:59 <momoyome>	you did more than my "friends"
+Aug 29 00:09:15 <momoyome>	suddenly they all went silent
+Aug 29 00:09:21 <slycurgus>	:<
+Aug 29 00:09:31 <momoyome>	never baking them anything again
+Aug 29 00:10:04 *	slycurgus suddenly first in line (presumably) for baked goods, yesssss
+Aug 29 00:10:12 <slycurgus>	Life goal achieved
+Aug 29 00:10:22 <momoyome>	I am an awesome cook and baker
+Aug 29 00:11:27 <slycurgus>	momoyome: omg I'm an idiot for not searching google first... https://www.ilovepdf.com/unlock_pdf does this thing help?
+Aug 29 00:11:27 <irkbot>	^ Unlock PDF files. Remove PDF password - [www.ilovepdf.com]
+Aug 29 00:12:04 <slycurgus>	Not sure if it's a password or some other mechanism, or if that works for unprintable stuff even
+Aug 29 00:12:43 <momoyome>	oh lets see
+Aug 29 00:12:56 <momoyome>	if it does, i dont know how i overlooked it
+Aug 29 00:13:02 <momoyome>	cause i DID google
+Aug 29 00:13:02 <slycurgus>	Or print from google drive in chrome apparently https://www.wikihow.com/Unlock-a-Secure-PDF-File
+Aug 29 00:13:03 <irkbot>	^ 3 Ways to Unlock a Secure PDF File - wikiHow - [www.wikihow.com]
+Aug 29 00:15:17 <momoyome>	hot dog
+Aug 29 00:15:19 <momoyome>	<3
+Aug 29 00:15:33 <momoyome>	merry christmas thank you 
+Aug 29 00:16:33 <slycurgus>	Yay! You're welcome :)
+Aug 29 00:23:18 <momoyome>	I have shit friends
+Aug 29 00:23:24 <momoyome>	seriously
+Aug 29 00:23:39 <momoyome>	and I have equally bad googling skills
+Aug 29 00:29:24 <slycurgus>	We got there eventually haha
+Aug 29 00:29:28 <lainlives>	https://www.youtube.com/watch?v=HoLsRPnu2fk
+Aug 29 00:29:35 <irkbot>	^ KANSAI DORIFTO - YouTube - [www.youtube.com]
+Aug 29 00:29:37 <lainlives>	now that TOOK FOREVER
+Aug 29 00:29:39 <lainlives>	to make
+Aug 29 00:29:49 <slycurgus>	I can't believe my mind went to command line first without googling
+Aug 29 00:29:56 <slycurgus>	I've gone full linux
+Aug 29 00:30:02 <momoyome>	when you're a hammer, everything's a nail
+Aug 29 00:30:04 <slycurgus>	There's no hope for me
+Aug 29 00:30:07 <slycurgus>	Haha
+Aug 29 00:30:10 <slycurgus>	:D
+Aug 29 00:31:19 <slycurgus>	Ok and now it's time for an international flight so I'll be afk for a while :3
+Aug 29 00:51:49 <momoyome>	D: 
+Aug 29 00:53:48 <jrobeson>	have a good day slycurgus 
+Aug 29 00:53:55 <jrobeson>	err safe flight*
+Aug 29 00:54:03 <jrobeson>	momoyome, what's a momoyome? :)
+Aug 29 01:16:22 <lainlives>	https://www.youtube.com/watch?v=yYygvvfIW70
+Aug 29 01:16:22 <irkbot>	^ DORIFO THE RAINBOOOOO - YouTube - [www.youtube.com]
+Aug 29 01:16:29 <lainlives>	man i should find something better to do with my time
+Aug 29 01:16:45 <lainlives>	rather than spend hours making a video where the eurobeat climax drops on the first drift
+Aug 29 01:31:27 <momoyome>	momoyome means peach bride in japanese, it's from an old anime 
+Aug 29 01:44:55 <jrobeson>	ah
+Aug 29 01:45:24 <jrobeson>	momoyome, well if you ever wanna talk about anime here.. go for it :)
+Aug 29 01:47:55 <momoyome>	anime is for weebs
+Aug 29 01:48:08 <momoyome>	I don't watch anime anymore
+Aug 29 01:48:18 <momoyome>	though I still go to conventions
+Aug 29 02:02:14 <jrobeson>	lol
+Aug 29 02:08:20 *	lainlives has quit (Ping timeout: 244 seconds)
+Aug 29 02:09:10 *	lainlives (lainlives@gateway/vpn/privateinternetaccess/lainlives) has joined
+Aug 29 02:23:18 *	lainlives_ (lainlives@gateway/vpn/privateinternetaccess/lainlives) has joined
+Aug 29 02:23:18 *	lainlives has quit (Disconnected by services)
+Aug 29 02:49:38 *	trqx (~trqx@shroom.party) has joined
+Aug 29 02:59:20 *	trqx has quit (Quit: WeeChat 2.1)
+Aug 29 02:59:57 *	trqx (~trqx@shroom.party) has joined
+Aug 29 03:00:46 *	trqx has quit (Client Quit)
+Aug 29 03:00:59 *	trqx (~trqx@shroom.party) has joined
+Aug 29 03:02:41 *	trqx (~trqx@shroom.party) has left
+Aug 29 04:19:23 <MrElendig>	its a story way older than the anime
+Aug 29 04:21:58 *	cdown (~cdown@82-132-233-193.dab.02.net) has joined
+Aug 29 04:25:38 *	asafniv (~asafniv@unaffiliated/asafniv) has joined
+Aug 29 04:29:48 *	asafniv_ (~asafniv@unaffiliated/asafniv) has joined
+Aug 29 04:30:09 *	cdown has quit (Remote host closed the connection)
+Aug 29 04:32:15 *	asafniv has quit (Ping timeout: 252 seconds)
+Aug 29 04:35:36 <jrobeson>	you're a story way older than the anime
+Aug 29 04:35:49 <jrobeson>	hehe
+Aug 29 04:47:49 *	asafniv__ (~asafniv@2a00:55a0:2:2::f1de) has joined
+Aug 29 04:50:24 *	asafniv_ has quit (Ping timeout: 252 seconds)
+Aug 29 04:50:26 *	pilotauto has quit (Quit: http://quassel-irc.org - Chat comfortably. Anywhere.)
+Aug 29 04:55:18 *	asafniv_ (~asafniv@unaffiliated/asafniv) has joined
+Aug 29 04:58:06 *	asafniv__ has quit (Ping timeout: 252 seconds)
+Aug 29 04:59:56 <MrElendig>	I am, I'm really a 8000 year old god in the shape of a 11 year old girl with fox ears/tail and a murderous yandere streak
+Aug 29 05:00:14 *	asafniv_ has quit (Quit: Leaving)
+Aug 29 05:00:43 *	asafniv (~asafniv@unaffiliated/asafniv) has joined
+Aug 29 05:04:36 <jrobeson>	hah
+Aug 29 05:13:24 *	asafniv_ (~asafniv@unaffiliated/asafniv) has joined
+Aug 29 05:16:15 *	asafniv has quit (Ping timeout: 252 seconds)
+Aug 29 05:17:25 *	asafniv__ (~asafniv@2a00:55a0:2:2::f1de) has joined
+Aug 29 05:19:37 *	asafniv_ has quit (Ping timeout: 240 seconds)
+Aug 29 05:30:15 *	asafniv__ has quit (Quit: Leaving)
+Aug 29 05:38:20 *	asafniv (~asafniv@unaffiliated/asafniv) has joined
+Aug 29 05:38:55 <dhscholb>	@grab MrElendig 
+Aug 29 05:38:55 <irkbot>	dhscholb: grabbed
+Aug 29 06:36:14 *	gareppa (~gareppa@unaffiliated/gareppa) has joined
+Aug 29 06:37:51 *	cdown (~cdown@82-132-221-182.dab.02.net) has joined
+Aug 29 06:40:39 *	gareppa has quit (Remote host closed the connection)
+Aug 29 06:47:31 *	cdown has quit (Remote host closed the connection)
+Aug 29 07:01:56 *	cdown (~cdown@82-132-221-182.dab.02.net) has joined
+Aug 29 07:04:42 *	cdown has quit (Remote host closed the connection)
+Aug 29 07:07:44 *	cdown (~cdown@82-132-221-182.dab.02.net) has joined
+Aug 29 07:08:35 *	cdown has quit (Remote host closed the connection)
+Aug 29 07:25:45 *	cdown (~cdown@82-132-221-182.dab.02.net) has joined
+Aug 29 07:26:27 <Eryn_1983_FL>	hi peeps
+Aug 29 07:26:47 <Eryn_1983_FL>	so I only lost two elections in the primary
+Aug 29 07:27:18 <Eryn_1983_FL>	state rep and agri commissioner
+Aug 29 07:27:57 <Eryn_1983_FL>	so happy 
+Aug 29 07:28:03 <Eryn_1983_FL>	now the hard stuff happens, 
+Aug 29 07:28:15 <Eryn_1983_FL>	got to turn this purple state dark dark blue..
+Aug 29 07:28:28 <Eryn_1983_FL>	pull it out of the stone age!
+Aug 29 07:28:39 <Eryn_1983_FL>	Bernie Bernie !
+Aug 29 07:38:24 *	cdown has quit (Ping timeout: 246 seconds)
+**** ENDING LOGGING AT Wed Aug 29 07:47:23 2018
+
+**** BEGIN LOGGING AT Thu Aug 30 22:15:02 2018
+
+Aug 30 22:15:02 *	Now talking on #r/linux
+Aug 30 22:15:02 *	Topic for #r/linux is: Cannot send to channel? Register your nick: https://freenode.net/kb/answer/registration
+Aug 30 22:15:02 *	Topic for #r/linux set by dhscholb (Wed Aug  8 16:54:05 2018)
+Aug 30 22:39:40 *	EMH-Mark-I has quit (Quit: leaving)
+Aug 30 23:12:25 *	drakonis has quit (Remote host closed the connection)
+Aug 30 23:52:23 *	icarusthecow has quit (Ping timeout: 240 seconds)
+Aug 31 00:36:40 *	kdc (~kdc@dustpuppy.is.co.za) has joined
+Aug 31 00:54:26 *	kdc has quit (Quit: Textual IRC Client: www.textualapp.com)
+Aug 31 01:10:26 *	varesa28 (~varesa@41.43.206.150) has joined
+Aug 31 01:10:36 *	varesa28 has quit (Remote host closed the connection)
+Aug 31 01:12:41 *	Techman23 (~Techman@218.51.15.187) has joined
+Aug 31 01:15:09 *	Techman23 has quit (Remote host closed the connection)
+Aug 31 02:07:19 *	sabre1041 (~sabre1041@pl11819.ag2424.nttpc.ne.jp) has joined
+Aug 31 02:09:28 *	lainlives_ (lainlives@gateway/vpn/privateinternetaccess/lainlives) has joined
+Aug 31 02:09:28 *	lainlives has quit (Disconnected by services)
+Aug 31 02:09:30 *	lainlives_ is now known as lainlives
+Aug 31 02:12:27 *	sabre1041 has quit (Remote host closed the connection)
+Aug 31 02:50:17 *	tomaw28 (~tomaw@112.168.36.81) has joined
+Aug 31 02:55:09 *	tomaw28 has quit (Remote host closed the connection)
+Aug 31 04:06:37 *	Thargoid (~Thargoid@183.88.84.180) has joined
+Aug 31 04:07:00 *	Thargoid is now known as Guest8284
+Aug 31 04:10:59 *	Guest8284 has quit (Read error: Connection reset by peer)
+Aug 31 04:29:00 *	cdown_ (~cdown@199.201.66.5) has joined
+Aug 31 04:31:21 *	cdown has quit (Ping timeout: 246 seconds)
+Aug 31 04:31:23 *	cdown_ is now known as cdown
+Aug 31 05:08:12 *	asafniv_ (~asafniv@unaffiliated/asafniv) has joined
+Aug 31 05:13:42 *	asafniv_ is now known as asafniv
+Aug 31 05:14:31 *	pilotauto_ has quit (Quit: http://quassel-irc.org - Chat comfortably. Anywhere.)
+Aug 31 05:52:12 *	Drakonis[m] has quit (Remote host closed the connection)
+Aug 31 06:01:40 *	Drakonis[m] (drakonisma@gateway/shell/matrix.org/x-tyfdyxdsvrjdphxv) has joined
+Aug 31 06:36:46 *	lainlives has quit (Ping timeout: 244 seconds)
+Aug 31 06:40:54 *	jrobeson has quit (Ping timeout: 244 seconds)
+Aug 31 06:43:36 *	jrobeson (~johnny22@unaffiliated/johnny22) has joined
+Aug 31 06:43:36 *	ChanServ gives voice to jrobeson
+Aug 31 06:53:42 *	cdown has quit (Ping timeout: 250 seconds)
+Aug 31 06:54:42 *	cdown (~cdown@88.98.208.5) has joined
+Aug 31 06:56:17 *	brethil28 (~brethil@117.31.210.80) has joined
+Aug 31 06:59:46 *	brethil28 has quit (Remote host closed the connection)
+Aug 31 07:06:17 *	Skeer (~Skeer@209.124.40.66) has joined
+Aug 31 07:07:37 *	cdown has quit (Ping timeout: 252 seconds)
+Aug 31 07:26:23 *	cdown (~cdown@88.98.208.5) has joined
+Aug 31 07:29:09 *	JasonO has quit (Changing host)
+Aug 31 07:29:09 *	JasonO (~jason@fsf/member/jasono) has joined
+Aug 31 07:33:03 *	Eduard_Munteanu (~Eduard_Mu@host158-157-dynamic.55-82-r.retail.telecomitalia.it) has joined
+Aug 31 07:33:28 *	Eduard_Munteanu is now known as Guest94983
+Aug 31 07:37:57 *	Guest94983 has quit (Remote host closed the connection)
+Aug 31 07:49:35 *	Drakonis[m] has quit (Remote host closed the connection)
+Aug 31 07:51:55 *	mark___ (~mark@cpc146290-brig23-2-0-cust853.3-3.cable.virginm.net) has joined
+Aug 31 07:52:16 *	mark___ has quit (Quit: leaving)
+Aug 31 07:53:01 *	drakonis (~drakonis@unaffiliated/drakonis) has joined
+Aug 31 07:54:36 *	jeggott6 (~jeggott@105.108.143.220) has joined
+Aug 31 07:59:19 *	jeggott6 has quit (Remote host closed the connection)
+Aug 31 08:00:09 *	Drakonis[m] (drakonisma@gateway/shell/matrix.org/x-wicmwlgzyhcqqnyp) has joined
+Aug 31 08:00:11 *	rhelQues (c0c34204@gateway/web/freenode/ip.192.195.66.4) has joined
+Aug 31 08:03:30 *	rhelQues has quit (Client Quit)
+Aug 31 08:03:56 *	rhelQs (c0c34204@gateway/web/freenode/ip.192.195.66.4) has joined
+Aug 31 08:06:13 *	rhelQs has quit (Client Quit)
+Aug 31 08:06:37 *	astor (c0c34204@gateway/web/freenode/ip.192.195.66.4) has joined
+Aug 31 08:07:32 <astor>	Quick question since I dont have access to a RHEL server. What is the newest supported version of samba? Is there an update for 3.6.23?
+Aug 31 08:25:19 *	cdown_ (~cdown@199.201.66.3) has joined
+Aug 31 08:27:53 *	cdown has quit (Ping timeout: 245 seconds)
+Aug 31 08:28:02 *	cdown_ is now known as cdown
+Aug 31 08:45:11 <icarusdekoe>	centos 7.4 has 4.7.1
+Aug 31 08:45:56 <icarusdekoe>	sorry, 7.5 that is
+Aug 31 08:48:17 <astor>	But is there a new version of 3 for rhel 6? Someone told me samba 4.x isnt support on rhel 6
+Aug 31 08:50:52 <icarusdekoe>	probably not. its probably frozen at whatever version was available at release
+Aug 31 08:50:56 <icarusdekoe>	because redhat
+Aug 31 08:51:25 *	atk4 (~atk@91.105.78.73) has joined
+Aug 31 08:56:12 *	atk4 has quit (Remote host closed the connection)
+Aug 31 09:08:34 <dhscholb>	i am now part man, part machine
+Aug 31 09:29:59 <dvdmuckle>	dongleBookPro: how's the weather in worcester? pretty nice up here
+Aug 31 09:44:09 *	Patrick2 (~Patrick@123.191.0.138) has joined
+Aug 31 09:46:07 *	Patrick2 has quit (Killed (Unit193 (Spam is not permitted on freenode.)))
+Aug 31 09:47:15 <ouemt>	dhscholb: everything went well?
+Aug 31 09:52:03 *	cheet has quit (Ping timeout: 245 seconds)
+Aug 31 09:52:08 *	cheetypants (~cheet@modemcable126.157-131-66.mc.videotron.ca) has joined
+Aug 31 09:53:29 <dongleBookPro>	dvdmuckle: nice!
+Aug 31 09:53:38 <dongleBookPro>	for the first time I shivered in my bed when I woke up hahaha
+Aug 31 09:54:15 <dongleBookPro>	finally no more 85º and 100% humidity when I wake up
+Aug 31 09:55:02 <dongleBookPro>	dhscholb: is your implant an IoT though..??
+Aug 31 09:55:14 <dongleBookPro>	#armPhne
+Aug 31 09:55:47 *	Skeer has quit (Ping timeout: 246 seconds)
+Aug 31 09:59:17 <dvdmuckle>	yeah dhscholb, did you get NFC in there?
+Aug 31 09:59:28 <dvdmuckle>	hook that up to your front door
+Aug 31 09:59:33 <dvdmuckle>	now you can never lose your keys again
+Aug 31 09:59:41 <dvdmuckle>	unless you get in some mafia-related accident or something
+Aug 31 10:03:47 *	gersa (0e8bb5e5@gateway/web/freenode/ip.14.139.181.229) has joined
+Aug 31 10:04:09 *	gersa has quit (Client Quit)
+Aug 31 10:04:15 *	crayon has quit (Quit: Quit)
+Aug 31 10:04:56 *	gersa (0e8bb5e5@gateway/web/freenode/ip.14.139.181.229) has joined
+Aug 31 10:06:46 <gersa>	hello, I'm having trouble with wireguard on kubuntu. I uninstalled resolvconf because I'm using dnscrypt. But when I run sudo wg-quick up SOMETHING, I get this error [#] resolvconf -a tun.azirevpn-us1 -m 0 -x /usr/bin/wg-quick: line 31: resolvconf: command not found
+Aug 31 10:07:08 *	crayon (~crayon@unaffiliated/crayon) has joined
+Aug 31 10:07:42 <gersa>	I opened up that file and I'm only seeing cmd() { 	echo "[#] $*" >&2 	"$@" } in lines 29 -32
+Aug 31 10:08:59 <gersa>	also can someone confirm they're seeing my messages? I just registeres
+Aug 31 10:09:06 <gersa>	*registered
+Aug 31 10:10:53 *	asafniv_ (~asafniv@unaffiliated/asafniv) has joined
+Aug 31 10:13:59 *	asafniv has quit (Ping timeout: 252 seconds)
+Aug 31 10:27:38 *	Skeer (~Skeer@209.124.40.66) has joined
+Aug 31 10:31:48 *	Skeer_ (~Skeer@209.124.40.66) has joined
+Aug 31 10:39:44 *	Dan_Bennett (~Dan_Benne@121.100.73.20) has joined
+Aug 31 10:42:38 *	Dan_Bennett has quit (Remote host closed the connection)
+Aug 31 11:05:54 *	gersa has quit (Quit: Page closed)
+Aug 31 11:14:50 *	cdown has quit (Read error: Connection reset by peer)
+Aug 31 11:16:02 *	cdown (~cdown@88.98.208.5) has joined
+Aug 31 11:40:07 *	Corvus`7 (~Corvus`@190.200.44.80) has joined
+Aug 31 11:40:36 *	Corvus`7 has quit (Remote host closed the connection)
+Aug 31 11:49:48 *	lainlives (lainlives@gateway/vpn/privateinternetaccess/lainlives) has joined
+Aug 31 12:25:22 *	terminalator (terminalat@gateway/vpn/privateinternetaccess/terminalator) has joined
+Aug 31 12:43:28 *	Hedaaa (~Hedaaa@2a00:801:3df:ceeb:29d6:ba9d:f77a:694c) has joined
+Aug 31 12:43:44 *	Hedaaa has quit (Read error: Connection reset by peer)
+Aug 31 12:44:07 *	Hedaaa (~Hedaaa@2a00:801:3df:ceeb:29d6:ba9d:f77a:694c) has joined
+Aug 31 12:48:11 *	asafniv_ is now known as asafniv
+Aug 31 13:00:32 *	vim24x7 has quit (Quit: WeeChat 2.1)
+Aug 31 13:16:51 *	drakonis has quit (Remote host closed the connection)
+Aug 31 13:50:49 *	CaptainKnots (~CaptainKn@freebsd/lover/CaptainKnots) has joined
+Aug 31 14:05:12 <fauxm>	I have attempted coffee
+Aug 31 14:05:16 <fauxm>	it went ok
+Aug 31 14:05:23 <fauxm>	how's everyone else
+Aug 31 14:43:10 <eleventhscribe>	Been watching some Louis Rossmann videos. I feel like I should invest in flux manufacturers.
+Aug 31 14:58:07 *	drakonis_ (~drakonis@unaffiliated/drakonis) has joined
+Aug 31 14:58:57 <dongleBookPro>	one micro paul unit of flux please
+Aug 31 14:59:57 <dongleBookPro>	fitter; happier; more productive 
+Aug 31 15:05:18 <lainlives>	you know those shitty totinos party pizzas?
+Aug 31 15:05:25 <lainlives>	they are really struggling to keep their price low
+Aug 31 15:05:37 <lainlives>	packaging got downgraded yet again
+Aug 31 15:15:20 <eleventhscribe>	Didn't know you could downgrade from construction paper.
+Aug 31 15:24:58 *	astor has quit (Ping timeout: 252 seconds)
+Aug 31 15:35:02 *	Skeer_ has quit (Ping timeout: 240 seconds)
+Aug 31 15:35:22 *	Skeer has quit (Ping timeout: 245 seconds)
+Aug 31 15:46:58 *	Guest2527 has quit ()
+Aug 31 15:47:17 *	steev (sid1383@gentoo/developer/steev) has joined
+Aug 31 15:49:30 *	drakonis_ has quit (Remote host closed the connection)
+Aug 31 15:54:03 *	Hedaa (~Hedaaa@2a00:801:3df:ceeb:29d6:ba9d:f77a:694c) has joined
+Aug 31 15:57:10 *	Hedaaa has quit (Ping timeout: 252 seconds)
+Aug 31 16:08:29 <jrobeson>	lainlives, you mean as to a bag?
+Aug 31 16:08:49 <jrobeson>	or from the bag
+Aug 31 16:10:07 <lainlives>	jrobeson: the boxed ones now have completely translucent bags and the bagged ones bags got thinner
+Aug 31 16:10:30 <jrobeson>	why did they keep any boxed ones after thye went bagged?
+Aug 31 16:10:35 <lainlives>	4packs
+Aug 31 16:10:40 <lainlives>	4bagged ones in a box
+Aug 31 16:11:43 <jrobeson>	ah, i've never seen those ever
+Aug 31 16:11:57 <jrobeson>	like not at any grocery store in any of the places i've lived
+Aug 31 16:14:39 <jrobeson>	i'm not surprised they exist though
+Aug 31 16:19:51 <lainlives>	its cheap garbage food when you dont really need food
+Aug 31 16:20:00 <lainlives>	when your hungry because your bored
+Aug 31 16:20:27 FiSHLiM plugin unloaded

@@ -1,0 +1,9 @@
+2018/08/01-10:44:38.777 7388 Reusing MANIFEST /home/goatwizard/.config/google-chrome/Default/IndexedDB/https_www.toonzone.net_0.indexeddb.leveldb/MANIFEST-000001
+2018/08/01-10:46:05.707 7589 Current memtable full; waiting...
+2018/08/01-10:46:05.707 3865 Level-0 table #5: started
+2018/08/01-10:46:05.733 3865 Level-0 table #5: 444 bytes OK
+2018/08/01-10:46:05.758 3865 Delete type=0 #3
+2018/08/01-10:46:05.758 3865 Level-0 table #7: started
+2018/08/01-10:46:05.758 3865 Level-0 table #7: 0 bytes OK
+2018/08/01-10:46:05.791 3865 Delete type=0 #4
+2018/08/01-10:46:05.791 3865 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

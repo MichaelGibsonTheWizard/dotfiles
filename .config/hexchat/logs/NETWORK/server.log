@@ -1,0 +1,149 @@
+**** BEGIN LOGGING AT Tue Aug 28 19:08:13 2018
+
+Aug 28 19:08:13 Perl interface loaded
+Aug 28 19:08:13 Python interface loaded
+Aug 28 19:08:13 FiSHLiM plugin loaded
+Aug 28 19:08:13 Lua version 1.3/5.3 loaded.
+Aug 28 19:08:13 Checksum plugin loaded
+Aug 28 19:08:13 Sysinfo plugin loaded
+**** BEGIN LOGGING AT Tue Aug 28 19:11:06 2018
+
+Aug 28 19:11:06 Perl interface loaded
+Aug 28 19:11:06 Python interface loaded
+Aug 28 19:11:06 FiSHLiM plugin loaded
+Aug 28 19:11:06 Lua version 1.3/5.3 loaded.
+Aug 28 19:11:06 Checksum plugin loaded
+Aug 28 19:11:06 Sysinfo plugin loaded
+Aug 28 19:11:06 *	Looking up chat.freenode.net
+Aug 28 19:11:06 *	Connecting to chat.freenode.net (2001:41d0:401:3100::5136:6697)
+Aug 28 19:11:41 *	* Certification info:
+Aug 28 19:11:41 *	  Subject:
+Aug 28 19:11:41 *	    CN=wilhelm.freenode.net
+Aug 28 19:11:41 *	  Issuer:
+Aug 28 19:11:41 *	    C=US
+Aug 28 19:11:41 *	    O=Let's Encrypt
+Aug 28 19:11:41 *	    CN=Let's Encrypt Authority X3
+Aug 28 19:11:41 *	  Public key algorithm: rsaEncryption (4096 bits)
+Aug 28 19:11:41 *	  Sign algorithm sha256WithRSAEncryption
+Aug 28 19:11:41 *	  Valid since Aug 10 08:00:09 2018 GM to Nov  8 08:00:09 2018 GM
+Aug 28 19:11:41 *	* Cipher info:
+Aug 28 19:11:41 *	  Version: TLSv1.2, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+Aug 28 19:11:41 *	Connected. Now logging in.
+Aug 28 19:11:41 *	*** Looking up your hostname...
+Aug 28 19:11:41 *	*** Checking Ident
+Aug 28 19:11:41 *	*** Couldn't look up your hostname
+Aug 28 19:11:41 *	*** No Ident response
+Aug 28 19:11:42 *	Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+Aug 28 19:11:42 *	Capabilities requested: account-notify extended-join identify-msg multi-prefix sasl 
+Aug 28 19:11:43 *	GoatWizard is already in use. Retrying with TheGoatWizard...
+Aug 28 19:11:43 *	Capabilities acknowledged: account-notify extended-join identify-msg multi-prefix sasl 
+Aug 28 19:11:43 *	Authenticating via SASL as MichaelTheGoatWi (PLAIN)
+Aug 28 19:11:44 *	You are now logged in as MichaelTheGoatWi.
+Aug 28 19:11:44 *	SASL authentication successful
+**** ENDING LOGGING AT Tue Aug 28 19:11:45 2018
+
+**** BEGIN LOGGING AT Tue Aug 28 19:12:16 2018
+
+Aug 28 19:12:16 Perl interface loaded
+Aug 28 19:12:16 Python interface loaded
+Aug 28 19:12:16 FiSHLiM plugin loaded
+Aug 28 19:12:16 Lua version 1.3/5.3 loaded.
+Aug 28 19:12:16 Checksum plugin loaded
+Aug 28 19:12:16 Sysinfo plugin loaded
+Aug 28 19:12:16 *	Looking up chat.freenode.net
+Aug 28 19:12:16 *	Connecting to chat.freenode.net (2001:41d0:401:3100::5136:6697)
+Aug 28 19:12:50 *	* Certification info:
+Aug 28 19:12:50 *	  Subject:
+Aug 28 19:12:50 *	    CN=wilhelm.freenode.net
+Aug 28 19:12:50 *	  Issuer:
+Aug 28 19:12:50 *	    C=US
+Aug 28 19:12:50 *	    O=Let's Encrypt
+Aug 28 19:12:50 *	    CN=Let's Encrypt Authority X3
+Aug 28 19:12:50 *	  Public key algorithm: rsaEncryption (4096 bits)
+Aug 28 19:12:50 *	  Sign algorithm sha256WithRSAEncryption
+Aug 28 19:12:50 *	  Valid since Aug 10 08:00:09 2018 GM to Nov  8 08:00:09 2018 GM
+Aug 28 19:12:50 *	* Cipher info:
+Aug 28 19:12:50 *	  Version: TLSv1.2, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+Aug 28 19:12:50 *	Connected. Now logging in.
+Aug 28 19:12:51 *	*** Looking up your hostname...
+Aug 28 19:12:51 *	*** Checking Ident
+Aug 28 19:12:51 *	*** Couldn't look up your hostname
+Aug 28 19:12:51 *	*** No Ident response
+Aug 28 19:12:51 *	Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+Aug 28 19:12:51 *	Capabilities requested: account-notify extended-join identify-msg multi-prefix sasl 
+Aug 28 19:12:51 *	Capabilities acknowledged: account-notify extended-join identify-msg multi-prefix sasl 
+Aug 28 19:12:51 *	Authenticating via SASL as MichaelTheGoatWi (PLAIN)
+Aug 28 19:12:52 *	You are now logged in as MichaelTheGoatWi.
+Aug 28 19:12:52 *	SASL authentication successful
+**** ENDING LOGGING AT Tue Aug 28 19:12:53 2018
+
+**** BEGIN LOGGING AT Tue Aug 28 20:57:25 2018
+
+Aug 28 20:57:25 Perl interface loaded
+Aug 28 20:57:25 Python interface loaded
+Aug 28 20:57:25 FiSHLiM plugin loaded
+Aug 28 20:57:25 Lua version 1.3/5.3 loaded.
+Aug 28 20:57:25 Checksum plugin loaded
+Aug 28 20:57:25 Sysinfo plugin loaded
+Aug 28 20:57:25 *	Looking up chat.freenode.net
+Aug 28 20:57:25 *	Connecting to chat.freenode.net (2001:41d0:401:3100::5136:6697)
+Aug 28 20:57:27 *	* Certification info:
+Aug 28 20:57:27 *	  Subject:
+Aug 28 20:57:27 *	    CN=wilhelm.freenode.net
+Aug 28 20:57:27 *	  Issuer:
+Aug 28 20:57:27 *	    C=US
+Aug 28 20:57:27 *	    O=Let's Encrypt
+Aug 28 20:57:27 *	    CN=Let's Encrypt Authority X3
+Aug 28 20:57:27 *	  Public key algorithm: rsaEncryption (4096 bits)
+Aug 28 20:57:27 *	  Sign algorithm sha256WithRSAEncryption
+Aug 28 20:57:27 *	  Valid since Aug 10 08:00:09 2018 GM to Nov  8 08:00:09 2018 GM
+Aug 28 20:57:27 *	* Cipher info:
+Aug 28 20:57:27 *	  Version: TLSv1.2, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+Aug 28 20:57:27 *	Connected. Now logging in.
+Aug 28 20:57:27 *	*** Looking up your hostname...
+Aug 28 20:57:27 *	*** Checking Ident
+Aug 28 20:57:27 *	*** Couldn't look up your hostname
+Aug 28 20:57:27 *	*** No Ident response
+Aug 28 20:57:27 *	Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+Aug 28 20:57:27 *	Capabilities requested: account-notify extended-join identify-msg multi-prefix sasl 
+Aug 28 20:57:28 *	Capabilities acknowledged: account-notify extended-join identify-msg multi-prefix sasl 
+Aug 28 20:57:28 *	Authenticating via SASL as MichaelTheGoatWi (PLAIN)
+Aug 28 20:57:28 *	You are now logged in as MichaelTheGoatWi.
+Aug 28 20:57:28 *	SASL authentication successful
+**** ENDING LOGGING AT Tue Aug 28 20:57:29 2018
+
+**** BEGIN LOGGING AT Thu Aug 30 22:14:39 2018
+
+Aug 30 22:14:39 Perl interface loaded
+Aug 30 22:14:39 Python interface loaded
+Aug 30 22:14:39 FiSHLiM plugin loaded
+Aug 30 22:14:39 Lua version 1.3/5.3 loaded.
+Aug 30 22:14:39 Checksum plugin loaded
+Aug 30 22:14:39 Sysinfo plugin loaded
+Aug 30 22:14:40 *	Looking up chat.freenode.net
+Aug 30 22:14:40 *	Connecting to chat.freenode.net (2600:3c02::f03c:91ff:fe59:7d2e:6697)
+Aug 30 22:14:41 *	* Certification info:
+Aug 30 22:14:41 *	  Subject:
+Aug 30 22:14:41 *	    CN=moon.freenode.net
+Aug 30 22:14:41 *	  Issuer:
+Aug 30 22:14:41 *	    C=US
+Aug 30 22:14:41 *	    O=Let's Encrypt
+Aug 30 22:14:41 *	    CN=Let's Encrypt Authority X3
+Aug 30 22:14:41 *	  Public key algorithm: rsaEncryption (4096 bits)
+Aug 30 22:14:41 *	  Sign algorithm sha256WithRSAEncryption
+Aug 30 22:14:41 *	  Valid since Jul 20 17:47:51 2018 GM to Oct 18 17:47:51 2018 GM
+Aug 30 22:14:41 *	* Cipher info:
+Aug 30 22:14:41 *	  Version: TLSv1.2, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+Aug 30 22:14:41 *	Connected. Now logging in.
+Aug 30 22:14:41 *	*** Looking up your hostname...
+Aug 30 22:14:41 *	*** Checking Ident
+Aug 30 22:14:41 *	*** No Ident response
+Aug 30 22:14:41 *	*** Couldn't look up your hostname
+Aug 30 22:14:41 *	Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+Aug 30 22:14:41 *	Capabilities requested: account-notify extended-join identify-msg multi-prefix sasl 
+Aug 30 22:14:41 *	Capabilities acknowledged: account-notify extended-join identify-msg multi-prefix sasl 
+Aug 30 22:14:41 *	Authenticating via SASL as MichaelTheGoatWi (PLAIN)
+Aug 30 22:14:42 *	You are now logged in as MichaelTheGoatWi.
+Aug 30 22:14:42 *	SASL authentication successful
+**** ENDING LOGGING AT Thu Aug 30 22:14:43 2018
+

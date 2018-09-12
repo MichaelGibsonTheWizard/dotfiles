@@ -1,0 +1,30 @@
+{
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "ขออภัย ไม่สามารถบันทึกภาพนี้ได้"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "บันทึกสิงต่างๆ ทีคุณพบในเว็บ"
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "ปุ่ม บันทึก ของ Pinterest"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "ซ่อนปุ่ม บันทึก แบบเลื่อนเมาส์มาวาง"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "ตัวเลือกปุ่มบันทึก"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "บันทึก"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "ค้นหา"
+   }
+}
