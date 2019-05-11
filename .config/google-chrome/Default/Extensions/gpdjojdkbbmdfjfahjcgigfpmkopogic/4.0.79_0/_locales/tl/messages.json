@@ -1,0 +1,134 @@
+{
+  "extName": {
+    "message": "Button na I-save ng Pinterest",
+    "description": "The extension's title, seen in gallery and extensions page"
+  },
+  "extDescription": {
+    "message": "I-save ang mga bagay na mahahanap mo sa Web.",
+    "description": "The extension's description, seen in gallery and extensions page"
+  },
+  "saveAction": {
+    "message": "I-save",
+    "description": "Appears in the right-click-to-save menu item"
+  },
+  "searchAction": {
+    "message": "Maghanap",
+    "description": "Appears in the right-click-to-search menu item"
+  },
+  "errorPin": {
+    "message": "Pasensya na, hindi ma-save ang larawan na ito.",
+    "description": "The error message seen when an image can't be pinned"
+  },
+  "optionTitle": {
+    "message": "Mga opsyon ng I-save na button",
+    "description": "Title for the Options page"
+  },
+  "optionHide": {
+    "message": "Itago ang mga button na I-save para sa pag-hover",
+    "description": "Text next to the checkbox that turns off hoverbuttons"
+  },
+  "grid_choosePin": {
+    "message": "Pumili ng Pin na ise-save",
+    "description": "Header message in the image picker overlay"
+  },
+  "create_chooseBoard": {
+    "message": "Pumili ng board",
+    "description": "main header in Save form"
+  },
+  "create_filter": {
+    "message": "Maghanap",
+    "description": "placeholder text in Search input"
+  },
+  "create_topChoices": {
+    "message": "Mga palaging pinipili",
+    "description": "interstitial header in board list"
+  },
+  "create_allBoards": {
+    "message": "Lahat ng boards",
+    "description": "interstitial header in board list"
+  },
+  "create_outerAddFormOpener": {
+    "message": "Gumawa ng board",
+    "description": "header in Create form"
+  },
+  "create_placeholderFilterAddBoard": {
+    "message": "Tulad ng \"Places to Go\"",
+    "description": "placeholder text in Create Board input"
+  },
+  "create_placeholderFilterAddSection": {
+    "message": "Tulad ng \"Lighting\"",
+    "description": "placeholder text in Create Section input"
+  },
+  "create_placeholderDescription": {
+    "message": "Sabihin sa amin ang tungkol sa Pin na ito",
+    "description": "placeholder text in Pin description"
+  },
+  "create_addFormSecretLabel": {
+    "message": "Sikreto",
+    "description": "label over secret/not-secret switch"
+  },
+  "create_chooseSection": {
+    "message": "Pumili ng Seksyon",
+    "description": "label for board sections"
+  },
+  "create_addSection": {
+    "message": "Magdagdag ng Seksyon",
+    "description": "label to add section"
+  },
+  "create_optYes": {
+    "message": "Oo",
+    "description": "switch option yes"
+  },
+  "create_optNo": {
+    "message": "Hindi",
+    "description": "switch option no"
+  },
+  "create_closeAddForm": {
+    "message": "I-cancel",
+    "description": "cancel create"
+  },
+  "create_submitAddForm": {
+    "message": "Gumawa",
+    "description": "create new board"
+  },
+  "create_msgPinSavedTo": {
+    "message": "Naka-save sa %",
+    "description": "board identifier"
+  },
+  "create_msgBoardFail": {
+    "message": "Hindi makalikha ng bagong board",
+    "description": "board create fail"
+  },
+  "create_msgPinFail": {
+    "message": "Hindi mai-save ang pahinang ito",
+    "description": "pin create fail"
+  },
+  "create_msgSeeItNow": {
+    "message": "Tingnan na `to",
+    "description": "pin / board create success button"
+  },
+  "create_msgClose": {
+    "message": "Isara",
+    "description": "pin create success close"
+  },
+  "create_msgLoginFail": {
+    "message": "Pasensya na, mukhang may hindi tama dito. Pakitingnan kung naka-log in ka sa Pinterest at subukan muli.",
+    "description": "Message shown when someone's login changes while the board picker is open"
+  },
+  "msgOops": {
+    "message": "Naku!",
+    "description": "error header"
+  },
+  "create_msgHelp": {
+    "message": "Humingi ng tulong",
+    "description": "get help button"
+  },
+  "search_headerMessage": {
+    "message": "Higit pang katulad nito mula sa Pinterest",
+    "description": "Header shown when search succeeds"
+  },
+  "logic_noPinDomain": {
+    "message": "Sorry, hindi allowed ang pinning sa domain na 'to. Paki-contact ang site operator kung may tanong ka.",
+    "description": "The default message we alert when someone tries to use the browser button on a forbidden domain"
+  }
+}

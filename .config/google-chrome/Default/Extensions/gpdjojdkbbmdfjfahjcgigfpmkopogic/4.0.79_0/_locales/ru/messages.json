@@ -1,0 +1,134 @@
+{
+   "create_addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Секретная"
+   },
+   "create_addSection": {
+      "description": "label to add section",
+      "message": "Добавить раздел"
+   },
+   "create_allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Все доски"
+   },
+   "create_chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Выбор доски"
+   },
+   "create_chooseSection": {
+      "description": "label for board sections",
+      "message": "Выбрать раздел"
+   },
+   "create_closeAddForm": {
+      "description": "cancel create",
+      "message": "Отмена"
+   },
+   "create_filter": {
+      "description": "placeholder text in Search input",
+      "message": "Поиск"
+   },
+   "create_msgBoardFail": {
+      "description": "board create fail",
+      "message": "Не удалось создать новую доску. "
+   },
+   "create_msgClose": {
+      "description": "pin create success close",
+      "message": "Закрыть"
+   },
+   "create_msgHelp": {
+      "description": "get help button",
+      "message": "Справка"
+   },
+   "create_msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Похоже, произошла ошибка. Убедитесь, что вы вошли в Pinterest, и повторите попытку."
+   },
+   "create_msgPinFail": {
+      "description": "pin create fail",
+      "message": "Не удалось сохранить эту страницу."
+   },
+   "create_msgPinSavedTo": {
+      "description": "board identifier",
+      "message": "Сохранено на «%»"
+   },
+   "create_msgSeeItNow": {
+      "description": "pin / board create success button",
+      "message": "Посмотреть"
+   },
+   "create_optNo": {
+      "description": "switch option no",
+      "message": "Нет"
+   },
+   "create_optYes": {
+      "description": "switch option yes",
+      "message": "Да"
+   },
+   "create_outerAddFormOpener": {
+      "description": "header in Create form",
+      "message": "Создать доску"
+   },
+   "create_placeholderDescription": {
+      "description": "placeholder text in Pin description",
+      "message": "Расскажите об этом пине"
+   },
+   "create_placeholderFilterAddBoard": {
+      "description": "placeholder text in Create Board input",
+      "message": "Например, «Куда пойти»"
+   },
+   "create_placeholderFilterAddSection": {
+      "description": "placeholder text in Create Section input",
+      "message": "Например, «Освещение»"
+   },
+   "create_submitAddForm": {
+      "description": "create new board",
+      "message": "Готово"
+   },
+   "create_topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Лучшие варианты"
+   },
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "К сожалению, это изображение не получится сохранить."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Сохраняйте свои находки из Интернета."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Кнопка Pinterest «Сохранить»"
+   },
+   "grid_choosePin": {
+      "description": "Header message in the image picker overlay",
+      "message": "Выберите Пин, который нужно сохранить."
+   },
+   "logic_noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "К сожалению, прикалывание Пинов в данном домене невозможно. Со всеми вопросами обращайтесь к администратору веб-сайта."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Ой!"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Скрыть всплывающие кнопки «Сохранить»"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Настройки кнопки «Сохранить»"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Сохранить"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Поиск"
+   },
+   "search_headerMessage": {
+      "description": "Header shown when search succeeds",
+      "message": "Показать похожие"
+   }
+}

@@ -1,15 +1,15 @@
 {
   "main_window_state": {
     "__class__": "bytearray", 
-    "__value__": "AAAA/wAAAAL9AAAAAwAAAAAAAAEAAAAD4PwCAAAAAfsAAAAQAHQAbwBjAC0AZABvAGMAawEAAAAiAAAD4AAAAHwA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABwAYgBvAG8AawBtAGEAcgBrAHMALQBkAG8AYwBrAAAAAAD/////AAAAtQD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABmAG8AbwB0AG4AbwB0AGUAcwAtAGQAbwBjAGsAAAAAAP////8AAAAxAP///wAABiYAAAPgAAAAAQAAAAIAAAABAAAAAvwAAAACAAAAAAAAAAEAAAAQAHQAbwBvAGwAXwBiAGEAcgMAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAASAHQAbwBvAGwAXwBiAGEAcgAyAQAAAAD/////AAAAAAAAAAA="
+    "__value__": "AAAA/wAAAAL9AAAAAwAAAAAAAAEAAAABJfwCAAAAAfsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAiAAABJQAAAHwA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABwAYgBvAG8AawBtAGEAcgBrAHMALQBkAG8AYwBrAAAAAAD/////AAAAtQD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABmAG8AbwB0AG4AbwB0AGUAcwAtAGQAbwBjAGsAAAAAAP////8AAAAxAP///wAAA2sAAAPdAAAAAQAAAAIAAAABAAAAAvwAAAACAAAAAAAAAAEAAAAQAHQAbwBvAGwAXwBiAGEAcgMAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAASAHQAbwBvAGwAXwBiAGEAcgAyAQAAAAD/////AAAAAAAAAAA="
   }, 
   "in_paged_mode": true, 
   "viewer_window_geometry": {
     "__class__": "bytearray", 
-    "__value__": "AdnQywACAAAAAAAPAAAAJwAAB3AAAAQoAAAADwAAACcAAAdwAAAEKAAAAAAAAAAAB4A="
+    "__value__": "AdnQywACAAAAAAAUAAAAJQAAA7UAAAQjAAAAFAAAACUAAAO1AAAEIwAAAAAAAAAAB4A="
   }, 
-  "viewer_toc_isvisible": true, 
-  "multiplier": 1.0, 
+  "viewer_toc_isvisible": false, 
+  "multiplier": 1.2000000476837158, 
   "custom_colors_for_color_dialog": [
     [
       255, 
@@ -109,6 +109,8 @@
     ]
   ], 
   "viewer_open_history": [
+    "/home/goatwizard/Calibre Library/A Handbook Of Esoteric Runology/Edred Thorsson - Runelore (8)/Edred Thorsson - Runelore - A Handbook Of Esoteric Runology.epub", 
+    "/home/goatwizard/Calibre Library/Ian Corrigan/Sacred Fire, Holy Well_ A Druid's Grimoire (7)/Sacred Fire, Holy Well_ A Druid's Grimoire - Ian Corrigan.epub", 
     "/home/goatwizard/cyberbooks/wiresharkforsecurityprofessionals.epub", 
     "/home/goatwizard/cyberbooks/shellcoders_handbook_discovering_and_exploiting_security_holes.epub", 
     "/home/goatwizard/Downloads/cyberbooks/advancedpenetrationtesting.epub"

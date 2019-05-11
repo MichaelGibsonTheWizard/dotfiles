@@ -1,6 +1,6 @@
 {
   "discord_desktop_core": {
-    "installedVersion": 1
+    "installedVersion": 3
   },
   "discord_erlpack": {
     "installedVersion": 1
@@ -15,9 +15,9 @@
     "installedVersion": 1
   },
   "discord_utils": {
-    "installedVersion": 2
+    "installedVersion": 4
   },
   "discord_voice": {
-    "installedVersion": 6
+    "installedVersion": 8
   }
 }

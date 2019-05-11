@@ -1,0 +1,134 @@
+{
+   "create_addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Privat"
+   },
+   "create_addSection": {
+      "description": "label to add section",
+      "message": "Lägg till avsnitt"
+   },
+   "create_allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Alla anslagstavlor"
+   },
+   "create_chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Välj anslagstavla"
+   },
+   "create_chooseSection": {
+      "description": "label for board sections",
+      "message": "Välj avsnitt"
+   },
+   "create_closeAddForm": {
+      "description": "cancel create",
+      "message": "Avbryt"
+   },
+   "create_filter": {
+      "description": "placeholder text in Search input",
+      "message": "Sök"
+   },
+   "create_msgBoardFail": {
+      "description": "board create fail",
+      "message": "Det gick inte att skapa en ny anslagstavla"
+   },
+   "create_msgClose": {
+      "description": "pin create success close",
+      "message": "Stäng"
+   },
+   "create_msgHelp": {
+      "description": "get help button",
+      "message": "Få hjälp"
+   },
+   "create_msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Tyvärr har ett fel uppstått. Kontrollera att du är inloggad på Pinterest och försök igen."
+   },
+   "create_msgPinFail": {
+      "description": "pin create fail",
+      "message": "Det gick inte att spara den här sidan"
+   },
+   "create_msgPinSavedTo": {
+      "description": "board identifier",
+      "message": "Sparat på %"
+   },
+   "create_msgSeeItNow": {
+      "description": "pin / board create success button",
+      "message": "Visa den nu"
+   },
+   "create_optNo": {
+      "description": "switch option no",
+      "message": "Nej"
+   },
+   "create_optYes": {
+      "description": "switch option yes",
+      "message": "Ja"
+   },
+   "create_outerAddFormOpener": {
+      "description": "header in Create form",
+      "message": "Skapa anslagstavla"
+   },
+   "create_placeholderDescription": {
+      "description": "placeholder text in Pin description",
+      "message": "Berätta om denna pin"
+   },
+   "create_placeholderFilterAddBoard": {
+      "description": "placeholder text in Create Board input",
+      "message": "Som ”platser att gå”"
+   },
+   "create_placeholderFilterAddSection": {
+      "description": "placeholder text in Create Section input",
+      "message": "Som ”Belysning”"
+   },
+   "create_submitAddForm": {
+      "description": "create new board",
+      "message": " Skapa"
+   },
+   "create_topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Bästa valen"
+   },
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Tyvärr går det inte att spara den här bilden."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Spara idéer du hittar på nätet."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterests Spara-knapp"
+   },
+   "grid_choosePin": {
+      "description": "Header message in the image picker overlay",
+      "message": "Välj en pin som du vill spara"
+   },
+   "logic_noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Tyvärr går det inte att pinna från den här domänen. Kontakta webbplatsoperatören om du har frågor."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Hoppsan!"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Dölj hovrande Spara-knappar"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Spara-knapp inställningar"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Spara"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Sök"
+   },
+   "search_headerMessage": {
+      "description": "Header shown when search succeeds",
+      "message": "Mer som liknar detta från Pinterest"
+   }
+}

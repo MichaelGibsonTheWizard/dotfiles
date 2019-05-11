@@ -1,0 +1,134 @@
+{
+   "create_addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Secret"
+   },
+   "create_addSection": {
+      "description": "label to add section",
+      "message": "Ajouter un sous-tableau"
+   },
+   "create_allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Tous les tableaux "
+   },
+   "create_chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Choisir un tableau"
+   },
+   "create_chooseSection": {
+      "description": "label for board sections",
+      "message": "Choisir un sous-tableau"
+   },
+   "create_closeAddForm": {
+      "description": "cancel create",
+      "message": "Annuler"
+   },
+   "create_filter": {
+      "description": "placeholder text in Search input",
+      "message": "Rechercher"
+   },
+   "create_msgBoardFail": {
+      "description": "board create fail",
+      "message": "Impossible de créer un nouveau tableau."
+   },
+   "create_msgClose": {
+      "description": "pin create success close",
+      "message": "Fermer"
+   },
+   "create_msgHelp": {
+      "description": "get help button",
+      "message": "Obtenir de l'aide"
+   },
+   "create_msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Désolé, une erreur est survenue. Vérifiez que vous êtes connecté(e) à Pinterest et réessayez."
+   },
+   "create_msgPinFail": {
+      "description": "pin create fail",
+      "message": "Impossible d’enregistrer cette page."
+   },
+   "create_msgPinSavedTo": {
+      "description": "board identifier",
+      "message": "Enregistré dans %"
+   },
+   "create_msgSeeItNow": {
+      "description": "pin / board create success button",
+      "message": "Voir cette épingle"
+   },
+   "create_optNo": {
+      "description": "switch option no",
+      "message": "Non"
+   },
+   "create_optYes": {
+      "description": "switch option yes",
+      "message": "Oui"
+   },
+   "create_outerAddFormOpener": {
+      "description": "header in Create form",
+      "message": "Créer un tableau"
+   },
+   "create_placeholderDescription": {
+      "description": "placeholder text in Pin description",
+      "message": "Parlez-nous de cette épingle"
+   },
+   "create_placeholderFilterAddBoard": {
+      "description": "placeholder text in Create Board input",
+      "message": "Tel que « Lieux à visiter »"
+   },
+   "create_placeholderFilterAddSection": {
+      "description": "placeholder text in Create Section input",
+      "message": "Comme « Éclairages »"
+   },
+   "create_submitAddForm": {
+      "description": "create new board",
+      "message": "Créer"
+   },
+   "create_topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Meilleurs choix"
+   },
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Désolé, vous ne pouvez pas enregistrer cette image."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Enregistrez ce qui vous plait sur le Web."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Bouton Enregistrer Pinterest"
+   },
+   "grid_choosePin": {
+      "description": "Header message in the image picker overlay",
+      "message": "Choisissez une épingle à enregistrer"
+   },
+   "logic_noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Désolé, mais vous ne pouvez pas épingler les contenus de ce domaine. Pour toute question, veuillez contacter l'administrateur du site."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Oups..."
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Désactiver les boutons Enregistrer flottants"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Options du bouton Enregistrer"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Enregistrer"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Rechercher"
+   },
+   "search_headerMessage": {
+      "description": "Header shown when search succeeds",
+      "message": "Plus de contenu similaire issu de Pinterest"
+   }
+}

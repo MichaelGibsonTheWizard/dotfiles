@@ -1,0 +1,52 @@
+{
+   "background": {
+      "page": "html/background.html"
+   },
+   "browser_action": {
+      "default_icon": "assets/extension_icons/38x38_off.png",
+      "default_popup": "html/reactPopUp.html",
+      "default_title": "Windscribe"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "html/js/vapi-client.js", "html/js/contentscript.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": false,
+      "js": [ "html/js/scriptlets/subscriber.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_idle"
+   }, {
+      "js": [ "js/content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "js/loginAfterSignUp.js" ],
+      "matches": [ "https://*.windscribe.com/myaccount?hello" ],
+      "run_at": "document_end"
+   }, {
+      "js": [ "js/loginAfterSignUp.js" ],
+      "matches": [ "https://*.windscribe.com/upgrade?hello" ],
+      "run_at": "document_end"
+   }, {
+      "js": [ "js/cookie-monster.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "assets/extension_icons/128x128_on.png",
+      "19": "assets/extension_icons/19x19_on.png",
+      "38": "assets/extension_icons/38x38_on.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp7e85eDxTRR3lPY9SsTyX8BiHwlY/u8Z/YP2CxNygi5VJKxs4BevSePKP1/rrwlBs+84d2sY5oZ28LrHfO3Y9JVgX0tUsRIuqMS1bmY0s5XDlYNn+UqLNG1BcZ/51U50oRsnYgV8aHC7y/sgCSBKzNJbgKBihIGTv+OPXQvNt3ZolcLvqknaBRSKbEdMpaVTovM3fgmgrF40upq5gUobuao7du+6QsJc0aOlV97xEXPJg7qNa2lNlGxVQTk3x5uy1hxXfcxw9VHKriUekaMvFAHkJ2X3v7PZldO7vr5RiGtC77MK300oG3g8uIWom2oP3kO0YOXatkGMhRYJrO6ENQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "39",
+   "name": "__MSG_extName__",
+   "permissions": [ "http://*/", "https://*/", "proxy", "management", "tabs", "webRequest", "\u003Call_urls>", "webRequestBlocking", "activeTab", "background", "storage", "unlimitedStorage", "contextMenus", "privacy", "webNavigation", "notifications", "alarms", "cookies" ],
+   "short_name": "__MSG_extShortName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.4.1",
+   "web_accessible_resources": [ "document-blocked.html" ]
+}

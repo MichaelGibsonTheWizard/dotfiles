@@ -1,6 +1,18 @@
-2018/08/08-14:51:04.807 22297 Reusing MANIFEST /home/goatwizard/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
-2018/08/08-14:51:04.807 22297 Recovering log #7
-2018/08/08-14:51:04.895 22297 Reusing old log /home/goatwizard/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000007.log 
-2018/08/08-16:31:39.946 1052 Level-0 table #11: started
-2018/08/08-16:31:40.025 1052 Level-0 table #11: 1509523 bytes OK
-2018/08/08-16:31:40.059 1052 Delete type=0 #7
+2019/05/02-17:48:36.734 6303 Reusing MANIFEST /home/goatwizard/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/05/02-17:48:36.734 6303 Recovering log #145
+2019/05/02-17:48:36.792 6303 Reusing old log /home/goatwizard/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000145.log 
+2019/05/02-22:33:37.760 18458 Level-0 table #149: started
+2019/05/02-22:33:37.861 18458 Level-0 table #149: 2343376 bytes OK
+2019/05/02-22:33:37.902 18458 Delete type=0 #145
+2019/05/02-22:33:37.903 18458 Compacting 4@0 + 1@1 files
+2019/05/02-22:33:38.102 18458 Generated table #150@0: 16 keys, 12644 bytes
+2019/05/02-22:33:38.102 18458 Compacted 4@0 + 1@1 files => 12644 bytes
+2019/05/02-22:33:38.137 18458 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/05/02-22:33:38.137 18458 Delete type=2 #144
+2019/05/02-22:33:38.137 18458 Delete type=2 #146
+2019/05/02-22:33:38.138 18458 Delete type=2 #139
+2019/05/02-22:33:38.138 18458 Delete type=2 #149
+2019/05/02-22:33:38.138 18458 Delete type=2 #141
+2019/05/04-03:08:37.723 18458 Level-0 table #152: started
+2019/05/04-03:08:37.824 18458 Level-0 table #152: 2564573 bytes OK
+2019/05/04-03:08:37.875 18458 Delete type=0 #148

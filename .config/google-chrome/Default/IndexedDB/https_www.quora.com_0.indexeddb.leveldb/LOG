@@ -1,1 +1,3 @@
-2018/08/01-10:44:39.866 7589 Reusing MANIFEST /home/goatwizard/.config/google-chrome/Default/IndexedDB/https_www.quora.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/05/01-18:28:35.022 29636 Reusing MANIFEST /home/goatwizard/.config/google-chrome/Default/IndexedDB/https_www.quora.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/05/01-18:28:35.022 29636 Recovering log #3
+2019/05/01-18:28:35.026 29636 Reusing old log /home/goatwizard/.config/google-chrome/Default/IndexedDB/https_www.quora.com_0.indexeddb.leveldb/000003.log 

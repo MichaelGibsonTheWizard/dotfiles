@@ -1,8 +1,4 @@
 {
-  "quick_start_guide_added": true, 
-  "library_usage_stats": {
-    "/home/goatwizard/Calibre Library": 2
-  }, 
   "book_details_splitter_horizontal_state": [
     true, 
     200
@@ -11,16 +7,13 @@
     "__class__": "bytearray", 
     "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEEA/////wEAAAABAA=="
   }, 
-  "grid view visible": false, 
-  "search bar visible": true, 
-  "quickview visible": false, 
+  "convert_single_dialog_geom": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAAAZAAAAEgAAB1IAAAPlAAAAGQAAABIAAAdSAAAD5QAAAAAAAAAAB4A="
+  }, 
   "cover_browser_splitter_vertical_state": [
     false, 
     300
-  ], 
-  "tag_browser_splitter_horizontal_state": [
-    true, 
-    200
   ], 
   "custom_colors_for_color_dialog": [
     [
@@ -120,5 +113,55 @@
       255
     ]
   ], 
-  "tag browser search box visible": false
+  "duplicates-question-dialog-geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAASMAAAAFQAABoEAAAGIAAAEjAAAABUAAAaBAAABiAAAAAAAAAAAB4A="
+  }, 
+  "grid view visible": false, 
+  "job-detail-view-dialog-geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAAJOAAAA2gAABQkAAALNAAACTgAAANoAAAUJAAACzQAAAAAAAAAAB4A="
+  }, 
+  "jobs view column layout3": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdsAAAAFAQEBAAAAAAAAAAAAAAAAAF//////AAAAhAAAAAAAAAAFAAAAXwAAAAEAAAAAAAAAXwAAAAEAAAAAAAAAXwAAAAEAAAAAAAAAXwAAAAEAAAAAAAAAXwAAAAEAAAAAAAAD6AAAAAAA"
+  }, 
+  "jobs_dialog_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAAJ6AAAA7QAABPIAAAMKAAACegAAAO0AAATyAAADCgAAAAAAAAAAB4A="
+  }, 
+  "library_usage_stats": {
+    "/home/goatwizard/Calibre Library": 10
+  }, 
+  "metasingle_window_geometry3": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAAAZAAAAAAAAB1IAAAQFAAAAGQAAAAAAAAdSAAAEBQAAAAAAAAAAB4A="
+  }, 
+  "preferences dialog geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAAHvAAAArAAABZAAAAN7AAAB7wAAAKwAAAWQAAADewAAAAAAAAAAB4A="
+  }, 
+  "previous_sort_order_BooksView": {
+    "timestamp": true
+  }, 
+  "quick_start_guide_added": true, 
+  "quickview visible": false, 
+  "recently_used_languages": [], 
+  "replace_scene_breaks_history": [
+    "", 
+    "<hr />", 
+    "\u2217 \u2217 \u2217", 
+    "\u2022 \u2022 \u2022", 
+    "\u2666 \u2666 \u2666", 
+    "\u2020 \u2020", 
+    "\u2021 \u2021 \u2021", 
+    "\u221e \u221e \u221e", 
+    "\u00a4 \u00a4 \u00a4"
+  ], 
+  "search bar visible": true, 
+  "tag browser search box visible": false, 
+  "tag_browser_splitter_horizontal_state": [
+    true, 
+    200
+  ]
 }

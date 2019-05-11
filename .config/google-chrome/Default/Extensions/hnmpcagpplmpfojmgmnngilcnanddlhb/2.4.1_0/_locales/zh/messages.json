@@ -1,0 +1,332 @@
+{
+   "backTitle": {
+      "message": "返回"
+   },
+   "connectionModeNameCR": {
+      "message": "漫游控制"
+   },
+   "connectionModeNameDH": {
+      "message": "双重代理"
+   },
+   "connectionModeNameEA": {
+      "message": "外部应用"
+   },
+   "connectionModeNameML": {
+      "message": "手动模式"
+   },
+   "connectionModeText": {
+      "message": "连接模式"
+   },
+   "connectionModeTooltipCruiseControl": {
+      "message": "访问被禁用的资源时，地理位置将自动被修改"
+   },
+   "connectionModeTooltipDefault": {
+      "message": "模式根据代理服务器自动设置"
+   },
+   "connectionModeTooltipDoubleHop": {
+      "message": "桌面版程序正在运行。您的流量正在被双重代理。这将会让您的信息更安全，但连接速度可能较慢"
+   },
+   "connectionModeTooltipExternalApp": {
+      "message": "您的网络设置正在被Windscribe桌面版控制"
+   },
+   "connectionModeTooltipManual": {
+      "message": "系统已经自动帮您设置了地理位置"
+   },
+   "errNetworkHeader": {
+      "message": "噢哦，出了点小错误"
+   },
+   "errNetworkText": {
+      "message": "无法连接到Windscribe服务器。这可能是由于您的网络连接问题或我们的服务器开了小差"
+   },
+   "errOtherExtensionHeader": {
+      "message": "已禁用保护"
+   },
+   "errOtherExtensionText": {
+      "message": "Windscribe无法在您使用其他扩展应用控制代理设置的同时工作"
+   },
+   "extDescription": {
+      "message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+   },
+   "extName": {
+      "message": "Windscribe - Free VPN and Ad Blocker"
+   },
+   "extShortName": {
+      "message": "Windscribe"
+   },
+   "loginButtonText": {
+      "message": "登录"
+   },
+   "loginEmptyInput": {
+      "message": "请输入“用户名”和“密码”"
+   },
+   "loginErr": {
+      "message": "登录信息不正确，请您重试"
+   },
+   "loginForgotPassword": {
+      "message": "忘记密码"
+   },
+   "loginPasswordPlaceholder": {
+      "message": "密码"
+   },
+   "loginSignUp": {
+      "message": "注册"
+   },
+   "loginTitle": {
+      "message": "登录到Windscribe"
+   },
+   "loginUsernamePlaceholder": {
+      "message": "用户名"
+   },
+   "loginWelcomeMsg": {
+      "message": "好的，登录中"
+   },
+   "menuHelp": {
+      "message": "需要帮助！"
+   },
+   "menuLanguages": {
+      "message": "语言"
+   },
+   "menuLogout": {
+      "message": "注销登录"
+   },
+   "menuMyAcc": {
+      "message": "我的账户"
+   },
+   "menuPrivacyOptions": {
+      "message": "隐私选项"
+   },
+   "menuRecentSLinks": {
+      "message": "最近的安全链接"
+   },
+   "menuTitle": {
+      "message": "菜单"
+   },
+   "menuUpgrade": {
+      "message": "升级"
+   },
+   "notificationEA": {
+      "message": "您的网络已经被Windscribe桌面版控制。请在应用中断开Windscribe连接"
+   },
+   "notificationOff": {
+      "message": "与Windscribe的连接已断开"
+   },
+   "notificationOffDH": {
+      "message": "双重代理连接已经断开。您的网络仍然被Windscribe桌面版控制"
+   },
+   "notificationOn": {
+      "message": "您现在已经连接到Windscribe"
+   },
+   "notificationOnDH1": {
+      "message": "您现在已经连接到Windscribe"
+   },
+   "notificationOnDH2": {
+      "message": "双重代理已经开启。这可能会导致性能下降"
+   },
+   "notificationOnEM": {
+      "message": "您的网络已经被Windscribe桌面版控制"
+   },
+   "privacyOptionsAdBlock": {
+      "message": "广告拦截"
+   },
+   "privacyOptionsAdBlockNote": {
+      "message": "屏蔽您访问网页上的广告"
+   },
+   "privacyOptionsAntiSoc": {
+      "message": "反社会"
+   },
+   "privacyOptionsAntiSocNote": {
+      "message": "实验：移除社交媒体按钮"
+   },
+   "privacyOptionsOff": {
+      "message": "关闭"
+   },
+   "privacyOptionsOn": {
+      "message": "开启"
+   },
+   "privacyOptionsSplit": {
+      "message": "随机代理"
+   },
+   "privacyOptionsSplitNote": {
+      "message": "随机改变您的用户代理"
+   },
+   "privacyOptionsTitle": {
+      "message": "隐私选项"
+   },
+   "privacyOptionsUntrace": {
+      "message": "不可追踪"
+   },
+   "privacyOptionsUntraceNote": {
+      "message": "拦截已知的广告标记和跟踪器"
+   },
+   "privacyOptionsWLBtnText": {
+      "message": "管理白名单"
+   },
+   "privacyOptionsWLText": {
+      "message": "白名单中的网站不会被上述设置所影响"
+   },
+   "privacyOptionsWLTitle": {
+      "message": "白名单中的网站"
+   },
+   "rateUsCTA": {
+      "message": "给我们评分"
+   },
+   "rateUsHeader": {
+      "message": "您喜欢Windscribe吗？"
+   },
+   "rateUsHeaderText": {
+      "message": "我们很期待您在Chrome商店上对我们的应用做出评价"
+   },
+   "rateUsNo": {
+      "message": "不，谢谢"
+   },
+   "recentLinksCopied": {
+      "message": "链接已复制"
+   },
+   "recentLinksCopy": {
+      "message": "复制"
+   },
+   "recentLinksLearn": {
+      "message": "安全链接是什么"
+   },
+   "recentLinksMonth": {
+      "message": "上个月"
+   },
+   "recentLinksNo": {
+      "message": "取消"
+   },
+   "recentLinksNoLinks": {
+      "message": "您还没有安全链接"
+   },
+   "recentLinksNoTitle": {
+      "message": "无标题页面"
+   },
+   "recentLinksOlder": {
+      "message": "更久之前"
+   },
+   "recentLinksSure": {
+      "message": "您确定继续吗？"
+   },
+   "recentLinksTitle": {
+      "message": "最近链接"
+   },
+   "recentLinksToday": {
+      "message": "今天"
+   },
+   "recentLinksWeek": {
+      "message": "上周"
+   },
+   "recentLinksYes": {
+      "message": "确认"
+   },
+   "remove": {
+      "message": "移除"
+   },
+   "secLinkAddMsg": {
+      "message": "添加消息（非必需）"
+   },
+   "secLinkAddPsw": {
+      "message": "添加密码保护（非必需）"
+   },
+   "secLinkCopied": {
+      "message": "链接已复制"
+   },
+   "secLinkForceIns": {
+      "message": "强制安装"
+   },
+   "secLinkNotCopied": {
+      "message": "链接未复制"
+   },
+   "secLinkNote": {
+      "message": "*您需要安装Windscribe后才能继续"
+   },
+   "secLinkTitle": {
+      "message": "安全链接选项"
+   },
+   "secLinkWarn": {
+      "message": "密码需要至少4位长度"
+   },
+   "secureLinkBtnText": {
+      "message": "复制安全链接"
+   },
+   "secureLinkErrTooltip": {
+      "message": "无法生成这个页面的安全链接"
+   },
+   "secureLinkTitle": {
+      "message": "安全链接生成器"
+   },
+   "statusConnected": {
+      "message": "已连接"
+   },
+   "statusConnectedDesktop": {
+      "message": "已连接（桌面版）"
+   },
+   "statusDisconnected": {
+      "message": "连接已断开"
+   },
+   "topNavBanned": {
+      "message": "禁用"
+   },
+   "topNavDay": {
+      "message": "天剩余"
+   },
+   "topNavDays": {
+      "message": "天剩余"
+   },
+   "topNavGBLeft": {
+      "message": "GB 剩余"
+   },
+   "topNavUpgrade": {
+      "message": "升级"
+   },
+   "upgradeTooltipText": {
+      "message": "您本月已经使用超出了免费限额。请您升级"
+   },
+   "whiteListAddAdsBtnText": {
+      "message": "广告白名单"
+   },
+   "whiteListAddBtnText": {
+      "message": "添加网址到"
+   },
+   "whiteListAddProxyBtnText": {
+      "message": "代理服务器白名单"
+   },
+   "whiteListAdsOnly": {
+      "message": "仅限广告"
+   },
+   "whiteListIssues": {
+      "message": "这个网站有问题？"
+   },
+   "whiteListIt": {
+      "message": "添加到白名单"
+   },
+   "whiteListListed": {
+      "message": "这个网址已经在白名单中"
+   },
+   "whiteListNoProxy": {
+      "message": "无需代理服务"
+   },
+   "whiteListQuestion": {
+      "message": "关闭本网站的拦截跟踪器？"
+   },
+   "whiteListRemove": {
+      "message": "从白名单中移除"
+   },
+   "whiteListRemoveBtnText": {
+      "message": "将网址从白名单中移除"
+   },
+   "whiteListReportThanks": {
+      "message": "谢谢。我们将尽快修复"
+   },
+   "whiteListReportUrl": {
+      "message": "报告这个网站地址，让我们来修复它"
+   },
+   "whiteListSitesTitle": {
+      "message": "白名单中的网址"
+   },
+   "whiteListTitle": {
+      "message": "白名单选项"
+   },
+   "whiteListTooltip": {
+      "message": "无法添加空白页面到白名单中"
+   }
+}

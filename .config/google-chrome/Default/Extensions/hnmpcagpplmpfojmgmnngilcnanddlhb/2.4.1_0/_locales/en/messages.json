@@ -1,0 +1,392 @@
+{
+   "backTitle": {
+      "message": "Back"
+   },
+   "connectionModeNameCR": {
+      "message": "Cruise Control"
+   },
+   "connectionModeNameDH": {
+      "message": "Double Hop"
+   },
+   "connectionModeNameEA": {
+      "message": "External App"
+   },
+   "connectionModeNameML": {
+      "message": "Manual"
+   },
+   "connectionModeText": {
+      "message": "Connection Mode"
+   },
+   "connectionModeTooltipCruiseControl": {
+      "message": "Location will be changed automatically when accessing a blocked resource"
+   },
+   "connectionModeTooltipDefault": {
+      "message": "Your mode is defined by your proxy settings"
+   },
+   "connectionModeTooltipDoubleHop": {
+      "message": "Desktop app is running. You currently double proxy your traffic. This is more secure, but could be slower"
+   },
+   "connectionModeTooltipExternalApp": {
+      "message": "Your network settings are controlled by the Windscribe Desktop App"
+   },
+   "connectionModeTooltipManual": {
+      "message": "Location is chosen by you"
+   },
+   "cookieMonsterCookie3rdParty": {
+      "message": "3rd Party"
+   },
+   "cookieMonsterCookieAll": {
+      "message": "All"
+   },
+   "cookieMonsterCookieOff": {
+      "message": "Off"
+   },
+   "cookieMonsterOptionsNote": {
+      "message": "Delete Cookies when tab is closed"
+   },
+   "cookieMonsterTitle": {
+      "message": "Cookie Monster"
+   },
+   "errNetworkHeader": {
+      "message": "Oops, that shouldn't happen"
+   },
+   "errNetworkText": {
+      "message": "Couldn't reach Windscribe servers. You either have no Internet connectivity or something is wrong on our end"
+   },
+   "errOtherExtensionHeader": {
+      "message": "Protection Disabled"
+   },
+   "errOtherExtensionText": {
+      "message": "Windscribe can`t work when you`re using another extension that is controlling your proxy settings"
+   },
+   "extDescription": {
+      "message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+   },
+   "extName": {
+      "message": "Windscribe - Free VPN and Ad Blocker"
+   },
+   "extShortName": {
+      "message": "Windscribe"
+   },
+   "loginButtonText": {
+      "message": "Login"
+   },
+   "loginEmptyInput": {
+      "message": "Fill in both 'username' and 'password' to login"
+   },
+   "loginErr": {
+      "message": "This login appears to be invalid, try again"
+   },
+   "loginForgotPassword": {
+      "message": "Forgot password"
+   },
+   "loginPasswordPlaceholder": {
+      "message": "Password"
+   },
+   "loginSignUp": {
+      "message": "Sign Up"
+   },
+   "loginTitle": {
+      "message": "Login to Windscribe"
+   },
+   "loginUsernamePlaceholder": {
+      "message": "Username"
+   },
+   "loginWelcomeMsg": {
+      "message": "Awesome, we`re logging you in"
+   },
+   "menuHelp": {
+      "message": "Help Me!"
+   },
+   "menuLanguages": {
+      "message": "Languages"
+   },
+   "menuLogout": {
+      "message": "Logout"
+   },
+   "menuMyAcc": {
+      "message": "My Account"
+   },
+   "menuPrivacyOptions": {
+      "message": "Privacy Options"
+   },
+   "menuRecentSLinks": {
+      "message": "Recent Secure.Links"
+   },
+   "menuTitle": {
+      "message": "Menu"
+   },
+   "menuUpgrade": {
+      "message": "Upgrade"
+   },
+   "notificationBandwidth1": {
+      "message": "You used"
+   },
+   "notificationBandwidth2": {
+      "message": "% of your free bandwidth"
+   },
+   "notificationBandwidthOut": {
+      "message": "You used up all your free bandwidth. Please upgrade to Pro or wait until next month"
+   },
+   "notificationCookies": {
+      "message": "Deleted cookies"
+   },
+   "notificationEA": {
+      "message": "Your network settings are being controlled by the Windscribe desktop app. Disconnect inside the app to turn off Windscribe"
+   },
+   "notificationOff": {
+      "message": "Connection to Windscribe has been terminated"
+   },
+   "notificationOffDH": {
+      "message": "Double hop connection has been terminated. Your network is still being controlled by the Windscribe desktop app"
+   },
+   "notificationOn": {
+      "message": "You are now connected to Windscribe"
+   },
+   "notificationOnDH1": {
+      "message": "You are now connected to Windscribe"
+   },
+   "notificationOnDH2": {
+      "message": "Double hop is enabled. This may cause performance penalties"
+   },
+   "notificationOnEM": {
+      "message": "Your network settings are being controlled by Windscribe Desktop App"
+   },
+   "privacyOptionsAdBlock": {
+      "message": "Ad Blocker"
+   },
+   "privacyOptionsAdBlockNote": {
+      "message": "Blocks ads on pages you visit"
+   },
+   "privacyOptionsAntiSoc": {
+      "message": "Anti-Social"
+   },
+   "privacyOptionsAntiSocNote": {
+      "message": "EXPERIMENTAL: Remove social media buttons"
+   },
+   "privacyOptionsOff": {
+      "message": "off"
+   },
+   "privacyOptionsOn": {
+      "message": "on"
+   },
+   "privacyOptionsSplit": {
+      "message": "Split Personality"
+   },
+   "privacyOptionsSplitNote": {
+      "message": "Randomly rotate your user agent"
+   },
+   "privacyOptionsTime": {
+      "message": "Proxy Time"
+   },
+   "privacyOptionsTimeNote": {
+      "message": "Sets browser time to proxy's"
+   },
+   "privacyOptionsTitle": {
+      "message": "Privacy Options"
+   },
+   "privacyOptionsUntrace": {
+      "message": "Untraceable"
+   },
+   "privacyOptionsUntraceNote": {
+      "message": "Block known ad beacons and trackers"
+   },
+   "privacyOptionsWLBtnText": {
+      "message": "Manage Whitelist"
+   },
+   "privacyOptionsWLText": {
+      "message": "Selectively disable Privacy Options"
+   },
+   "privacyOptionsWLTitle": {
+      "message": "Whitelisted Sites"
+   },
+   "rateUsCTA": {
+      "message": "Rate Us"
+   },
+   "rateUsHeader": {
+      "message": "How are you liking Windscribe?"
+   },
+   "rateUsHeaderText": {
+      "message": "We would really appreciate a rating and a review in the Chrome Store"
+   },
+   "rateUsNo": {
+      "message": "No Thanks"
+   },
+   "recentLinksCopied": {
+      "message": "Copied!"
+   },
+   "recentLinksCopy": {
+      "message": "Copy"
+   },
+   "recentLinksLearn": {
+      "message": "Learn About Secure.link"
+   },
+   "recentLinksMonth": {
+      "message": "Last Month"
+   },
+   "recentLinksNo": {
+      "message": "No"
+   },
+   "recentLinksNoLinks": {
+      "message": "You do not have any secure links"
+   },
+   "recentLinksNoTitle": {
+      "message": "No page title"
+   },
+   "recentLinksOlder": {
+      "message": "Older"
+   },
+   "recentLinksSure": {
+      "message": "Are you sure?"
+   },
+   "recentLinksTitle": {
+      "message": "Recent Links"
+   },
+   "recentLinksToday": {
+      "message": "Today"
+   },
+   "recentLinksWeek": {
+      "message": "Last Week"
+   },
+   "recentLinksYes": {
+      "message": "Yes"
+   },
+   "remove": {
+      "message": "Remove"
+   },
+   "secLinkAddMsg": {
+      "message": "Add Message (optional)"
+   },
+   "secLinkAddPsw": {
+      "message": "Add password to encrypt (optional)"
+   },
+   "secLinkCopied": {
+      "message": "Link coppied"
+   },
+   "secLinkForceIns": {
+      "message": "Force install"
+   },
+   "secLinkNotCopied": {
+      "message": "Link didn't copy"
+   },
+   "secLinkNote": {
+      "message": "*Will require Windscribe to be installed to continue"
+   },
+   "secLinkTitle": {
+      "message": "Secure link Options"
+   },
+   "secLinkWarn": {
+      "message": "Password must contain at least 4 symbols"
+   },
+   "secureLinkBtnText": {
+      "message": "Copy Secure.Link"
+   },
+   "secureLinkErrTooltip": {
+      "message": "Cannot make a Secure.link from this page"
+   },
+   "secureLinkTitle": {
+      "message": "Secure.Link Generator"
+   },
+   "statusConnected": {
+      "message": "Connected"
+   },
+   "statusConnectedDesktop": {
+      "message": "Connected (Desktop)"
+   },
+   "statusDisconnected": {
+      "message": "Disconnected"
+   },
+   "topNavBanned": {
+      "message": "Banned"
+   },
+   "topNavDayLeft": {
+      "message": "Day Left"
+   },
+   "topNavDaysLeft": {
+      "message": "Days Left"
+   },
+   "topNavGBLeft": {
+      "message": "GB Left"
+   },
+   "topNavUpgrade": {
+      "message": "Upgrade"
+   },
+   "upgradeTooltipText": {
+      "message": "You exceeded your free usage for this month. Please upgrade"
+   },
+   "whiteListAddAdsBtnText": {
+      "message": "Ads Whitelist"
+   },
+   "whiteListAddBtnText": {
+      "message": "Add Site to"
+   },
+   "whiteListAddCookieBtnText": {
+      "message": "Cookie Whitelist"
+   },
+   "whiteListAddProxyBtnText": {
+      "message": "Proxy Whitelist"
+   },
+   "whiteListAds": {
+      "message": "Ads"
+   },
+   "whiteListAdsOnly": {
+      "message": "Ads Only"
+   },
+   "whiteListAll": {
+      "message": "Whitelist All"
+   },
+   "whiteListAllowAds": {
+      "message": "Allow Ads"
+   },
+   "whiteListAllowCookies": {
+      "message": "Allow Cookies"
+   },
+   "whiteListCookies": {
+      "message": "Cookies"
+   },
+   "whiteListDirectConnection": {
+      "message": "Direct Connection"
+   },
+   "whiteListDomain": {
+      "message": "Domain"
+   },
+   "whiteListIssues": {
+      "message": "Having Issues with this site?"
+   },
+   "whiteListIt": {
+      "message": "Open Whitelist"
+   },
+   "whiteListListed": {
+      "message": "This site is whitelisted"
+   },
+   "whiteListNoProxy": {
+      "message": "No Proxy"
+   },
+   "whiteListProxy": {
+      "message": "No Proxy"
+   },
+   "whiteListQuestion": {
+      "message": "Stop Blocking Trackers on this Site?"
+   },
+   "whiteListRemove": {
+      "message": "Remove from White List"
+   },
+   "whiteListRemoveBtnText": {
+      "message": "Remove Site from Whitelist"
+   },
+   "whiteListReportThanks": {
+      "message": "Thanks. We'll get that fixed shortly"
+   },
+   "whiteListReportUrl": {
+      "message": "Report this URL so we can fix it"
+   },
+   "whiteListSitesTitle": {
+      "message": "Whitelisted sites"
+   },
+   "whiteListTitle": {
+      "message": "Whitelist Options"
+   },
+   "whiteListTooltip": {
+      "message": "Cannot add empty page to whitelist"
+   }
+}

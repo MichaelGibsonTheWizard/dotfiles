@@ -1,0 +1,332 @@
+{
+   "backTitle": {
+      "message": "Tilbage"
+   },
+   "connectionModeNameCR": {
+      "message": "Fartpilot"
+   },
+   "connectionModeNameDH": {
+      "message": "Double Hop"
+   },
+   "connectionModeNameEA": {
+      "message": "Ekstern App"
+   },
+   "connectionModeNameML": {
+      "message": "Manuel"
+   },
+   "connectionModeText": {
+      "message": "Forbindelses Tilstand"
+   },
+   "connectionModeTooltipCruiseControl": {
+      "message": "Placering ændres automatisk ved tilgang af en blokeret ressource"
+   },
+   "connectionModeTooltipDefault": {
+      "message": "Din tilstand er bestemt af dine proxyindstillinger"
+   },
+   "connectionModeTooltipDoubleHop": {
+      "message": "Skrivebords app kører. Du dobbelt proxier i øjeblikket din trafik. Dette er mere sikkert, men kan være langsommere"
+   },
+   "connectionModeTooltipExternalApp": {
+      "message": "Dine netværksindstillinger bliver kontrolleret af WindScribe skrivebords app"
+   },
+   "connectionModeTooltipManual": {
+      "message": "Placering er valgt af dig"
+   },
+   "errNetworkHeader": {
+      "message": "Ups, det bør ikke ske"
+   },
+   "errNetworkText": {
+      "message": "Kunne ikke nå Windscribe servere. Du har enten ingen Internet forbindelse eller noget er galt i vores ende"
+   },
+   "errOtherExtensionHeader": {
+      "message": "Beskyttelse Deaktiveret"
+   },
+   "errOtherExtensionText": {
+      "message": "WindScribe virker ikke, når du bruger en anden udvidelse, der styrer dine proxyindstillinger"
+   },
+   "extDescription": {
+      "message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+   },
+   "extName": {
+      "message": "Windscribe - Free VPN and Ad Blocker"
+   },
+   "extShortName": {
+      "message": "Windscribe"
+   },
+   "loginButtonText": {
+      "message": "Log ind"
+   },
+   "loginEmptyInput": {
+      "message": "Udfyld både 'brugernavn' og 'adgangskode' for at logge på"
+   },
+   "loginErr": {
+      "message": "Dette login er tilsyneladende ugyldigt, prøv igen"
+   },
+   "loginForgotPassword": {
+      "message": "Glemt Adgangskode"
+   },
+   "loginPasswordPlaceholder": {
+      "message": "Adgangskode"
+   },
+   "loginSignUp": {
+      "message": "Tilmeld"
+   },
+   "loginTitle": {
+      "message": "Log på Windscribe"
+   },
+   "loginUsernamePlaceholder": {
+      "message": "Brugernavn"
+   },
+   "loginWelcomeMsg": {
+      "message": "Fantastisk, Vi logger dig på"
+   },
+   "menuHelp": {
+      "message": "Hjælp Mig!"
+   },
+   "menuLanguages": {
+      "message": "Sprog"
+   },
+   "menuLogout": {
+      "message": "Log Ud"
+   },
+   "menuMyAcc": {
+      "message": "Min Konto"
+   },
+   "menuPrivacyOptions": {
+      "message": "Privat Indstillinger"
+   },
+   "menuRecentSLinks": {
+      "message": "Seneste Secure.Links"
+   },
+   "menuTitle": {
+      "message": "Menu"
+   },
+   "menuUpgrade": {
+      "message": "Opgrader"
+   },
+   "notificationEA": {
+      "message": "Dine netværksindstillinger bliver kontrolleret af WindScribe skrivebords app. Afbryd inde i appen for at slukke WindScribe"
+   },
+   "notificationOff": {
+      "message": "Forbindelse til Windscribe er blevet termineret"
+   },
+   "notificationOffDH": {
+      "message": "Dobbelt hop forbindelse er blevet afbrudt. Dit netværk er stadig kontrolleret af WindScribe skrivebords app"
+   },
+   "notificationOn": {
+      "message": "Du er nu forbundet til Windscribe"
+   },
+   "notificationOnDH1": {
+      "message": "Du er nu forbundet til Windscribe"
+   },
+   "notificationOnDH2": {
+      "message": "Dobbelt hop er aktiveret. Dette kan medføre dårlig ydeevne"
+   },
+   "notificationOnEM": {
+      "message": "Dine netværksindstillinger bliver kontrolleret af WindScribe skrivebords app"
+   },
+   "privacyOptionsAdBlock": {
+      "message": "Reklame Bloker"
+   },
+   "privacyOptionsAdBlockNote": {
+      "message": "Blokerer reklamer på sider du besøger"
+   },
+   "privacyOptionsAntiSoc": {
+      "message": "Anti-Social"
+   },
+   "privacyOptionsAntiSocNote": {
+      "message": "EKSPERIMENTAL: Fjern sociale medieknapper"
+   },
+   "privacyOptionsOff": {
+      "message": "fra"
+   },
+   "privacyOptionsOn": {
+      "message": "til"
+   },
+   "privacyOptionsSplit": {
+      "message": "Split Personlighed"
+   },
+   "privacyOptionsSplitNote": {
+      "message": "Skift tilfældigt din brugerprofil"
+   },
+   "privacyOptionsTitle": {
+      "message": "Privat Indstillinger"
+   },
+   "privacyOptionsUntrace": {
+      "message": "Usporlig"
+   },
+   "privacyOptionsUntraceNote": {
+      "message": "Bloker kendte reklame beacons og trackere"
+   },
+   "privacyOptionsWLBtnText": {
+      "message": "Administrer Whiteliste"
+   },
+   "privacyOptionsWLText": {
+      "message": "Sider på whitelist vil ikke blive påvirket af ovenstående indstillinger"
+   },
+   "privacyOptionsWLTitle": {
+      "message": "Whitelistede Sider"
+   },
+   "rateUsCTA": {
+      "message": "Vurder Os"
+   },
+   "rateUsHeader": {
+      "message": "Hvad syntes du om Windscribe?"
+   },
+   "rateUsHeaderText": {
+      "message": "Vi ville virkelig sætte pris på en vurdering og anmeldelse i Chrome butikken"
+   },
+   "rateUsNo": {
+      "message": "Nej Tak"
+   },
+   "recentLinksCopied": {
+      "message": "Kopieret!"
+   },
+   "recentLinksCopy": {
+      "message": "Kopier"
+   },
+   "recentLinksLearn": {
+      "message": "Lær Om Secure.link"
+   },
+   "recentLinksMonth": {
+      "message": "Sidste Måned"
+   },
+   "recentLinksNo": {
+      "message": "Nej"
+   },
+   "recentLinksNoLinks": {
+      "message": "Du har ingen sikre links"
+   },
+   "recentLinksNoTitle": {
+      "message": "Ingen side titel"
+   },
+   "recentLinksOlder": {
+      "message": "Ældre"
+   },
+   "recentLinksSure": {
+      "message": "Er du sikker?"
+   },
+   "recentLinksTitle": {
+      "message": "Seneste Links"
+   },
+   "recentLinksToday": {
+      "message": "I dag"
+   },
+   "recentLinksWeek": {
+      "message": "Sidste Uge"
+   },
+   "recentLinksYes": {
+      "message": "Ja"
+   },
+   "remove": {
+      "message": "Fjern"
+   },
+   "secLinkAddMsg": {
+      "message": "Tilføj Besked (valgfri)"
+   },
+   "secLinkAddPsw": {
+      "message": "Tilføj adgangskode for at kryptere (valgfri)"
+   },
+   "secLinkCopied": {
+      "message": "Link kopieret"
+   },
+   "secLinkForceIns": {
+      "message": "Tving Instalation"
+   },
+   "secLinkNotCopied": {
+      "message": "Link blev ikke kopieret"
+   },
+   "secLinkNote": {
+      "message": "*Vil kræve at WindScribe installeres for at fortsætte"
+   },
+   "secLinkTitle": {
+      "message": "Secure link Indstillinger"
+   },
+   "secLinkWarn": {
+      "message": "Adgangskode skal indeholde mindst 4 symboler"
+   },
+   "secureLinkBtnText": {
+      "message": "Kopier Secure.Link"
+   },
+   "secureLinkErrTooltip": {
+      "message": "Kan ikke skabe et Secure.link fra denne side"
+   },
+   "secureLinkTitle": {
+      "message": "Secure.Link Generator"
+   },
+   "statusConnected": {
+      "message": "Forbundet"
+   },
+   "statusConnectedDesktop": {
+      "message": "Forbundet (Desktop)"
+   },
+   "statusDisconnected": {
+      "message": "Afbrudt"
+   },
+   "topNavBanned": {
+      "message": "Banned"
+   },
+   "topNavDayLeft": {
+      "message": "Dag Tilbage"
+   },
+   "topNavDaysLeft": {
+      "message": "Dag Tilbage"
+   },
+   "topNavGBLeft": {
+      "message": "GB Tilbage"
+   },
+   "topNavUpgrade": {
+      "message": "Opgrader"
+   },
+   "upgradeTooltipText": {
+      "message": "Du har overskredet din gratis brug for denne måned. Opgrader"
+   },
+   "whiteListAddAdsBtnText": {
+      "message": "Reklame Whiteliste"
+   },
+   "whiteListAddBtnText": {
+      "message": "Tilføj Side til"
+   },
+   "whiteListAddProxyBtnText": {
+      "message": "Proxy Whiteliste"
+   },
+   "whiteListAdsOnly": {
+      "message": "Kun Reklamer"
+   },
+   "whiteListIssues": {
+      "message": "Har du problemer med dette websted?"
+   },
+   "whiteListIt": {
+      "message": "Whitelist det"
+   },
+   "whiteListListed": {
+      "message": "Denne side er whitelisted"
+   },
+   "whiteListNoProxy": {
+      "message": "Ingen Proxy"
+   },
+   "whiteListQuestion": {
+      "message": "Stop Blokering af Trackere på denne Side?"
+   },
+   "whiteListRemove": {
+      "message": "Fjern fra Whitelist"
+   },
+   "whiteListRemoveBtnText": {
+      "message": "Fjern Side fra Whiteliste"
+   },
+   "whiteListReportThanks": {
+      "message": "Tak. Vi får det ordnet snarligt"
+   },
+   "whiteListReportUrl": {
+      "message": "Rapporter denne URL, så vi kan ordne den"
+   },
+   "whiteListSitesTitle": {
+      "message": "Whitelistede sider"
+   },
+   "whiteListTitle": {
+      "message": "Whiteliste Indstillinger"
+   },
+   "whiteListTooltip": {
+      "message": "Kan ikke tilføje tom side til whiteliste"
+   }
+}

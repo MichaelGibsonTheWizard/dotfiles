@@ -1,0 +1,134 @@
+{
+   "create_addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Segreta"
+   },
+   "create_addSection": {
+      "description": "label to add section",
+      "message": "Aggiungi sezione"
+   },
+   "create_allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Tutte le bacheche"
+   },
+   "create_chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Scegli una bacheca"
+   },
+   "create_chooseSection": {
+      "description": "label for board sections",
+      "message": "Scegli Sezione"
+   },
+   "create_closeAddForm": {
+      "description": "cancel create",
+      "message": "Annulla"
+   },
+   "create_filter": {
+      "description": "placeholder text in Search input",
+      "message": "Cerca"
+   },
+   "create_msgBoardFail": {
+      "description": "board create fail",
+      "message": "Impossibile creare una nuova bacheca"
+   },
+   "create_msgClose": {
+      "description": "pin create success close",
+      "message": "Chiudi"
+   },
+   "create_msgHelp": {
+      "description": "get help button",
+      "message": "Ottieni assistenza"
+   },
+   "create_msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Spiacenti, sembra si sia verificato un errore. Verifica di aver effettuato l'accesso a Pinterest e riprova."
+   },
+   "create_msgPinFail": {
+      "description": "pin create fail",
+      "message": "Impossibile salvare questa pagina"
+   },
+   "create_msgPinSavedTo": {
+      "description": "board identifier",
+      "message": "Salvato in %"
+   },
+   "create_msgSeeItNow": {
+      "description": "pin / board create success button",
+      "message": "Visualizzalo ora"
+   },
+   "create_optNo": {
+      "description": "switch option no",
+      "message": "No"
+   },
+   "create_optYes": {
+      "description": "switch option yes",
+      "message": "Sì"
+   },
+   "create_outerAddFormOpener": {
+      "description": "header in Create form",
+      "message": "Crea bacheca"
+   },
+   "create_placeholderDescription": {
+      "description": "placeholder text in Pin description",
+      "message": "Parlaci di questo Pin"
+   },
+   "create_placeholderFilterAddBoard": {
+      "description": "placeholder text in Create Board input",
+      "message": "Ad esempio \"Luoghi dove andare\""
+   },
+   "create_placeholderFilterAddSection": {
+      "description": "placeholder text in Create Section input",
+      "message": "Come \"Illuminazione\""
+   },
+   "create_submitAddForm": {
+      "description": "create new board",
+      "message": "Crea"
+   },
+   "create_topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Le migliore scelte"
+   },
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Spiacenti! non puoi salvare questa immagine."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Salva i contenuti che trovi sul Web."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pulsante Salva di Pinterest"
+   },
+   "grid_choosePin": {
+      "description": "Header message in the image picker overlay",
+      "message": "Scegli un Pin da salvare"
+   },
+   "logic_noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Ci dispiace, ma l'aggiunta di Pin non è consentita da questo dominio. Se hai domande, contatta il gestore del sito."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Ops!"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Nascondi pulsanti Salva a comparsa"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Opzioni del pulsante Salva"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Salva"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Cerca"
+   },
+   "search_headerMessage": {
+      "description": "Header shown when search succeeds",
+      "message": "Altri risultati simili da Pinterest"
+   }
+}

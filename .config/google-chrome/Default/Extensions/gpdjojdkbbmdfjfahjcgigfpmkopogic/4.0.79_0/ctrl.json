@@ -1,0 +1,32 @@
+{
+  "ctrlVer": 2019030101,
+  "canHaz": {
+    "iframeSave": false,
+    "localImagePicker": true,
+    "pfob": true
+  },
+  "search": {
+    "clientId": 1447278,
+    "authRequired": false,
+    "unauthPercent": 0
+  },
+  "endpoint": {
+    "about": "https://about.pinterest.com/",
+    "log": "https://log.pinterest.com/",
+    "grid": {
+      "pinCreate": "https://www.pinterest.com/pin/create/extension/",
+      "rePinCreate": "https://www.pinterest.com/pin/%s/repin/x/"
+    },
+    "save": "https://www.pinterest.com/browserbutton/create_pin/"
+  },
+  "path": {
+    "uninstall": "browser-button/",
+    "welcome": "browser-button-confirmation-page/"
+  },
+  "pattern": {
+    "pinmarklet": "^https?:\\/\\/assets\\.pinterest\\.com\\/js\\/pinmarklet\\.js",
+    "pinterestDomain": "https?:\\/\\/((\\w+)\\.|)pinterest\\.(at|(c(a|h|l|o(\\.(kr|uk)|m(|\\.(au|mx)))))|d(e|k)|es|fr|i(e|t)|jp|nz|p(h|t)|se|ru)\\/"
+  },
+  "csrfDomain": "api.pinterest.com",
+  "wwwDomain": "www.pinterest.com"
+}

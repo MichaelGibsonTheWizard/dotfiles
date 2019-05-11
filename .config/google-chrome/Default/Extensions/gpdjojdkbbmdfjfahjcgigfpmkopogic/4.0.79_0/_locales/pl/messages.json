@@ -1,0 +1,134 @@
+{
+   "create_addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Ukryta"
+   },
+   "create_addSection": {
+      "description": "label to add section",
+      "message": "Dodaj sekcję"
+   },
+   "create_allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Wszystkie tablice"
+   },
+   "create_chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Wybierz tablicę"
+   },
+   "create_chooseSection": {
+      "description": "label for board sections",
+      "message": "Wybierz sekcję"
+   },
+   "create_closeAddForm": {
+      "description": "cancel create",
+      "message": "Anuluj"
+   },
+   "create_filter": {
+      "description": "placeholder text in Search input",
+      "message": "Szukaj"
+   },
+   "create_msgBoardFail": {
+      "description": "board create fail",
+      "message": "Nie udało się utworzyć nowej tablicy"
+   },
+   "create_msgClose": {
+      "description": "pin create success close",
+      "message": "Zamknij"
+   },
+   "create_msgHelp": {
+      "description": "get help button",
+      "message": "Uzyskaj pomoc"
+   },
+   "create_msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Przepraszamy, coś poszło nie tak. Sprawdź, czy jesteś zalogowany(-a) na Pintereście i spróbuj ponownie."
+   },
+   "create_msgPinFail": {
+      "description": "pin create fail",
+      "message": "Nie udało się zapisać tej strony"
+   },
+   "create_msgPinSavedTo": {
+      "description": "board identifier",
+      "message": "Zapisano na tablicy %"
+   },
+   "create_msgSeeItNow": {
+      "description": "pin / board create success button",
+      "message": "Zobacz teraz"
+   },
+   "create_optNo": {
+      "description": "switch option no",
+      "message": "Nie"
+   },
+   "create_optYes": {
+      "description": "switch option yes",
+      "message": "Tak"
+   },
+   "create_outerAddFormOpener": {
+      "description": "header in Create form",
+      "message": "Utwórz tablicę"
+   },
+   "create_placeholderDescription": {
+      "description": "placeholder text in Pin description",
+      "message": "Opowiedz nam o tym Pinie"
+   },
+   "create_placeholderFilterAddBoard": {
+      "description": "placeholder text in Create Board input",
+      "message": "Na przykład „Miejsca do odwiedzenia”"
+   },
+   "create_placeholderFilterAddSection": {
+      "description": "placeholder text in Create Section input",
+      "message": "Np. „Oświetlenie”"
+   },
+   "create_submitAddForm": {
+      "description": "create new board",
+      "message": "Utwórz"
+   },
+   "create_topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Najczęściej wybierane"
+   },
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Niestety, ten obraz nie może być zapisany."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Zapisuj rzeczy, które znajdujesz w sieci."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterestowy przycisk Zapisz"
+   },
+   "grid_choosePin": {
+      "description": "Header message in the image picker overlay",
+      "message": "Wybierz Pina do zapisania"
+   },
+   "logic_noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Niestety przypinanie z tej domeny jest niedozwolone. Skontaktuj się z operatorem witryny, jeśli masz pytania."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Oops!"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Ukryj przyciski Zapisz na warstwie obrazka"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Opcje przycisku Zapisz"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Zapisz"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Szukaj"
+   },
+   "search_headerMessage": {
+      "description": "Header shown when search succeeds",
+      "message": "Więcej w tym stylu na Pintereście"
+   }
+}

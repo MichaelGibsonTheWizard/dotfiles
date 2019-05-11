@@ -1,0 +1,332 @@
+{
+   "backTitle": {
+      "message": "Indietro"
+   },
+   "connectionModeNameCR": {
+      "message": "Cruise Control"
+   },
+   "connectionModeNameDH": {
+      "message": "Double Hop"
+   },
+   "connectionModeNameEA": {
+      "message": "App Esterna"
+   },
+   "connectionModeNameML": {
+      "message": "Manuale"
+   },
+   "connectionModeText": {
+      "message": "Modalità Connessione"
+   },
+   "connectionModeTooltipCruiseControl": {
+      "message": "La posizione sarà cambiata automaticamente quando si accede ad una risorsa bloccata"
+   },
+   "connectionModeTooltipDefault": {
+      "message": "La tua modalità è definita dalle tue impostazioni proxy"
+   },
+   "connectionModeTooltipDoubleHop": {
+      "message": "App desktop in esecuzione. Al momento hai un doppio proxy sul tuo traffico. Ciò è più sicuro, ma potrebbe essere più lento"
+   },
+   "connectionModeTooltipExternalApp": {
+      "message": "Le tue impostazioni dirette sono controllate dalla App Desktop Windscribe"
+   },
+   "connectionModeTooltipManual": {
+      "message": "La posizione viene scelta da te"
+   },
+   "errNetworkHeader": {
+      "message": "Oops, questo non dovrebbe succedere"
+   },
+   "errNetworkText": {
+      "message": "Impossibile raggiungere i server Windscribe. Non hai connettività Internet o qualcosa è andato storto dalla nostra parte"
+   },
+   "errOtherExtensionHeader": {
+      "message": "Protezione Disattivata"
+   },
+   "errOtherExtensionText": {
+      "message": "Windscribe non può funzionare se usi unaltra estensione che controlla le tue impostazioni proxy"
+   },
+   "extDescription": {
+      "message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+   },
+   "extName": {
+      "message": "Windscribe - Free VPN and Ad Blocker"
+   },
+   "extShortName": {
+      "message": "Windscribe"
+   },
+   "loginButtonText": {
+      "message": "Accedi"
+   },
+   "loginEmptyInput": {
+      "message": "Inserisci sia 'nome utente che 'password' per accedere"
+   },
+   "loginErr": {
+      "message": "Questo login non sembra essere valido, riprova"
+   },
+   "loginForgotPassword": {
+      "message": "Password dimenticata"
+   },
+   "loginPasswordPlaceholder": {
+      "message": "Password"
+   },
+   "loginSignUp": {
+      "message": "Iscriviti"
+   },
+   "loginTitle": {
+      "message": "Accedi a Windscribe"
+   },
+   "loginUsernamePlaceholder": {
+      "message": "Nome Utente"
+   },
+   "loginWelcomeMsg": {
+      "message": "Fantastico, ti facciamo accedere"
+   },
+   "menuHelp": {
+      "message": "Aiutami!"
+   },
+   "menuLanguages": {
+      "message": "Lingue"
+   },
+   "menuLogout": {
+      "message": "Esci"
+   },
+   "menuMyAcc": {
+      "message": "Il Mio Account"
+   },
+   "menuPrivacyOptions": {
+      "message": "Opzioni Privacy"
+   },
+   "menuRecentSLinks": {
+      "message": "Secure.Links Recenti"
+   },
+   "menuTitle": {
+      "message": "Menu"
+   },
+   "menuUpgrade": {
+      "message": "Effettua Upgrade"
+   },
+   "notificationEA": {
+      "message": "Le tue impostazioni dirette sono controllate dalla app desktop Windscribe. This connetti dallinterno della app per spegnere Windscribe"
+   },
+   "notificationOff": {
+      "message": "La connessione a Windscribe è stata terminata"
+   },
+   "notificationOffDH": {
+      "message": "Connessione double hop terminata. La tua connessione è ancora controllata dalla app desktop Windscribe"
+   },
+   "notificationOn": {
+      "message": "Sei ora connesso a Windscribe"
+   },
+   "notificationOnDH1": {
+      "message": "Sei ora connesso a Windscribe"
+   },
+   "notificationOnDH2": {
+      "message": "Double hop attivato. Questo può causare penalità alle prestazioni"
+   },
+   "notificationOnEM": {
+      "message": "Le tue impostazioni dirette sono controllate dalla App Desktop Windscribe"
+   },
+   "privacyOptionsAdBlock": {
+      "message": "Ad Blocker"
+   },
+   "privacyOptionsAdBlockNote": {
+      "message": "Blocca la pubblicità sulle pagine che visiti"
+   },
+   "privacyOptionsAntiSoc": {
+      "message": "Anti-Sociale"
+   },
+   "privacyOptionsAntiSocNote": {
+      "message": "SPERIMENTALE: Rimuovi pulsanti social media"
+   },
+   "privacyOptionsOff": {
+      "message": "spento"
+   },
+   "privacyOptionsOn": {
+      "message": "acceso"
+   },
+   "privacyOptionsSplit": {
+      "message": "Personalità Multipla"
+   },
+   "privacyOptionsSplitNote": {
+      "message": "Ruota il tuo agente utente a caso"
+   },
+   "privacyOptionsTitle": {
+      "message": "Opzioni Privacy"
+   },
+   "privacyOptionsUntrace": {
+      "message": "Non Rintracciabile"
+   },
+   "privacyOptionsUntraceNote": {
+      "message": "Blocca ad beacon e tracker noti"
+   },
+   "privacyOptionsWLBtnText": {
+      "message": "Gestisci Whitelist"
+   },
+   "privacyOptionsWLText": {
+      "message": "I siti sulla Whitelist non saranno influenzati dalle impostazioni sopra"
+   },
+   "privacyOptionsWLTitle": {
+      "message": "Siti in Whitelist"
+   },
+   "rateUsCTA": {
+      "message": "Valutaci"
+   },
+   "rateUsHeader": {
+      "message": "Ti piace Windscribe?"
+   },
+   "rateUsHeaderText": {
+      "message": "Apprezzeremmo molto una valutazione e una recensione su Chrome Store"
+   },
+   "rateUsNo": {
+      "message": "No Grazie"
+   },
+   "recentLinksCopied": {
+      "message": "Copiato!"
+   },
+   "recentLinksCopy": {
+      "message": "Copia"
+   },
+   "recentLinksLearn": {
+      "message": "Scopri cosa sono i Secure.link"
+   },
+   "recentLinksMonth": {
+      "message": "Mese Scorso"
+   },
+   "recentLinksNo": {
+      "message": "No"
+   },
+   "recentLinksNoLinks": {
+      "message": "Non hai nessun secure link"
+   },
+   "recentLinksNoTitle": {
+      "message": "Nesssun titolo pagina"
+   },
+   "recentLinksOlder": {
+      "message": "Pù Vecchio"
+   },
+   "recentLinksSure": {
+      "message": "Sei sicuro?"
+   },
+   "recentLinksTitle": {
+      "message": "Link Recenti"
+   },
+   "recentLinksToday": {
+      "message": "Oggi"
+   },
+   "recentLinksWeek": {
+      "message": "Settimana Scorsa"
+   },
+   "recentLinksYes": {
+      "message": "Si"
+   },
+   "remove": {
+      "message": "Rimuovi"
+   },
+   "secLinkAddMsg": {
+      "message": "Aggiungi Messaggio (opzionale)"
+   },
+   "secLinkAddPsw": {
+      "message": "Aggiungi password da criptare (opzionale)"
+   },
+   "secLinkCopied": {
+      "message": "Link copiato"
+   },
+   "secLinkForceIns": {
+      "message": "Forza installazione"
+   },
+   "secLinkNotCopied": {
+      "message": "Link non copiato"
+   },
+   "secLinkNote": {
+      "message": "*Richiederà linstallazione di Windscribe per continuare"
+   },
+   "secLinkTitle": {
+      "message": "Opzioni Secure link"
+   },
+   "secLinkWarn": {
+      "message": "La password deve contenere almeno 4 caratteri"
+   },
+   "secureLinkBtnText": {
+      "message": "Copia Secure.Link"
+   },
+   "secureLinkErrTooltip": {
+      "message": "Impossibile creare un Secure.link da questa pagina"
+   },
+   "secureLinkTitle": {
+      "message": "Generatore Secure.Link"
+   },
+   "statusConnected": {
+      "message": "Connesso"
+   },
+   "statusConnectedDesktop": {
+      "message": "Connesso (Desktop)"
+   },
+   "statusDisconnected": {
+      "message": "Disconnesso"
+   },
+   "topNavBanned": {
+      "message": "Bannato"
+   },
+   "topNavDay": {
+      "message": "Giorno Rimasto"
+   },
+   "topNavDays": {
+      "message": "Giorni Rimasti"
+   },
+   "topNavGBLeft": {
+      "message": "GB Rimasti"
+   },
+   "topNavUpgrade": {
+      "message": "Upgrade"
+   },
+   "upgradeTooltipText": {
+      "message": "Hai superato il tuo utilizzo gratuito per questo mese. Per favore effettua lupgrade"
+   },
+   "whiteListAddAdsBtnText": {
+      "message": "Whitelist Ads"
+   },
+   "whiteListAddBtnText": {
+      "message": "Aggiungi Sito A"
+   },
+   "whiteListAddProxyBtnText": {
+      "message": "Whitelist Proxy"
+   },
+   "whiteListAdsOnly": {
+      "message": "Solo Ads"
+   },
+   "whiteListIssues": {
+      "message": "Hai problemi con questo sito?"
+   },
+   "whiteListIt": {
+      "message": "Inserisci in Whitelist"
+   },
+   "whiteListListed": {
+      "message": "Questo sito è in whitelist"
+   },
+   "whiteListNoProxy": {
+      "message": "Nente Proxy"
+   },
+   "whiteListQuestion": {
+      "message": "Interrompi Blocco Tracker su questo Sito?"
+   },
+   "whiteListRemove": {
+      "message": "Rimuovi da White List"
+   },
+   "whiteListRemoveBtnText": {
+      "message": "Rimuovi Sito da Whitelist"
+   },
+   "whiteListReportThanks": {
+      "message": "Grazie. Ce ne occuperemo a breve"
+   },
+   "whiteListReportUrl": {
+      "message": "Segnala questo URL in modo da poterlo correggere"
+   },
+   "whiteListSitesTitle": {
+      "message": "Siti in Whitelist"
+   },
+   "whiteListTitle": {
+      "message": "Opzioni Whitelist"
+   },
+   "whiteListTooltip": {
+      "message": "Impossibile aggiungere pagina vuota a whitelist"
+   }
+}

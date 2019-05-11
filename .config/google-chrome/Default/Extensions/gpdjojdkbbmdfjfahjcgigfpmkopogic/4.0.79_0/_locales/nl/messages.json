@@ -1,0 +1,134 @@
+{
+   "create_addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Verborgen"
+   },
+   "create_addSection": {
+      "description": "label to add section",
+      "message": "Voeg sectie toe"
+   },
+   "create_allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Alle borden"
+   },
+   "create_chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Bord kiezen"
+   },
+   "create_chooseSection": {
+      "description": "label for board sections",
+      "message": "Sectie kiezen"
+   },
+   "create_closeAddForm": {
+      "description": "cancel create",
+      "message": "Annuleren"
+   },
+   "create_filter": {
+      "description": "placeholder text in Search input",
+      "message": "Zoeken"
+   },
+   "create_msgBoardFail": {
+      "description": "board create fail",
+      "message": "Kan nieuw bord niet maken"
+   },
+   "create_msgClose": {
+      "description": "pin create success close",
+      "message": "Sluiten"
+   },
+   "create_msgHelp": {
+      "description": "get help button",
+      "message": "Hulp vragen"
+   },
+   "create_msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Er gaat iets niet helemaal goed. Controleer of je bent ingelogd op Pinterest en probeer het opnieuw."
+   },
+   "create_msgPinFail": {
+      "description": "pin create fail",
+      "message": "Kan deze pagina niet bewaren"
+   },
+   "create_msgPinSavedTo": {
+      "description": "board identifier",
+      "message": "Bewaard op %"
+   },
+   "create_msgSeeItNow": {
+      "description": "pin / board create success button",
+      "message": "Nu bekijken"
+   },
+   "create_optNo": {
+      "description": "switch option no",
+      "message": "Nee"
+   },
+   "create_optYes": {
+      "description": "switch option yes",
+      "message": "Ja"
+   },
+   "create_outerAddFormOpener": {
+      "description": "header in Create form",
+      "message": "Bord maken"
+   },
+   "create_placeholderDescription": {
+      "description": "placeholder text in Pin description",
+      "message": "Vertel wat over deze pin"
+   },
+   "create_placeholderFilterAddBoard": {
+      "description": "placeholder text in Create Board input",
+      "message": "Zoals \"Te bezoeken plaatsen\""
+   },
+   "create_placeholderFilterAddSection": {
+      "description": "placeholder text in Create Section input",
+      "message": "Zoals \"Bliksem\""
+   },
+   "create_submitAddForm": {
+      "description": "create new board",
+      "message": "Maken"
+   },
+   "create_topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Populairste keuzes"
+   },
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Sorry, deze afbeelding kan niet worden bewaard."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Bewaar de dingen die je op het internet vindt."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterest-bewaarknop"
+   },
+   "grid_choosePin": {
+      "description": "Header message in the image picker overlay",
+      "message": "Kies een pin om te bewaren"
+   },
+   "logic_noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Sorry, het is niet toegestaan om vanaf dit domein te pinnen. Neem contact op met de beheerder van deze website als je vragen hebt."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Oeps!"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Hover-bewaarknoppen verbergen"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Opties voor bewaarknop"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Bewaren"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Zoeken"
+   },
+   "search_headerMessage": {
+      "description": "Header shown when search succeeds",
+      "message": "Meer zoals dit van Pinterest"
+   }
+}

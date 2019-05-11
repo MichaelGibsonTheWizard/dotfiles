@@ -1,0 +1,134 @@
+{
+   "create_addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Geheim"
+   },
+   "create_addSection": {
+      "description": "label to add section",
+      "message": "Ordner hinzufügen"
+   },
+   "create_allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Alle Pinnwände"
+   },
+   "create_chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Pinnwand auswählen"
+   },
+   "create_chooseSection": {
+      "description": "label for board sections",
+      "message": "Ordner wählen"
+   },
+   "create_closeAddForm": {
+      "description": "cancel create",
+      "message": "Abbrechen"
+   },
+   "create_filter": {
+      "description": "placeholder text in Search input",
+      "message": "Suchen"
+   },
+   "create_msgBoardFail": {
+      "description": "board create fail",
+      "message": "Neue Pinnwand konnte nicht erstellt werden"
+   },
+   "create_msgClose": {
+      "description": "pin create success close",
+      "message": "Schließen"
+   },
+   "create_msgHelp": {
+      "description": "get help button",
+      "message": "Hilfe anfordern"
+   },
+   "create_msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Tut uns leid. Irgendetwas ist schiefgegangen. Bitte überprüfe, ob du bei Pinterest angemeldet bist, und versuch es dann erneut."
+   },
+   "create_msgPinFail": {
+      "description": "pin create fail",
+      "message": "Seite konnte nicht gespeichert werden"
+   },
+   "create_msgPinSavedTo": {
+      "description": "board identifier",
+      "message": "Gepinnt auf „%“"
+   },
+   "create_msgSeeItNow": {
+      "description": "pin / board create success button",
+      "message": "Jetzt ansehen"
+   },
+   "create_optNo": {
+      "description": "switch option no",
+      "message": "Nein"
+   },
+   "create_optYes": {
+      "description": "switch option yes",
+      "message": "Ja"
+   },
+   "create_outerAddFormOpener": {
+      "description": "header in Create form",
+      "message": "Pinnwand erstellen"
+   },
+   "create_placeholderDescription": {
+      "description": "placeholder text in Pin description",
+      "message": "Was hat es mit diesem Pin auf sich?"
+   },
+   "create_placeholderFilterAddBoard": {
+      "description": "placeholder text in Create Board input",
+      "message": "Wie z. B. „Orte, die man besuchen sollte“"
+   },
+   "create_placeholderFilterAddSection": {
+      "description": "placeholder text in Create Section input",
+      "message": "Wie z. B. „Beleuchtung“"
+   },
+   "create_submitAddForm": {
+      "description": "create new board",
+      "message": "Erstellen"
+   },
+   "create_topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Beliebte Auswahl"
+   },
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Leider kann dieses Bild nicht als Pin gesammelt werden."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Merk dir Ideen, auf die du im Internet stößt."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "„Merken“-Button von Pinterest"
+   },
+   "grid_choosePin": {
+      "description": "Header message in the image picker overlay",
+      "message": "Wähle den Pin, den du merken möchtest"
+   },
+   "logic_noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Es tut uns leid, aber von dieser Domain kann nichts gepinnt werden. Bitte kontaktiere den Website-Betreiber, falls du weitere Fragen hast."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Es tut uns leid."
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Hover-Buttons ausblenden"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Optionen für den „Merken“-Button"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Merken"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Suchen"
+   },
+   "search_headerMessage": {
+      "description": "Header shown when search succeeds",
+      "message": "Mehr davon von Pinterest"
+   }
+}

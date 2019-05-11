@@ -1,0 +1,332 @@
+{
+   "backTitle": {
+      "message": "الرجوع"
+   },
+   "connectionModeNameCR": {
+      "message": "التحكم فى المركبة"
+   },
+   "connectionModeNameDH": {
+      "message": "الاتصال المزدوج"
+   },
+   "connectionModeNameEA": {
+      "message": "التطبيق الخارجى"
+   },
+   "connectionModeNameML": {
+      "message": "يدوى"
+   },
+   "connectionModeText": {
+      "message": "نوع الاتصال"
+   },
+   "connectionModeTooltipCruiseControl": {
+      "message": "سيتم تغيير الموقع تلقائياً عند الدخول الى محتوى او مصدر محظور"
+   },
+   "connectionModeTooltipDefault": {
+      "message": "يتم تحديد نظامك بواسطة اعدادات البروكسى الخاصة بك"
+   },
+   "connectionModeTooltipDoubleHop": {
+      "message": " تطبيق الجهاز المكتبى يعمل. انت حالياً على بروكسى مزدوج. وهذا اكثر اماناً, لكن من المحتمل ان يكون بطيئاً"
+   },
+   "connectionModeTooltipExternalApp": {
+      "message": "اعدادات الشبكة الخاصة بك يتم التحكم فيها بواسطة تطبيق ويند سكرايب للجهاز المكتبى"
+   },
+   "connectionModeTooltipManual": {
+      "message": "يتم اختيار الموقع بواسطتك"
+   },
+   "errNetworkHeader": {
+      "message": "مهلاً, هذا لم يجب ان يحدث"
+   },
+   "errNetworkText": {
+      "message": "لم نتمكن من الوصول الى خوادم ويندسكرايب, اما حدث خطأ فى اتصال الانترنت لديك او حدث خطاً لدينا"
+   },
+   "errOtherExtensionHeader": {
+      "message": "تم تعطيل الحماية"
+   },
+   "errOtherExtensionText": {
+      "message": "لا يمكن تثبيت ويندسكرايب بينما تقوم بإستخدام اضافة اخرى تتحكم فى اعدادات البروكسى الخاصة بك"
+   },
+   "extDescription": {
+      "message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+   },
+   "extName": {
+      "message": "Windscribe - Free VPN and Ad Blocker"
+   },
+   "extShortName": {
+      "message": "Windscribe"
+   },
+   "loginButtonText": {
+      "message": "تسجيل الدخول"
+   },
+   "loginEmptyInput": {
+      "message": "قم بإدخال اسم المستخدم وكلمة المرور لتسجيل الدخول"
+   },
+   "loginErr": {
+      "message": "تسجيل الدخول هذا يبدو غير صحيحاً, برجاء المحاولة مرة اخرى"
+   },
+   "loginForgotPassword": {
+      "message": "نسيت كلمة المرور"
+   },
+   "loginPasswordPlaceholder": {
+      "message": "كلمة المرور"
+   },
+   "loginSignUp": {
+      "message": "التسجيل"
+   },
+   "loginTitle": {
+      "message": "تسجيل الدخول الى ويند سكرايب"
+   },
+   "loginUsernamePlaceholder": {
+      "message": "اسم المستخدم"
+   },
+   "loginWelcomeMsg": {
+      "message": "رائع, نحن نقوم بتسجيل دخولك الان"
+   },
+   "menuHelp": {
+      "message": "ساعدنى!"
+   },
+   "menuLanguages": {
+      "message": "اللغات"
+   },
+   "menuLogout": {
+      "message": "تسجيل الخروج"
+   },
+   "menuMyAcc": {
+      "message": "حسابى"
+   },
+   "menuPrivacyOptions": {
+      "message": "خيارات الخصوصية"
+   },
+   "menuRecentSLinks": {
+      "message": "الروابط الأمنة الاخيرة"
+   },
+   "menuTitle": {
+      "message": "القائمة"
+   },
+   "menuUpgrade": {
+      "message": "التحديث"
+   },
+   "notificationEA": {
+      "message": " اعدادات الانترنت الخاص بك يتم التحكم بها بواسطة تطبيق ويندسكرايب للجهاز المكتبى. قم بالفصل من داخل التطبيق لإغلاق ويندسكرايب"
+   },
+   "notificationOff": {
+      "message": "تم انهاء اتصالك بويندسكرايب"
+   },
+   "notificationOffDH": {
+      "message": "تم ايقاف الاتصال المزودج, يتم التحكم فى اعداداتك بواسطة تطبيق ويندسكرايب"
+   },
+   "notificationOn": {
+      "message": "انت الان متصل بويندسكرايب"
+   },
+   "notificationOnDH1": {
+      "message": "انت الان متصل بويندسكرايب"
+   },
+   "notificationOnDH2": {
+      "message": "تم تفعيل الاتصال المزدوج قد يتسبب ذلك فى جزاءات على الأداء"
+   },
+   "notificationOnEM": {
+      "message": "اعدادات الانترنت الخاصة بك يتم التحكم بها بواسطة تطبيق ويندسكرايب للجهاز المكتبى"
+   },
+   "privacyOptionsAdBlock": {
+      "message": "ايقاف الاعلانات"
+   },
+   "privacyOptionsAdBlockNote": {
+      "message": "ايقاف الاعلانات على الصفحات التى تقوم بزيارتها"
+   },
+   "privacyOptionsAntiSoc": {
+      "message": "مضاد-المواقع الاجتماعية"
+   },
+   "privacyOptionsAntiSocNote": {
+      "message": "تجريبى: ازالة أزرار التواصل الاجتماعى"
+   },
+   "privacyOptionsOff": {
+      "message": "ايقاف"
+   },
+   "privacyOptionsOn": {
+      "message": "تشغيل"
+   },
+   "privacyOptionsSplit": {
+      "message": "فصل الشخصية"
+   },
+   "privacyOptionsSplitNote": {
+      "message": "تغيير وكيل المستخدم الخاص بك عشوائياً"
+   },
+   "privacyOptionsTitle": {
+      "message": "خيارات الخصوصية"
+   },
+   "privacyOptionsUntrace": {
+      "message": "لا يمكن تتبعها"
+   },
+   "privacyOptionsUntraceNote": {
+      "message": "حظر الاعلانات والمتتبعون"
+   },
+   "privacyOptionsWLBtnText": {
+      "message": "ادارة القائمة البيضاء"
+   },
+   "privacyOptionsWLText": {
+      "message": "مواقع القائمة البيضاء لن تتأثر بالإعدادات اعلاه"
+   },
+   "privacyOptionsWLTitle": {
+      "message": "مواقع القائمة البيضاء"
+   },
+   "rateUsCTA": {
+      "message": "قم بتقيمنا"
+   },
+   "rateUsHeader": {
+      "message": "كيف تحب ويندسكرايب"
+   },
+   "rateUsHeaderText": {
+      "message": "لسوف نقدر ارائكم وتعليقاتكم على التطبيق على متجر جوجل كروم"
+   },
+   "rateUsNo": {
+      "message": "لا شكراً"
+   },
+   "recentLinksCopied": {
+      "message": "تم النسخ!"
+   },
+   "recentLinksCopy": {
+      "message": "نسخ"
+   },
+   "recentLinksLearn": {
+      "message": "المزيد حول الروابط الآمنة"
+   },
+   "recentLinksMonth": {
+      "message": "الشهر الماضى"
+   },
+   "recentLinksNo": {
+      "message": "لا"
+   },
+   "recentLinksNoLinks": {
+      "message": "ليس لديك اى روابط آمنة"
+   },
+   "recentLinksNoTitle": {
+      "message": "لا يوجد عنوان للصفحة"
+   },
+   "recentLinksOlder": {
+      "message": "اقدم"
+   },
+   "recentLinksSure": {
+      "message": "هل انت متأكد؟"
+   },
+   "recentLinksTitle": {
+      "message": "الروابط السابقة"
+   },
+   "recentLinksToday": {
+      "message": "اليوم"
+   },
+   "recentLinksWeek": {
+      "message": "الاسبوع الماضى"
+   },
+   "recentLinksYes": {
+      "message": "نعم"
+   },
+   "remove": {
+      "message": "حذف"
+   },
+   "secLinkAddMsg": {
+      "message": "اضافة رسالة (اختيارى)"
+   },
+   "secLinkAddPsw": {
+      "message": "اضافة كلمة المرور للتشفير(اختيارى)"
+   },
+   "secLinkCopied": {
+      "message": "تم نسخ الرابط"
+   },
+   "secLinkForceIns": {
+      "message": "الاجبار على التثبيت"
+   },
+   "secLinkNotCopied": {
+      "message": "لم يتم نسخ الرابط"
+   },
+   "secLinkNote": {
+      "message": "*يتطلب تثبيت ويندسكرايب للاستكمال"
+   },
+   "secLinkTitle": {
+      "message": "خيارات الروابط الآمنة"
+   },
+   "secLinkWarn": {
+      "message": "يجب ان تحتوى كلمة المرور على 4 رموز على الأقل"
+   },
+   "secureLinkBtnText": {
+      "message": "نسخ الرابط الامن"
+   },
+   "secureLinkErrTooltip": {
+      "message": "لا يمكن عمل رابط امن من هذه الصفحة "
+   },
+   "secureLinkTitle": {
+      "message": "الروابط الآمنة مولد"
+   },
+   "statusConnected": {
+      "message": "تم الاتصال"
+   },
+   "statusConnectedDesktop": {
+      "message": "تم الاتصال (جهاز مكتبى)"
+   },
+   "statusDisconnected": {
+      "message": "تم فصل الاتصال"
+   },
+   "topNavBanned": {
+      "message": "تم الخظر"
+   },
+   "topNavDayLeft": {
+      "message": "يوم متبقى"
+   },
+   "topNavDaysLeft": {
+      "message": "الأيام المتبقية"
+   },
+   "topNavGBLeft": {
+      "message": "الجيجا بايت المتبقية"
+   },
+   "topNavUpgrade": {
+      "message": "التحديث"
+   },
+   "upgradeTooltipText": {
+      "message": "لقد استنفذت فترتك المجانية هذا الشهر, برجاء التحديث"
+   },
+   "whiteListAddAdsBtnText": {
+      "message": "قائمة الاعلانات البيضاء"
+   },
+   "whiteListAddBtnText": {
+      "message": "اضافة موقع الى"
+   },
+   "whiteListAddProxyBtnText": {
+      "message": "قائمة البروكسى البيضاء"
+   },
+   "whiteListAdsOnly": {
+      "message": "الاعلانات فقط"
+   },
+   "whiteListIssues": {
+      "message": "لديك مشاكل مع هذا الموقع؟"
+   },
+   "whiteListIt": {
+      "message": "ضع فى القائمة البيضاء"
+   },
+   "whiteListListed": {
+      "message": "تم وضع هذا الموقع فى القائمة البيضاء"
+   },
+   "whiteListNoProxy": {
+      "message": "ايقاف البروكسى"
+   },
+   "whiteListQuestion": {
+      "message": "التوقف عن حظر المتتبعين على هذا الموقع ?"
+   },
+   "whiteListRemove": {
+      "message": "الازالة من القائمة البيضاء"
+   },
+   "whiteListRemoveBtnText": {
+      "message": "ازالة الموقع من القائمة البيضاء"
+   },
+   "whiteListReportThanks": {
+      "message": "شكراً, سنقوم بإصلاح ذلك قريباً"
+   },
+   "whiteListReportUrl": {
+      "message": "الابلاغ عن هذا الرابط, حتى يمكننا اصلاحه"
+   },
+   "whiteListSitesTitle": {
+      "message": "الموقع الموضوعة فى القائمة البيضاء"
+   },
+   "whiteListTitle": {
+      "message": "خيارات القائمة البيضاء"
+   },
+   "whiteListTooltip": {
+      "message": "لا يمكن اضافة صفحة خالية الى القائمة البيضاء"
+   }
+}

@@ -1,8 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/home/goatwizard/Repos/DruidCraft/run/config'
 let g:netrw_dirhist_2='/home/goatwizard'
 let g:netrw_dirhist_3='/home/goatwizard/.config/alacritty'
 let g:netrw_dirhist_4='/home/goatwizard/latex'
 let g:netrw_dirhist_5='/home/goatwizard/.xmonad'
 let g:netrw_dirhist_6='/home/goatwizard/.xmobarrc'
+let g:netrw_dirhist_7='/etc/ssh'
+let g:netrw_dirhist_8='/etc/X11/xorg.conf.d'

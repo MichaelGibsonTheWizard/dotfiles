@@ -1,0 +1,134 @@
+{
+   "create_addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Bí mật"
+   },
+   "create_addSection": {
+      "description": "label to add section",
+      "message": "Thêm Phần"
+   },
+   "create_allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Tất cả các bảng"
+   },
+   "create_chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Chọn bảng"
+   },
+   "create_chooseSection": {
+      "description": "label for board sections",
+      "message": "Chọn Phần"
+   },
+   "create_closeAddForm": {
+      "description": "cancel create",
+      "message": "Hủy"
+   },
+   "create_filter": {
+      "description": "placeholder text in Search input",
+      "message": "Tìm kiếm"
+   },
+   "create_msgBoardFail": {
+      "description": "board create fail",
+      "message": "Không thể tạo bảng mới"
+   },
+   "create_msgClose": {
+      "description": "pin create success close",
+      "message": "Đóng"
+   },
+   "create_msgHelp": {
+      "description": "get help button",
+      "message": "Nhận trợ giúp"
+   },
+   "create_msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Rất tiếc, có gì đó không ổn. Vui lòng kiểm tra xem bạn đã đăng nhập vào Pinterest chưa và thử lại."
+   },
+   "create_msgPinFail": {
+      "description": "pin create fail",
+      "message": "Không thể lưu trang này"
+   },
+   "create_msgPinSavedTo": {
+      "description": "board identifier",
+      "message": "Đã lưu vào %"
+   },
+   "create_msgSeeItNow": {
+      "description": "pin / board create success button",
+      "message": "Xem ngay bây giờ"
+   },
+   "create_optNo": {
+      "description": "switch option no",
+      "message": "Không"
+   },
+   "create_optYes": {
+      "description": "switch option yes",
+      "message": "Có"
+   },
+   "create_outerAddFormOpener": {
+      "description": "header in Create form",
+      "message": "Tạo bảng"
+   },
+   "create_placeholderDescription": {
+      "description": "placeholder text in Pin description",
+      "message": "Hãy cho chúng tôi biết về Ghim này"
+   },
+   "create_placeholderFilterAddBoard": {
+      "description": "placeholder text in Create Board input",
+      "message": "Như \"Nơi để đến\""
+   },
+   "create_placeholderFilterAddSection": {
+      "description": "placeholder text in Create Section input",
+      "message": "Giống như \"Chiếu sáng\""
+   },
+   "create_submitAddForm": {
+      "description": "create new board",
+      "message": "Create"
+   },
+   "create_topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Các lựa chọn hay nhất"
+   },
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Rất tiếc, không lưu được ảnh này."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Lưu những thứ bạn tìm thấy trên web."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Nút Lưu của Pinterest"
+   },
+   "grid_choosePin": {
+      "description": "Header message in the image picker overlay",
+      "message": "Chọn một Ghim để lưu"
+   },
+   "logic_noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Rất tiếc, không cho phép ghim từ miền này. Vui lòng liên hệ người điều hành trang web nếu bạn có thắc mắc."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Rất tiếc!"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Ẩn các nút Lưu dạng nổi lên"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Lưu tùy chọn nút"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Lưu"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Tìm kiếm"
+   },
+   "search_headerMessage": {
+      "description": "Header shown when search succeeds",
+      "message": "Nhiều nội dung tương tự hơn từ Pinterest"
+   }
+}

@@ -1,0 +1,134 @@
+{
+   "create_addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Μυστικός"
+   },
+   "create_addSection": {
+      "description": "label to add section",
+      "message": "Προσθήκη ενότητας"
+   },
+   "create_allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Όλοι οι πίνακες"
+   },
+   "create_chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Επιλογή πίνακα"
+   },
+   "create_chooseSection": {
+      "description": "label for board sections",
+      "message": "Επιλογή ενότητας"
+   },
+   "create_closeAddForm": {
+      "description": "cancel create",
+      "message": "Άκυρο"
+   },
+   "create_filter": {
+      "description": "placeholder text in Search input",
+      "message": "Αναζήτηση"
+   },
+   "create_msgBoardFail": {
+      "description": "board create fail",
+      "message": "Δεν ήταν δυνατή η δημιουργία νέου πίνακα"
+   },
+   "create_msgClose": {
+      "description": "pin create success close",
+      "message": "Κλείσιμο"
+   },
+   "create_msgHelp": {
+      "description": "get help button",
+      "message": "Λήψη βοήθειας"
+   },
+   "create_msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Λυπούμαστε, αλλά κάτι μοιάζει να μην είναι σωστό. Βεβαιωθείτε ότι έχετε συνδεθεί στο Pinterest και προσπαθήστε ξανά."
+   },
+   "create_msgPinFail": {
+      "description": "pin create fail",
+      "message": "Δεν ήταν δυνατή η αποθήκευση αυτής της σελίδας"
+   },
+   "create_msgPinSavedTo": {
+      "description": "board identifier",
+      "message": "Αποθηκεύτηκε στο %"
+   },
+   "create_msgSeeItNow": {
+      "description": "pin / board create success button",
+      "message": "Δείτε τον τώρα"
+   },
+   "create_optNo": {
+      "description": "switch option no",
+      "message": "Όχι"
+   },
+   "create_optYes": {
+      "description": "switch option yes",
+      "message": "Ναι"
+   },
+   "create_outerAddFormOpener": {
+      "description": "header in Create form",
+      "message": "Δημιουργία πίνακα"
+   },
+   "create_placeholderDescription": {
+      "description": "placeholder text in Pin description",
+      "message": "Πείτε μας σχετικά με αυτό το pin"
+   },
+   "create_placeholderFilterAddBoard": {
+      "description": "placeholder text in Create Board input",
+      "message": "Π.χ. «Μέρη που θέλω να επισκεφτώ»"
+   },
+   "create_placeholderFilterAddSection": {
+      "description": "placeholder text in Create Section input",
+      "message": "Π.χ. «Φωτισμός»"
+   },
+   "create_submitAddForm": {
+      "description": "create new board",
+      "message": "Δημιουργία"
+   },
+   "create_topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Κορυφαίες επιλογές"
+   },
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Λυπάμαι, δεν είναι δυνατή η αποθήκευση αυτής της εικόνας."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Αποθηκεύστε τα πράγματα που βρίσκετε στον ιστό."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Κουμπί «Αποθήκευση» του Pinterest"
+   },
+   "grid_choosePin": {
+      "description": "Header message in the image picker overlay",
+      "message": "Επιλέξτε ένα pin για αποθήκευση"
+   },
+   "logic_noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Λυπάμαι, δεν επιτρέπεται το καρφίτσωμα από αυτόν τον τομέα. Επικοινωνήστε με το διαχειριστή της ιστοσελίδας αν έχετε απορίες."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Ωχ!"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Απόκρυψη των κουμπιών αποθήκευσης κατά τη μετακίνηση πάνω από εικόνες"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Επιλογές κουμπιού «Αποθήκευση»"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Αποθήκευση"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Αναζήτηση"
+   },
+   "search_headerMessage": {
+      "description": "Header shown when search succeeds",
+      "message": "Άλλα παρόμοια από το Pinterest."
+   }
+}

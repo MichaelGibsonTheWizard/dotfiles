@@ -1,0 +1,332 @@
+{
+   "backTitle": {
+      "message": "Späť"
+   },
+   "connectionModeNameCR": {
+      "message": "Kontrola riadenie"
+   },
+   "connectionModeNameDH": {
+      "message": "Dvojitý skok"
+   },
+   "connectionModeNameEA": {
+      "message": "Externá Aplikácia"
+   },
+   "connectionModeNameML": {
+      "message": "Manuál"
+   },
+   "connectionModeText": {
+      "message": "Prihlasovanie"
+   },
+   "connectionModeTooltipCruiseControl": {
+      "message": "Poloha bude zmenená automaticky pri prihlásení zo zablokovanej stránky"
+   },
+   "connectionModeTooltipDefault": {
+      "message": "Váš mód je definovaný vašimi nastaveniami proxy"
+   },
+   "connectionModeTooltipDoubleHop": {
+      "message": "Počítačová aplikácia funguje. Práve ste na dvojnásobnej hodnote proxy na stránke. Je to bezpečné, ale môže to byť pomalšie."
+   },
+   "connectionModeTooltipExternalApp": {
+      "message": "Nastavenie vašej siete je kontrolované aplikáciou Windscribe"
+   },
+   "connectionModeTooltipManual": {
+      "message": "Poloha je zvolená vami"
+   },
+   "errNetworkHeader": {
+      "message": "Oops, to by sa nemalo stať"
+   },
+   "errNetworkText": {
+      "message": "Nepodarilo sa naviazať na Windscribe servery. Buď nemáte pripojenie na Internet alebo na vašom konci je nejaký problém"
+   },
+   "errOtherExtensionHeader": {
+      "message": "Ochrana je vypnutá"
+   },
+   "errOtherExtensionText": {
+      "message": "Windscribe nebude fungovať ak používate iný nástroj ktorý kontroluje vaše proxy nastavenia"
+   },
+   "extDescription": {
+      "message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+   },
+   "extName": {
+      "message": "Windscribe - Free VPN and Ad Blocker"
+   },
+   "extShortName": {
+      "message": "Windscribe"
+   },
+   "loginButtonText": {
+      "message": "Prihlásenie"
+   },
+   "loginEmptyInput": {
+      "message": "Vyplňte polia 'užívateľ' a 'heslo' pre prihlásenie"
+   },
+   "loginErr": {
+      "message": "Pri prihlasovaní vznikla chyba, skúste to znovu"
+   },
+   "loginForgotPassword": {
+      "message": "Zabudnuté heslo"
+   },
+   "loginPasswordPlaceholder": {
+      "message": "heslo"
+   },
+   "loginSignUp": {
+      "message": "Registrácia"
+   },
+   "loginTitle": {
+      "message": "Prihlásiť sa to Windscribe"
+   },
+   "loginUsernamePlaceholder": {
+      "message": "užívateľ"
+   },
+   "loginWelcomeMsg": {
+      "message": "Super, prihlasujeme vás"
+   },
+   "menuHelp": {
+      "message": "Pomôžte mi!"
+   },
+   "menuLanguages": {
+      "message": "Jazyky"
+   },
+   "menuLogout": {
+      "message": "Odhlásenie"
+   },
+   "menuMyAcc": {
+      "message": "Môj účet"
+   },
+   "menuPrivacyOptions": {
+      "message": "Možnosti o súkromí"
+   },
+   "menuRecentSLinks": {
+      "message": "Nedávne Secure.Links"
+   },
+   "menuTitle": {
+      "message": "Menu"
+   },
+   "menuUpgrade": {
+      "message": "Upgrade"
+   },
+   "notificationEA": {
+      "message": "Vaše nastavenie siete práve kontrolujete cez Windscribe aplikáciu pre počítač. Pre odhlásenie je potrebné vypnúť aplikáciu Windscribe"
+   },
+   "notificationOff": {
+      "message": "Pripojenie do Windscribe bolo prerušené"
+   },
+   "notificationOffDH": {
+      "message": "Dvojitý skok je je prerušený. Vašu sieť ale môžete stále kontrolovať na Windscribe aplikáciu pre počítač"
+   },
+   "notificationOn": {
+      "message": "Ste pripojený do Windscribe"
+   },
+   "notificationOnDH1": {
+      "message": "Ste pripojený do Windscribe"
+   },
+   "notificationOnDH2": {
+      "message": "Dvojitý skok je aktivovaný. Môže to spôsobiť problémy s výkonom."
+   },
+   "notificationOnEM": {
+      "message": "Vaše nastavenie siete práve kontrolujete cez Windscribe aplikáciu pre počítač"
+   },
+   "privacyOptionsAdBlock": {
+      "message": "Ad Blocker"
+   },
+   "privacyOptionsAdBlockNote": {
+      "message": "Blokuje reklamy na stránkach ktoré navštívite"
+   },
+   "privacyOptionsAntiSoc": {
+      "message": "Anti-Sociálne"
+   },
+   "privacyOptionsAntiSocNote": {
+      "message": "Skúšobný: Odstrániť tlačítka sociálnych sietí"
+   },
+   "privacyOptionsOff": {
+      "message": "vypnuté"
+   },
+   "privacyOptionsOn": {
+      "message": "zapnuté"
+   },
+   "privacyOptionsSplit": {
+      "message": "Rozdeliť osobnosť"
+   },
+   "privacyOptionsSplitNote": {
+      "message": "Náhodne vymeniť vášho užívateľského agenta"
+   },
+   "privacyOptionsTitle": {
+      "message": "Možnosti o súkromí"
+   },
+   "privacyOptionsUntrace": {
+      "message": "Nevystopovateľné"
+   },
+   "privacyOptionsUntraceNote": {
+      "message": "Blokovať známe reklamné bannery a sledovacie nástroje"
+   },
+   "privacyOptionsWLBtnText": {
+      "message": "Organizovať Whitelist"
+   },
+   "privacyOptionsWLText": {
+      "message": "Stránky na Whitelist nebudú ovplyvnené týmto nastavením"
+   },
+   "privacyOptionsWLTitle": {
+      "message": "Whitelist stránky"
+   },
+   "rateUsCTA": {
+      "message": "Hodnotenie"
+   },
+   "rateUsHeader": {
+      "message": "Ako sa vám páči Windscribe?"
+   },
+   "rateUsHeaderText": {
+      "message": "Veľmi by sme ocenili hodnotenie a komentár na Chrome Store"
+   },
+   "rateUsNo": {
+      "message": "Nie vďaka"
+   },
+   "recentLinksCopied": {
+      "message": "Skopírované!"
+   },
+   "recentLinksCopy": {
+      "message": "Kopírovať"
+   },
+   "recentLinksLearn": {
+      "message": "Dozvedieť sa o Secure.link"
+   },
+   "recentLinksMonth": {
+      "message": "Minulý mesiac"
+   },
+   "recentLinksNo": {
+      "message": "Nie"
+   },
+   "recentLinksNoLinks": {
+      "message": "Nemáte žiadne zabezpečené linky"
+   },
+   "recentLinksNoTitle": {
+      "message": "Žiadny názov stránky"
+   },
+   "recentLinksOlder": {
+      "message": "Staršie"
+   },
+   "recentLinksSure": {
+      "message": "Si si istý?"
+   },
+   "recentLinksTitle": {
+      "message": "Nedávne linky"
+   },
+   "recentLinksToday": {
+      "message": "Dnes"
+   },
+   "recentLinksWeek": {
+      "message": "Minulý týždeň"
+   },
+   "recentLinksYes": {
+      "message": "Áno"
+   },
+   "remove": {
+      "message": "Odstrániť"
+   },
+   "secLinkAddMsg": {
+      "message": "Pridať správu (voliteľné)"
+   },
+   "secLinkAddPsw": {
+      "message": "Pridať heslo pre zabezpečenie (voliteľné)"
+   },
+   "secLinkCopied": {
+      "message": "Link bol skopírovaný"
+   },
+   "secLinkForceIns": {
+      "message": "Nútená inštalácia"
+   },
+   "secLinkNotCopied": {
+      "message": "Link nebol skopírovaný"
+   },
+   "secLinkNote": {
+      "message": "*Bude vyžadovať Windscribe pre pokračovanie inštalácie"
+   },
+   "secLinkTitle": {
+      "message": "Secure link možnosti"
+   },
+   "secLinkWarn": {
+      "message": "Heslo musí obsahovať najmenej 4 symboly"
+   },
+   "secureLinkBtnText": {
+      "message": "Kopírovať Secure.Link"
+   },
+   "secureLinkErrTooltip": {
+      "message": "Nie je možné vytvoriť Secure.link z tejto stránky"
+   },
+   "secureLinkTitle": {
+      "message": "Secure.Link generátor"
+   },
+   "statusConnected": {
+      "message": "Prihlásený"
+   },
+   "statusConnectedDesktop": {
+      "message": "Prihlásený (Počítač)"
+   },
+   "statusDisconnected": {
+      "message": "Odhlásený"
+   },
+   "topNavBanned": {
+      "message": "Zakázaný"
+   },
+   "topNavDayLeft": {
+      "message": "Jeden deň do konca"
+   },
+   "topNavDaysLeft": {
+      "message": "Dní do konca"
+   },
+   "topNavGBLeft": {
+      "message": "GB zvyšných"
+   },
+   "topNavUpgrade": {
+      "message": "Upgrade"
+   },
+   "upgradeTooltipText": {
+      "message": "Presiahli ste váš mesačný limit používania. Prosím, prejdite na vyšší level účtu"
+   },
+   "whiteListAddAdsBtnText": {
+      "message": "Reklamy Whitelist"
+   },
+   "whiteListAddBtnText": {
+      "message": "Pridať stránku do"
+   },
+   "whiteListAddProxyBtnText": {
+      "message": "Proxy Whitelist"
+   },
+   "whiteListAdsOnly": {
+      "message": "Len reklamy"
+   },
+   "whiteListIssues": {
+      "message": "Problémy s touto stránkou?"
+   },
+   "whiteListIt": {
+      "message": "Dať to na Whitelist"
+   },
+   "whiteListListed": {
+      "message": "Táto stránka je na whiteliste"
+   },
+   "whiteListNoProxy": {
+      "message": "Žiadne proxy"
+   },
+   "whiteListQuestion": {
+      "message": "Zastaviť sledovanie tejto stránky?"
+   },
+   "whiteListRemove": {
+      "message": "Odstrániť z White List"
+   },
+   "whiteListRemoveBtnText": {
+      "message": "Odstrániť stránku z Whitelist"
+   },
+   "whiteListReportThanks": {
+      "message": "Vďaka. Opravíme to čo najrýchlejšie."
+   },
+   "whiteListReportUrl": {
+      "message": "Nahlásiť túto URL aby sme ju mohli opraviť"
+   },
+   "whiteListSitesTitle": {
+      "message": "Whitelist stránky"
+   },
+   "whiteListTitle": {
+      "message": "Whitelist možnosti"
+   },
+   "whiteListTooltip": {
+      "message": "Nie je možné pridať prázdnu stránku na whitelist"
+   }
+}

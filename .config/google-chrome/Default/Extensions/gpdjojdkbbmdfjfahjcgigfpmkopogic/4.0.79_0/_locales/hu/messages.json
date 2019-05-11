@@ -1,0 +1,134 @@
+{
+   "create_addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Titkos"
+   },
+   "create_addSection": {
+      "description": "label to add section",
+      "message": "Adj hozzá szakaszt"
+   },
+   "create_allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Minden tábla"
+   },
+   "create_chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Tábla kiválasztása"
+   },
+   "create_chooseSection": {
+      "description": "label for board sections",
+      "message": "Válassz szakaszt"
+   },
+   "create_closeAddForm": {
+      "description": "cancel create",
+      "message": "Mégse"
+   },
+   "create_filter": {
+      "description": "placeholder text in Search input",
+      "message": "Keresés"
+   },
+   "create_msgBoardFail": {
+      "description": "board create fail",
+      "message": "Nem hozható létre új tábla"
+   },
+   "create_msgClose": {
+      "description": "pin create success close",
+      "message": "Bezárás"
+   },
+   "create_msgHelp": {
+      "description": "get help button",
+      "message": "Súgó"
+   },
+   "create_msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Sajnáljuk, valami nincs rendben. Kérjük, ellenőrizd, hogy be vagy-e jelentkezve a Pinterestbe, majd próbálkozz újra."
+   },
+   "create_msgPinFail": {
+      "description": "pin create fail",
+      "message": "Nem lehet menteni az oldalt"
+   },
+   "create_msgPinSavedTo": {
+      "description": "board identifier",
+      "message": "Mentve ide: %"
+   },
+   "create_msgSeeItNow": {
+      "description": "pin / board create success button",
+      "message": "Megnézem"
+   },
+   "create_optNo": {
+      "description": "switch option no",
+      "message": "Nem"
+   },
+   "create_optYes": {
+      "description": "switch option yes",
+      "message": "Igen"
+   },
+   "create_outerAddFormOpener": {
+      "description": "header in Create form",
+      "message": "Tábla létrehozása"
+   },
+   "create_placeholderDescription": {
+      "description": "placeholder text in Pin description",
+      "message": "Mondj valamit a pinről"
+   },
+   "create_placeholderFilterAddBoard": {
+      "description": "placeholder text in Create Board input",
+      "message": "Mint például „meglátogatandó helyek”"
+   },
+   "create_placeholderFilterAddSection": {
+      "description": "placeholder text in Create Section input",
+      "message": "Például „világítás”"
+   },
+   "create_submitAddForm": {
+      "description": "create new board",
+      "message": "Létrehozás"
+   },
+   "create_topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Legtöbbször választott"
+   },
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Sajnáljuk, ezt a képet nem lehet menteni."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Mentsd az interneten talált dolgokat."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterest Mentés gomb"
+   },
+   "grid_choosePin": {
+      "description": "Header message in the image picker overlay",
+      "message": "Válassz egy menteni kívánt pint"
+   },
+   "logic_noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Sajnáljuk, ebből a tartományból nem lehet pinelni. Kérjük, kérdéseiddel fordulj az oldal üzemeltetőjéhez."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Hoppá!"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "A lebegő Mentés gombok elrejtése"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "A Mentés gomb beállításai"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Mentés"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Keresés"
+   },
+   "search_headerMessage": {
+      "description": "Header shown when search succeeds",
+      "message": "Több ehhez hasonló a Pinterestről"
+   }
+}

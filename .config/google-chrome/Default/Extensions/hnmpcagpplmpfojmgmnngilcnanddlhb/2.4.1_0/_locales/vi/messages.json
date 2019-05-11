@@ -1,0 +1,332 @@
+{
+   "backTitle": {
+      "message": "Trở lại"
+   },
+   "connectionModeNameCR": {
+      "message": "Kiểm soát hành trình"
+   },
+   "connectionModeNameDH": {
+      "message": "Hop kép"
+   },
+   "connectionModeNameEA": {
+      "message": "Ứng dụng bên ngoài"
+   },
+   "connectionModeNameML": {
+      "message": "Thủ công"
+   },
+   "connectionModeText": {
+      "message": "Chế độ kết nối"
+   },
+   "connectionModeTooltipCruiseControl": {
+      "message": "Địa điểm sẽ tự động thay đổi khi truy cập một nguồn bị chặn"
+   },
+   "connectionModeTooltipDefault": {
+      "message": "Chế độ được xác định bằng cài đặt proxy của bạn"
+   },
+   "connectionModeTooltipDoubleHop": {
+      "message": "Đang chạy ứng dụng cho máy tính bàn. Bạn hiện đang nhân đôi proxy lượt truy cập của bạn. Việc này sẽ giúp an toàn hơn nhưng có thể làm chậm hơn"
+   },
+   "connectionModeTooltipExternalApp": {
+      "message": "Cài đặt mạng của bạn đã được Ứng dụng Máy tính bàn Windscribe kiểm soát"
+   },
+   "connectionModeTooltipManual": {
+      "message": "Địa điểm do bạn chọn"
+   },
+   "errNetworkHeader": {
+      "message": "Ôi, vấn đề này không nên xảy ra"
+   },
+   "errNetworkText": {
+      "message": "Không thể kết nối máy chủ Windscribe. Bạn không có kết nối Internet hoặc có lỗi xảy ra ở phía chúng tôi"
+   },
+   "errOtherExtensionHeader": {
+      "message": "Bảo vệ đã vô hiệu hoá"
+   },
+   "errOtherExtensionText": {
+      "message": "Windscribe không thể hoạt động khi bạn đang sử dụng tiện ích mở rộng khác đang kiểm soát cài đặt proxy của bạn"
+   },
+   "extDescription": {
+      "message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+   },
+   "extName": {
+      "message": "Windscribe - Free VPN and Ad Blocker"
+   },
+   "extShortName": {
+      "message": "Windscribe"
+   },
+   "loginButtonText": {
+      "message": "Đăng nhập"
+   },
+   "loginEmptyInput": {
+      "message": "Điền vào hai ô 'tên đăng nhập' và 'mật khẩu' để đăng nhập"
+   },
+   "loginErr": {
+      "message": "Đăng nhập không hợp lệ, hãy thử lại"
+   },
+   "loginForgotPassword": {
+      "message": "Quên mật khẩu"
+   },
+   "loginPasswordPlaceholder": {
+      "message": "Mật khẩu"
+   },
+   "loginSignUp": {
+      "message": "Đăng ký"
+   },
+   "loginTitle": {
+      "message": "Đăng nhập Windscribe"
+   },
+   "loginUsernamePlaceholder": {
+      "message": "Tên đăng nhập"
+   },
+   "loginWelcomeMsg": {
+      "message": "Thật tuyệt, chúng tôi đang đăng nhập cho bạn"
+   },
+   "menuHelp": {
+      "message": "Trợ giúp tôi!"
+   },
+   "menuLanguages": {
+      "message": "Ngôn ngữ"
+   },
+   "menuLogout": {
+      "message": "Đăng xuất"
+   },
+   "menuMyAcc": {
+      "message": "Tài khoản của tôi"
+   },
+   "menuPrivacyOptions": {
+      "message": "Tuỳ chọn riêng tư"
+   },
+   "menuRecentSLinks": {
+      "message": "Secure.Links gần đây"
+   },
+   "menuTitle": {
+      "message": "Menu"
+   },
+   "menuUpgrade": {
+      "message": "Nâng cấp"
+   },
+   "notificationEA": {
+      "message": "Cài đặt mạng của bạn đang được Ứng dụng máy tính bàn Windscribe kiểm soát. Ngắt kết nối bên trong ứng dụng để tắt Windscribe"
+   },
+   "notificationOff": {
+      "message": "Kết nối đến Windscribe đã dừng"
+   },
+   "notificationOffDH": {
+      "message": "Kết nối Hop kép đã chấm dứt. Mạng của bạn vẫn được kiểm soát bằng ứng dụng máy tính bàn Windscribe"
+   },
+   "notificationOn": {
+      "message": "Bạn hiện đã kết nối đến Windscribe"
+   },
+   "notificationOnDH1": {
+      "message": "Bạn hiện đã kết nối đến Windscribe"
+   },
+   "notificationOnDH2": {
+      "message": "Hop kép đã kết hoạt. Nó có thể làm giảm hiệu suất"
+   },
+   "notificationOnEM": {
+      "message": "Cài đặt mạng của bạn đang được Ứng dụng máy tính bàn Windscribe kiểm soát"
+   },
+   "privacyOptionsAdBlock": {
+      "message": "Bộ chặn quảng cáo"
+   },
+   "privacyOptionsAdBlockNote": {
+      "message": "Chặn quảng cáo trên trang bạn truy cập"
+   },
+   "privacyOptionsAntiSoc": {
+      "message": "Chống mạng xã hội"
+   },
+   "privacyOptionsAntiSocNote": {
+      "message": "THỬ NGHIỆM: Loại bỏ các nút mạng xã hội"
+   },
+   "privacyOptionsOff": {
+      "message": "tắt"
+   },
+   "privacyOptionsOn": {
+      "message": "bật"
+   },
+   "privacyOptionsSplit": {
+      "message": "Chia tách người"
+   },
+   "privacyOptionsSplitNote": {
+      "message": "Tự động luân chuyển đại lý người dùng của bạn"
+   },
+   "privacyOptionsTitle": {
+      "message": "Tuỳ chọn riêng tư"
+   },
+   "privacyOptionsUntrace": {
+      "message": "Không thể theo dấu"
+   },
+   "privacyOptionsUntraceNote": {
+      "message": "Chặn beacons quảng cáo và theo dõi đã biết"
+   },
+   "privacyOptionsWLBtnText": {
+      "message": "Quản lý Danh sách trắng"
+   },
+   "privacyOptionsWLText": {
+      "message": "Các trang trên Danh sách trắng sẽ không ảnh hưởng bởi các cài đặt trên"
+   },
+   "privacyOptionsWLTitle": {
+      "message": "Các trang trong Danh sách trắng"
+   },
+   "rateUsCTA": {
+      "message": "Đánh giá chúng tôi"
+   },
+   "rateUsHeader": {
+      "message": "Bạn yêu thích Windscribe chứ?"
+   },
+   "rateUsHeaderText": {
+      "message": "Chúng tôi thật sự trân trọng đánh giá và nhận xét của bạn trên Chrome Store"
+   },
+   "rateUsNo": {
+      "message": "Không Cảm ơn"
+   },
+   "recentLinksCopied": {
+      "message": "Đã sao chép!"
+   },
+   "recentLinksCopy": {
+      "message": "Sao chép"
+   },
+   "recentLinksLearn": {
+      "message": "Tìm hiểu về Secure.link"
+   },
+   "recentLinksMonth": {
+      "message": "Tháng trước"
+   },
+   "recentLinksNo": {
+      "message": "Không"
+   },
+   "recentLinksNoLinks": {
+      "message": "Bạn không có bất kỳ liên kết an toàn nào"
+   },
+   "recentLinksNoTitle": {
+      "message": "Không có tựa đề trang"
+   },
+   "recentLinksOlder": {
+      "message": "Cũ hơn"
+   },
+   "recentLinksSure": {
+      "message": "Bạn chắc chứ?"
+   },
+   "recentLinksTitle": {
+      "message": "Các liên kết gần đây"
+   },
+   "recentLinksToday": {
+      "message": "Hôm nay"
+   },
+   "recentLinksWeek": {
+      "message": "Tuần trước"
+   },
+   "recentLinksYes": {
+      "message": "Có"
+   },
+   "remove": {
+      "message": "Loại bỏ"
+   },
+   "secLinkAddMsg": {
+      "message": "Thêm tin nhắn (không bắt buộc)"
+   },
+   "secLinkAddPsw": {
+      "message": "Thêm mật khẩu để mã hoá (không bắt buộc)"
+   },
+   "secLinkCopied": {
+      "message": "Đã sao chép liên kết"
+   },
+   "secLinkForceIns": {
+      "message": "Bắt buộc cài đặt"
+   },
+   "secLinkNotCopied": {
+      "message": "Liên kết không được sao chép"
+   },
+   "secLinkNote": {
+      "message": "*Sẽ yêu cầu Windscribe được cài đặt để tiếp tục"
+   },
+   "secLinkTitle": {
+      "message": "Các tuỳ chọn liên kết an toàn"
+   },
+   "secLinkWarn": {
+      "message": "Mật khẩu phải chứa ít nhất 4 ký hiệu"
+   },
+   "secureLinkBtnText": {
+      "message": "Sao chép Secure.Link"
+   },
+   "secureLinkErrTooltip": {
+      "message": "Không thể tạo Secure.link từ trang này"
+   },
+   "secureLinkTitle": {
+      "message": "Bộ tạo Secure.Link"
+   },
+   "statusConnected": {
+      "message": "Đã kết nối"
+   },
+   "statusConnectedDesktop": {
+      "message": "Đã kết nối (Máy tính bàn)"
+   },
+   "statusDisconnected": {
+      "message": "Đã ngắt kết nối"
+   },
+   "topNavBanned": {
+      "message": "Đã cấm"
+   },
+   "topNavDay": {
+      "message": "Ngày Còn lại"
+   },
+   "topNavDays": {
+      "message": "Ngày Còn lại"
+   },
+   "topNavGBLeft": {
+      "message": "GB Còn lại"
+   },
+   "topNavUpgrade": {
+      "message": "Nâng cấp"
+   },
+   "upgradeTooltipText": {
+      "message": "Bạn đã vượt quá giới hạn dùng miễn phí cho tháng này. Vui lòng nâng cấp"
+   },
+   "whiteListAddAdsBtnText": {
+      "message": "Danh sách trắng quảng cáo"
+   },
+   "whiteListAddBtnText": {
+      "message": "Thêm trang vào"
+   },
+   "whiteListAddProxyBtnText": {
+      "message": "Danh sách trắng Proxy"
+   },
+   "whiteListAdsOnly": {
+      "message": "Chỉ có quảng cáo"
+   },
+   "whiteListIssues": {
+      "message": "Có vấn đề với trang này?"
+   },
+   "whiteListIt": {
+      "message": "Đưa vào danh sách trắng"
+   },
+   "whiteListListed": {
+      "message": "Trang này đã được đưa vào danh sách trắng"
+   },
+   "whiteListNoProxy": {
+      "message": "Không Proxy"
+   },
+   "whiteListQuestion": {
+      "message": "Dừng Bộ theo dõi chặn trên trang này?"
+   },
+   "whiteListRemove": {
+      "message": "Bỏ khỏi Danh sách trắng"
+   },
+   "whiteListRemoveBtnText": {
+      "message": "Bỏ trang khỏi Danh sách trắng"
+   },
+   "whiteListReportThanks": {
+      "message": "Xin cảm ơn. Chúng tôi sẽ sửa nó sớm"
+   },
+   "whiteListReportUrl": {
+      "message": "Báo cáo URL này để chúng tôi sửa nó"
+   },
+   "whiteListSitesTitle": {
+      "message": "Các trang trong danh sách trắng"
+   },
+   "whiteListTitle": {
+      "message": "Lựa chọn Danh sách trắng"
+   },
+   "whiteListTooltip": {
+      "message": "Không thể thêm trang trống vào danh sách trắng"
+   }
+}

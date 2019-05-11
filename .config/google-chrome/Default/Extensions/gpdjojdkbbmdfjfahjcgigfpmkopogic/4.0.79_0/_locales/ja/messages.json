@@ -1,0 +1,134 @@
+{
+   "create_addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "シークレット（非公開）"
+   },
+   "create_addSection": {
+      "description": "label to add section",
+      "message": "サブボードを追加"
+   },
+   "create_allBoards": {
+      "description": "interstitial header in board list",
+      "message": "すべてのボード"
+   },
+   "create_chooseBoard": {
+      "description": "main header in Save form",
+      "message": "ボードを選択"
+   },
+   "create_chooseSection": {
+      "description": "label for board sections",
+      "message": "サブボードを選択する"
+   },
+   "create_closeAddForm": {
+      "description": "cancel create",
+      "message": "キャンセル"
+   },
+   "create_filter": {
+      "description": "placeholder text in Search input",
+      "message": "検索"
+   },
+   "create_msgBoardFail": {
+      "description": "board create fail",
+      "message": "新しいボードを作成できませんでした。"
+   },
+   "create_msgClose": {
+      "description": "pin create success close",
+      "message": "閉じる"
+   },
+   "create_msgHelp": {
+      "description": "get help button",
+      "message": "お問い合わせ"
+   },
+   "create_msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "エラーが発生しました。Pinterest にログインしていることを確認して、もう一度やり直してください。"
+   },
+   "create_msgPinFail": {
+      "description": "pin create fail",
+      "message": "このページを保存できませんでした。"
+   },
+   "create_msgPinSavedTo": {
+      "description": "board identifier",
+      "message": "「%」に保存しました"
+   },
+   "create_msgSeeItNow": {
+      "description": "pin / board create success button",
+      "message": "今すぐ見る"
+   },
+   "create_optNo": {
+      "description": "switch option no",
+      "message": "No"
+   },
+   "create_optYes": {
+      "description": "switch option yes",
+      "message": "Yes"
+   },
+   "create_outerAddFormOpener": {
+      "description": "header in Create form",
+      "message": "新規ボードを作成"
+   },
+   "create_placeholderDescription": {
+      "description": "placeholder text in Pin description",
+      "message": "このピンに説明文を入力"
+   },
+   "create_placeholderFilterAddBoard": {
+      "description": "placeholder text in Create Board input",
+      "message": "例：「行ってみたい場所」"
+   },
+   "create_placeholderFilterAddSection": {
+      "description": "placeholder text in Create Section input",
+      "message": "例：「照明"
+   },
+   "create_submitAddForm": {
+      "description": "create new board",
+      "message": "作成"
+   },
+   "create_topChoices": {
+      "description": "interstitial header in board list",
+      "message": "人気のボード"
+   },
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "この画像は保存できません。"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "ウェブサイトで見つけたものを保存する"
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterest 保存ボタン"
+   },
+   "grid_choosePin": {
+      "description": "Header message in the image picker overlay",
+      "message": "保存するピンを選択"
+   },
+   "logic_noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "し訳ありません。HTML 以外のページでピンすることはできません。画像をアップロードしようと試みている場合は、pinterest.com にアクセスしてください。"
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "エラー！"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "画像ホバーの保存ボタンを非表示にする"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "[保存] ボタンのオプション"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "保存"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "検索"
+   },
+   "search_headerMessage": {
+      "description": "Header shown when search succeeds",
+      "message": "よく似たアイデアを Pinterest で検索"
+   }
+}

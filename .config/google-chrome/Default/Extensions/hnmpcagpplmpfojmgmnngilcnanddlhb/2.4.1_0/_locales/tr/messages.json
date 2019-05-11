@@ -1,0 +1,332 @@
+{
+   "backTitle": {
+      "message": "Geri"
+   },
+   "connectionModeNameCR": {
+      "message": "Seyir Kontrolü"
+   },
+   "connectionModeNameDH": {
+      "message": "Çift Hop"
+   },
+   "connectionModeNameEA": {
+      "message": "Harici Uygulama"
+   },
+   "connectionModeNameML": {
+      "message": "Manuel"
+   },
+   "connectionModeText": {
+      "message": "Bağlantı Modu"
+   },
+   "connectionModeTooltipCruiseControl": {
+      "message": "Engellenmiş bir kaynağa erişirken konum otomatik olarak değiştirilecektir"
+   },
+   "connectionModeTooltipDefault": {
+      "message": "Modunuz proxy ayarlarınız tarafından tanımlanmıştır"
+   },
+   "connectionModeTooltipDoubleHop": {
+      "message": "Masaüstü uygulaması çalışıyor. Şu anda trafiğinize çift proxy uyguluyorsunuz. Bu daha güvenlidir fakat daha yavaş olabilir"
+   },
+   "connectionModeTooltipExternalApp": {
+      "message": "Ağ ayarlarınız Windscribe Masaüstü Uygulaması tarafından kontrol edilmektedir"
+   },
+   "connectionModeTooltipManual": {
+      "message": "Konum sizin tarafınızdan seçilmiştir"
+   },
+   "errNetworkHeader": {
+      "message": "Oops, bu olmamalıydı"
+   },
+   "errNetworkText": {
+      "message": "Windscribe sunucularına ulaşılamıyor. Ya internet bağlantınız yok, ya da bizim tarafımızda bir şeyler yanlış"
+   },
+   "errOtherExtensionHeader": {
+      "message": "Koruma Devre Dışı Bırakıldı"
+   },
+   "errOtherExtensionText": {
+      "message": "Windscribe, proxy ayarlarınızı kontrol eden başka bir uzantı kullanırken çalışamaz"
+   },
+   "extDescription": {
+      "message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+   },
+   "extName": {
+      "message": "Windscribe - Free VPN and Ad Blocker"
+   },
+   "extShortName": {
+      "message": "Windscribe"
+   },
+   "loginButtonText": {
+      "message": "Giriş"
+   },
+   "loginEmptyInput": {
+      "message": "'kullanıcı adı' ve 'şifre' alanlarının her ikisini de doldurun"
+   },
+   "loginErr": {
+      "message": "Giriş bilgileri geçersiz gibi duruyor, tekrar deneyin"
+   },
+   "loginForgotPassword": {
+      "message": "Şifremi unuttum"
+   },
+   "loginPasswordPlaceholder": {
+      "message": "Şifre"
+   },
+   "loginSignUp": {
+      "message": "Kayıt Ol"
+   },
+   "loginTitle": {
+      "message": "Windscribe'a giriş yap"
+   },
+   "loginUsernamePlaceholder": {
+      "message": "Kullanıcı Adı"
+   },
+   "loginWelcomeMsg": {
+      "message": "Harika, girişinizi gerçekleştiriyoruz"
+   },
+   "menuHelp": {
+      "message": "Bana Yardım Et!"
+   },
+   "menuLanguages": {
+      "message": "Diller"
+   },
+   "menuLogout": {
+      "message": "Çıkış"
+   },
+   "menuMyAcc": {
+      "message": "Hesabım "
+   },
+   "menuPrivacyOptions": {
+      "message": "Gizlilik Seçenekleri"
+   },
+   "menuRecentSLinks": {
+      "message": "Son Secure.Linkler"
+   },
+   "menuTitle": {
+      "message": "Menü"
+   },
+   "menuUpgrade": {
+      "message": "Yükselt"
+   },
+   "notificationEA": {
+      "message": "Ağ ayarlarınız Windscribe masaüstü uygulaması tarafından kontrol ediliyor. Windscribe'ı kapatmak için uygulama içerisinden bağlantıyı kesin"
+   },
+   "notificationOff": {
+      "message": "Windscribe bağlantısı sonlandırıldı"
+   },
+   "notificationOffDH": {
+      "message": "Çift hop bağlantısı sonlandırıldı. Ağınız hala Windscribe masaüstü uygulaması tarafından kontrol ediliyor"
+   },
+   "notificationOn": {
+      "message": "Şu anda Windscribe'a bağlısınız"
+   },
+   "notificationOnDH1": {
+      "message": "Artık Windscribe'a bağlısınız"
+   },
+   "notificationOnDH2": {
+      "message": "Çift hop etkinleştirildi. Bu performans sorunlarına yol açabilir"
+   },
+   "notificationOnEM": {
+      "message": "Ağ ayarlarınız Windscribe Masaüstü Uygulaması tarafından kontrol ediliyor"
+   },
+   "privacyOptionsAdBlock": {
+      "message": "Reklam Engelleyici"
+   },
+   "privacyOptionsAdBlockNote": {
+      "message": "Ziyaret ettiğiniz sayfalardaki reklamları engeller "
+   },
+   "privacyOptionsAntiSoc": {
+      "message": "Anti-Sosyal"
+   },
+   "privacyOptionsAntiSocNote": {
+      "message": "DENEYSEL: Sosyal medya butonlarını kaldır"
+   },
+   "privacyOptionsOff": {
+      "message": "kapalı"
+   },
+   "privacyOptionsOn": {
+      "message": "açık"
+   },
+   "privacyOptionsSplit": {
+      "message": "Bölünmüş Kişilik"
+   },
+   "privacyOptionsSplitNote": {
+      "message": "Kullanıcı aracınızı rastgele döndürün"
+   },
+   "privacyOptionsTitle": {
+      "message": "Gizlilik Seçenekleri"
+   },
+   "privacyOptionsUntrace": {
+      "message": "İzlenemez"
+   },
+   "privacyOptionsUntraceNote": {
+      "message": "Bilinen reklam işaretleri ve izleyicilerini engelle"
+   },
+   "privacyOptionsWLBtnText": {
+      "message": "Beyaz Listeyi Yönet"
+   },
+   "privacyOptionsWLText": {
+      "message": "Beyaz Listedeki siteler yukarıdaki ayarlardan etkilenmeyecektir"
+   },
+   "privacyOptionsWLTitle": {
+      "message": "Beyaz Listeye Alınmış Siteler"
+   },
+   "rateUsCTA": {
+      "message": "Bizi Değerlendirin"
+   },
+   "rateUsHeader": {
+      "message": "Windscribe'ı nasıl buluyorsunuz?"
+   },
+   "rateUsHeaderText": {
+      "message": "Chrome Mağazası'nda bir değerlendirme ve puanlamadan oldukça memnun oluruz"
+   },
+   "rateUsNo": {
+      "message": "Hayır Teşekkürler"
+   },
+   "recentLinksCopied": {
+      "message": "Kopyalandı!"
+   },
+   "recentLinksCopy": {
+      "message": "Kopyala"
+   },
+   "recentLinksLearn": {
+      "message": "Secure.link hakkında bilgi edinin"
+   },
+   "recentLinksMonth": {
+      "message": "Geçen Ay"
+   },
+   "recentLinksNo": {
+      "message": "Hayır"
+   },
+   "recentLinksNoLinks": {
+      "message": "Hiç Secure linkiniz yok"
+   },
+   "recentLinksNoTitle": {
+      "message": "Sayfa başlığı yok"
+   },
+   "recentLinksOlder": {
+      "message": "Daha eski"
+   },
+   "recentLinksSure": {
+      "message": "Emin misiniz?"
+   },
+   "recentLinksTitle": {
+      "message": "Son Linkler"
+   },
+   "recentLinksToday": {
+      "message": "Bugün"
+   },
+   "recentLinksWeek": {
+      "message": "Geçen Hafta"
+   },
+   "recentLinksYes": {
+      "message": "Evet"
+   },
+   "remove": {
+      "message": "Kaldır"
+   },
+   "secLinkAddMsg": {
+      "message": "Mesaj Ekle (isteğe bağlı)"
+   },
+   "secLinkAddPsw": {
+      "message": "Kodlamak için şifre ekle (isteğe bağlı)"
+   },
+   "secLinkCopied": {
+      "message": "Link kopyalandı"
+   },
+   "secLinkForceIns": {
+      "message": "Zorla yükle"
+   },
+   "secLinkNotCopied": {
+      "message": "Link kopyalanmadı"
+   },
+   "secLinkNote": {
+      "message": "*Devam etmek için Windscribe yüklenmesini gerektirecek"
+   },
+   "secLinkTitle": {
+      "message": "Secure link Seçenekleri"
+   },
+   "secLinkWarn": {
+      "message": "Şifre en az 4 sembol içermelidir"
+   },
+   "secureLinkBtnText": {
+      "message": " Secure.Link kopyala"
+   },
+   "secureLinkErrTooltip": {
+      "message": "Bu sayfadan bir Secure.link yapılamıyor"
+   },
+   "secureLinkTitle": {
+      "message": "Secure.Link Üreteci"
+   },
+   "statusConnected": {
+      "message": "Bağlandı"
+   },
+   "statusConnectedDesktop": {
+      "message": "Bağlandı (Masaüstü)"
+   },
+   "statusDisconnected": {
+      "message": "Bağlantı Kesildi"
+   },
+   "topNavBanned": {
+      "message": "Engellendi"
+   },
+   "topNavDayLeft": {
+      "message": " Gün Kaldı"
+   },
+   "topNavDaysLeft": {
+      "message": "Gün Kaldı"
+   },
+   "topNavGBLeft": {
+      "message": "GB Kaldı"
+   },
+   "topNavUpgrade": {
+      "message": "Yükselt"
+   },
+   "upgradeTooltipText": {
+      "message": "Bu ayki ücretsiz kullanım sınırınızı aştınız. Lütfen yükseltin"
+   },
+   "whiteListAddAdsBtnText": {
+      "message": "Reklamlar Beyaz Listesi "
+   },
+   "whiteListAddBtnText": {
+      "message": "Siteyi ekle"
+   },
+   "whiteListAddProxyBtnText": {
+      "message": "Proxy Beyaz Listesi"
+   },
+   "whiteListAdsOnly": {
+      "message": "Yalnızca Reklamlar"
+   },
+   "whiteListIssues": {
+      "message": "Bu siteyle ilgili problem mi yaşıyorsunuz?"
+   },
+   "whiteListIt": {
+      "message": "Beyaz listeye ekle"
+   },
+   "whiteListListed": {
+      "message": "Bu site beyaz listeye eklendi "
+   },
+   "whiteListNoProxy": {
+      "message": "Proxy Yok"
+   },
+   "whiteListQuestion": {
+      "message": "Bu Sitede İzleyicileri Engellemeyi Durdur?"
+   },
+   "whiteListRemove": {
+      "message": "Beyaz Listeden Çıkar "
+   },
+   "whiteListRemoveBtnText": {
+      "message": "Siteyi Beyaz Listeden çıkar "
+   },
+   "whiteListReportThanks": {
+      "message": "Teşekkürler. Kısa sürede bunu onaracağız "
+   },
+   "whiteListReportUrl": {
+      "message": "Onarabilmemiz için bu URL'yi bildirin "
+   },
+   "whiteListSitesTitle": {
+      "message": " Beyaz Listeye alınmış siteler"
+   },
+   "whiteListTitle": {
+      "message": "Beyaz Liste Seçenekleri"
+   },
+   "whiteListTooltip": {
+      "message": "Beyaz listeye boş sayfa eklenemez "
+   }
+}

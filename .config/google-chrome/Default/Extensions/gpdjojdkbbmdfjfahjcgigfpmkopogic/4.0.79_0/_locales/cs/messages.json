@@ -1,0 +1,134 @@
+{
+   "create_addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Tajná"
+   },
+   "create_addSection": {
+      "description": "label to add section",
+      "message": "Přidat část"
+   },
+   "create_allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Všechny nástěnky"
+   },
+   "create_chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Zvolit nástěnku"
+   },
+   "create_chooseSection": {
+      "description": "label for board sections",
+      "message": "Zvolit část"
+   },
+   "create_closeAddForm": {
+      "description": "cancel create",
+      "message": "Zrušit"
+   },
+   "create_filter": {
+      "description": "placeholder text in Search input",
+      "message": "Hledat"
+   },
+   "create_msgBoardFail": {
+      "description": "board create fail",
+      "message": "Nelze vytvořit novou nástěnku"
+   },
+   "create_msgClose": {
+      "description": "pin create success close",
+      "message": "Zavřít"
+   },
+   "create_msgHelp": {
+      "description": "get help button",
+      "message": "Zobrazit nápovědu"
+   },
+   "create_msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Je nám líto, ale něco není v pořádku. Zkontrolujte, zda jste přihlášeni k Pinterestu, a zkuste to znovu."
+   },
+   "create_msgPinFail": {
+      "description": "pin create fail",
+      "message": "Tuto stránku se nepodařilo uložit"
+   },
+   "create_msgPinSavedTo": {
+      "description": "board identifier",
+      "message": "Uloženo na nástěnku %"
+   },
+   "create_msgSeeItNow": {
+      "description": "pin / board create success button",
+      "message": "Prohlédnout"
+   },
+   "create_optNo": {
+      "description": "switch option no",
+      "message": "Ne"
+   },
+   "create_optYes": {
+      "description": "switch option yes",
+      "message": "Ano"
+   },
+   "create_outerAddFormOpener": {
+      "description": "header in Create form",
+      "message": "Vytvořit nástěnku"
+   },
+   "create_placeholderDescription": {
+      "description": "placeholder text in Pin description",
+      "message": "Řekněte nám něco o tomto pinu"
+   },
+   "create_placeholderFilterAddBoard": {
+      "description": "placeholder text in Create Board input",
+      "message": "Například „Místa, na která se chci podívat“"
+   },
+   "create_placeholderFilterAddSection": {
+      "description": "placeholder text in Create Section input",
+      "message": "Například „Osvětlení“"
+   },
+   "create_submitAddForm": {
+      "description": "create new board",
+      "message": "Vytvořit"
+   },
+   "create_topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Doporučené nástěnky"
+   },
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Je nám líto. Obrázek nelze uložit."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Ukládejte věci, které najdete na webu."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Tlačítko Uložit"
+   },
+   "grid_choosePin": {
+      "description": "Header message in the image picker overlay",
+      "message": "Zvolte pin, který chcete uložit"
+   },
+   "logic_noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Je nám líto. Z této domény není možné přidávat piny. S dotazy se obracejte na provozovatele webu."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Jejda."
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Skrýt vyskakovací tlačítka Uložit"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Možnosti tlačítka Uložit"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Uložit"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Hledat"
+   },
+   "search_headerMessage": {
+      "description": "Header shown when search succeeds",
+      "message": "Více podobných z Pinterestu"
+   }
+}

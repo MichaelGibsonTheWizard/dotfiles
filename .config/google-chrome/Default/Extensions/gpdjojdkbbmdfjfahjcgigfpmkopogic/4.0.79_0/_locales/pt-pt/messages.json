@@ -1,0 +1,134 @@
+{
+  "extName": {
+    "message": "Botão Guardar do Pinterest",
+    "description": "The extension's title, seen in gallery and extensions page"
+  },
+  "extDescription": {
+    "message": "Guarda as coisas que encontras na Web.",
+    "description": "The extension's description, seen in gallery and extensions page"
+  },
+  "saveAction": {
+    "message": "Guardar",
+    "description": "Appears in the right-click-to-save menu item"
+  },
+  "searchAction": {
+    "message": "Pesquisar",
+    "description": "Appears in the right-click-to-search menu item"
+  },
+  "errorPin": {
+    "message": "Lamentamos, mas não é possível guardar esta imagem.",
+    "description": "The error message seen when an image can't be pinned"
+  },
+  "optionTitle": {
+    "message": "Opções do botão Guardar",
+    "description": "Title for the Options page"
+  },
+  "optionHide": {
+    "message": "Ocultar os botões Guardar sobrepostos",
+    "description": "Text next to the checkbox that turns off hoverbuttons"
+  },
+  "grid_choosePin": {
+    "message": "Escolhe um Pin para guardar",
+    "description": "Header message in the image picker overlay"
+  },
+  "create_chooseBoard": {
+    "message": "Escolher álbum",
+    "description": "main header in Save form"
+  },
+  "create_filter": {
+    "message": "Pesquisar",
+    "description": "placeholder text in Search input"
+  },
+  "create_topChoices": {
+    "message": "Principais escolhas",
+    "description": "interstitial header in board list"
+  },
+  "create_allBoards": {
+    "message": "Todos os álbuns",
+    "description": "interstitial header in board list"
+  },
+  "create_outerAddFormOpener": {
+    "message": "Criar álbum",
+    "description": "header in Create form"
+  },
+  "create_placeholderFilterAddBoard": {
+    "message": "Como \"Lugares a ir\"",
+    "description": "placeholder text in Create Board input"
+  },
+  "create_placeholderFilterAddSection": {
+    "message": "Como \"Iluminação\"",
+    "description": "placeholder text in Create Section input"
+  },
+  "create_placeholderDescription": {
+    "message": "Fala-nos sobre este Pin",
+    "description": "placeholder text in Pin description"
+  },
+  "create_addFormSecretLabel": {
+    "message": "Secreto",
+    "description": "label over secret/not-secret switch"
+  },
+  "create_chooseSection": {
+    "message": "Escolher secção",
+    "description": "label for board sections"
+  },
+  "create_addSection": {
+    "message": "Adicionar secção",
+    "description": "label to add section"
+  },
+  "create_optYes": {
+    "message": "Sim",
+    "description": "switch option yes"
+  },
+  "create_optNo": {
+    "message": "Não",
+    "description": "switch option no"
+  },
+  "create_closeAddForm": {
+    "message": "Cancelar",
+    "description": "cancel create"
+  },
+  "create_submitAddForm": {
+    "message": "Criar",
+    "description": "create new board"
+  },
+  "create_msgPinSavedTo": {
+    "message": "Guardado em %",
+    "description": "board identifier"
+  },
+  "create_msgBoardFail": {
+    "message": "Não foi possível criar um novo álbum",
+    "description": "board create fail"
+  },
+  "create_msgPinFail": {
+    "message": "Não foi possível guardar esta página",
+    "description": "pin create fail"
+  },
+  "create_msgSeeItNow": {
+    "message": "Ver agora",
+    "description": "pin / board create success button"
+  },
+  "create_msgClose": {
+    "message": "Fechar",
+    "description": "pin create success close"
+  },
+  "create_msgLoginFail": {
+    "message": "Ocorreu um problema. Verifica se iniciaste sessão no Pinterest e tenta novamente.",
+    "description": "Message shown when someone's login changes while the board picker is open"
+  },
+  "msgOops": {
+    "message": "Ups!",
+    "description": "error header"
+  },
+  "create_msgHelp": {
+    "message": "Obtém ajuda",
+    "description": "get help button"
+  },
+  "search_headerMessage": {
+    "message": "Mais como este no Pinterest",
+    "description": "Header shown when search succeeds"
+  },
+  "logic_noPinDomain": {
+    "message": "Lamentamos, mas não é permitido afixar pins a partir deste domínio. Em caso de dúvidas, contacta o operador do site.",
+    "description": "The default message we alert when someone tries to use the browser button on a forbidden domain"
+  }
+}

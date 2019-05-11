@@ -1,0 +1,134 @@
+{
+   "create_addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "비밀 설정"
+   },
+   "create_addSection": {
+      "description": "label to add section",
+      "message": "섹션 추가"
+   },
+   "create_allBoards": {
+      "description": "interstitial header in board list",
+      "message": "모든 보드"
+   },
+   "create_chooseBoard": {
+      "description": "main header in Save form",
+      "message": "보드 선택"
+   },
+   "create_chooseSection": {
+      "description": "label for board sections",
+      "message": "섹션 선택"
+   },
+   "create_closeAddForm": {
+      "description": "cancel create",
+      "message": "취소"
+   },
+   "create_filter": {
+      "description": "placeholder text in Search input",
+      "message": "검색"
+   },
+   "create_msgBoardFail": {
+      "description": "board create fail",
+      "message": "새 보드를 만들지 못했습니다! "
+   },
+   "create_msgClose": {
+      "description": "pin create success close",
+      "message": "닫기"
+   },
+   "create_msgHelp": {
+      "description": "get help button",
+      "message": "지원"
+   },
+   "create_msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "죄송합니다. 여기에 뭔가 문제가 발생했습니다. Pinterest에 로그인했는지 확인하고 다시 시도하세요."
+   },
+   "create_msgPinFail": {
+      "description": "pin create fail",
+      "message": "이 페이지를 저장하지 못했습니다."
+   },
+   "create_msgPinSavedTo": {
+      "description": "board identifier",
+      "message": "에 저장됨%"
+   },
+   "create_msgSeeItNow": {
+      "description": "pin / board create success button",
+      "message": "지금 확인"
+   },
+   "create_optNo": {
+      "description": "switch option no",
+      "message": "안 함"
+   },
+   "create_optYes": {
+      "description": "switch option yes",
+      "message": "허용"
+   },
+   "create_outerAddFormOpener": {
+      "description": "header in Create form",
+      "message": "보드 만들기"
+   },
+   "create_placeholderDescription": {
+      "description": "placeholder text in Pin description",
+      "message": "이 핀에 대해 알려주세요."
+   },
+   "create_placeholderFilterAddBoard": {
+      "description": "placeholder text in Create Board input",
+      "message": "\"가볼 만한 곳\" 등"
+   },
+   "create_placeholderFilterAddSection": {
+      "description": "placeholder text in Create Section input",
+      "message": "\"조명\" 등"
+   },
+   "create_submitAddForm": {
+      "description": "create new board",
+      "message": "만들기"
+   },
+   "create_topChoices": {
+      "description": "interstitial header in board list",
+      "message": "최고 인기 선정"
+   },
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "죄송합니다. 이 이미지는 저장할 수 없습니다."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "웹에서 찾은 내용을 저장하세요. "
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterest 저장 버튼"
+   },
+   "grid_choosePin": {
+      "description": "Header message in the image picker overlay",
+      "message": "저장할 핀을 선택하세요."
+   },
+   "logic_noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "죄송합니다. 이 도메인에서는 핀하기가 허용되지 않습니다. 질문이 있으시면 사이트 운영자에게 문의하시기 바랍니다."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "죄송합니다!"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "마우스 오버 저장 버튼 숨기기"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Pinterest 저장 버튼 옵션"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "저장"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "검색"
+   },
+   "search_headerMessage": {
+      "description": "Header shown when search succeeds",
+      "message": "Pinterest에서 비슷한 항목 더 보기"
+   }
+}

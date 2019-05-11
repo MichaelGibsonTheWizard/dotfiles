@@ -1,0 +1,134 @@
+{
+   "create_addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Gizli"
+   },
+   "create_addSection": {
+      "description": "label to add section",
+      "message": "Bölüm Ekle"
+   },
+   "create_allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Tüm panolar"
+   },
+   "create_chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Pano seçin"
+   },
+   "create_chooseSection": {
+      "description": "label for board sections",
+      "message": "Bölüm Seçin"
+   },
+   "create_closeAddForm": {
+      "description": "cancel create",
+      "message": "İptal Et"
+   },
+   "create_filter": {
+      "description": "placeholder text in Search input",
+      "message": "Ara"
+   },
+   "create_msgBoardFail": {
+      "description": "board create fail",
+      "message": "Yeni pano oluşturulamadı"
+   },
+   "create_msgClose": {
+      "description": "pin create success close",
+      "message": "Kapat"
+   },
+   "create_msgHelp": {
+      "description": "get help button",
+      "message": "Yardım al"
+   },
+   "create_msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Üzgünüz, burada bir sorun var. Lütfen Pinterest'e giriş yaptığınızdan emin olup tekrar deneyin."
+   },
+   "create_msgPinFail": {
+      "description": "pin create fail",
+      "message": "Bu sayfa kaydedilemedi"
+   },
+   "create_msgPinSavedTo": {
+      "description": "board identifier",
+      "message": "% panosuna kaydedildi"
+   },
+   "create_msgSeeItNow": {
+      "description": "pin / board create success button",
+      "message": "Şimdi gör"
+   },
+   "create_optNo": {
+      "description": "switch option no",
+      "message": "Hayır"
+   },
+   "create_optYes": {
+      "description": "switch option yes",
+      "message": "Evet"
+   },
+   "create_outerAddFormOpener": {
+      "description": "header in Create form",
+      "message": "Pano oluştur"
+   },
+   "create_placeholderDescription": {
+      "description": "placeholder text in Pin description",
+      "message": "Bize bu Pin hakkında bilgi verin"
+   },
+   "create_placeholderFilterAddBoard": {
+      "description": "placeholder text in Create Board input",
+      "message": "\"Gidilecek Yerler\" gibi"
+   },
+   "create_placeholderFilterAddSection": {
+      "description": "placeholder text in Create Section input",
+      "message": "\"Aydınlatma\" gibi"
+   },
+   "create_submitAddForm": {
+      "description": "create new board",
+      "message": "Oluştur"
+   },
+   "create_topChoices": {
+      "description": "interstitial header in board list",
+      "message": "En iyi seçimler"
+   },
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Maalesef bu görüntü kaydedilemez."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "İnternet'te bulduklarınızı kaydedin."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterest Kaydet düğmesi"
+   },
+   "grid_choosePin": {
+      "description": "Header message in the image picker overlay",
+      "message": "Saklamak istediğiniz Pini seçin"
+   },
+   "logic_noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Üzgünüz, bu alan adından pinlemeye izin verilmiyor. Sorularınız varsa, lütfen site operatörüne başvurun."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Üzgünüz!"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Üzerinde durulduğunda beliren Kaydet düğmelerini gizle"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Kaydet düğmesi seçenekleri"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Kaydet"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Ara"
+   },
+   "search_headerMessage": {
+      "description": "Header shown when search succeeds",
+      "message": "Pinterest'ten buna benzer daha fazla içerik"
+   }
+}

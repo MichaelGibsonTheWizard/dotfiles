@@ -1,0 +1,332 @@
+{
+   "backTitle": {
+      "message": "Обратно"
+   },
+   "connectionModeNameCR": {
+      "message": "Круиз-контрол"
+   },
+   "connectionModeNameDH": {
+      "message": "Double Hop"
+   },
+   "connectionModeNameEA": {
+      "message": "Външно приложение"
+   },
+   "connectionModeNameML": {
+      "message": "Ръчен контрол"
+   },
+   "connectionModeText": {
+      "message": "Режим на връзка"
+   },
+   "connectionModeTooltipCruiseControl": {
+      "message": "Локацията ще бъде променена автоматично, когато имате достъп до блокиран ресурс"
+   },
+   "connectionModeTooltipDefault": {
+      "message": "Вашият режим е определен от прокси настройките"
+   },
+   "connectionModeTooltipDoubleHop": {
+      "message": "Приложението работи. В момента прокси трафикът е удвоен. Това е по-сигурно, но може да бъде по-бавно"
+   },
+   "connectionModeTooltipExternalApp": {
+      "message": "Мрежовите Ви настройки се контролират от приложението Windscribe"
+   },
+   "connectionModeTooltipManual": {
+      "message": "Локацията е избрана от Вас"
+   },
+   "errNetworkHeader": {
+      "message": "Грешка, това не трябваше да се случва"
+   },
+   "errNetworkText": {
+      "message": "Не достигнахте сървърите на Windscribe. Или нямате връзка с Интернет или нещо при нас се е объркало"
+   },
+   "errOtherExtensionHeader": {
+      "message": "Защитата е изключена"
+   },
+   "errOtherExtensionText": {
+      "message": "Windscribe не може да работи, докато използвате друго разширение, което контролира прокси настройките"
+   },
+   "extDescription": {
+      "message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+   },
+   "extName": {
+      "message": "Windscribe - Free VPN and Ad Blocker"
+   },
+   "extShortName": {
+      "message": "Windscribe"
+   },
+   "loginButtonText": {
+      "message": "Вписване"
+   },
+   "loginEmptyInput": {
+      "message": "Попълнете 'потребителско име' и 'парола', за да се впишете"
+   },
+   "loginErr": {
+      "message": "Това вписване е невалидно, опитайте отново"
+   },
+   "loginForgotPassword": {
+      "message": "Забравена парола"
+   },
+   "loginPasswordPlaceholder": {
+      "message": "Парола"
+   },
+   "loginSignUp": {
+      "message": "Регистриране"
+   },
+   "loginTitle": {
+      "message": "Вписване в Windscribe"
+   },
+   "loginUsernamePlaceholder": {
+      "message": "Потребителско име"
+   },
+   "loginWelcomeMsg": {
+      "message": "Страхотно, вписани сте"
+   },
+   "menuHelp": {
+      "message": "Помощ!"
+   },
+   "menuLanguages": {
+      "message": "Езици"
+   },
+   "menuLogout": {
+      "message": "Отписване"
+   },
+   "menuMyAcc": {
+      "message": "Моят акаунт"
+   },
+   "menuPrivacyOptions": {
+      "message": "Опции за поверителност"
+   },
+   "menuRecentSLinks": {
+      "message": "Скорошни Secure.Links"
+   },
+   "menuTitle": {
+      "message": "Меню"
+   },
+   "menuUpgrade": {
+      "message": "Обновяване"
+   },
+   "notificationEA": {
+      "message": "Мрежовите Ви настройки се контролират от десктоп приложението Windscribe.  Прекъснете връзката на приложението, за да изключите Windscribe"
+   },
+   "notificationOff": {
+      "message": "Връзката с Windscribe е прекратена"
+   },
+   "notificationOffDH": {
+      "message": "Double hop връзката е прекъсната. Мрежата Ви все още се контролира от десктоп приложението Windscribe"
+   },
+   "notificationOn": {
+      "message": "Имате връзка с Windscribe"
+   },
+   "notificationOnDH1": {
+      "message": "Имате връзка с Windscribe"
+   },
+   "notificationOnDH2": {
+      "message": "Double hop е достъпна. Това може да доведе до проблеми при изпълнение"
+   },
+   "notificationOnEM": {
+      "message": "Мрежовите Ви настройки се контролират от десктоп приложението Windscribe"
+   },
+   "privacyOptionsAdBlock": {
+      "message": "Блокер на реклами"
+   },
+   "privacyOptionsAdBlockNote": {
+      "message": "Блокиране на реклами на страниците, които посещавате"
+   },
+   "privacyOptionsAntiSoc": {
+      "message": "Антисоциална опция"
+   },
+   "privacyOptionsAntiSocNote": {
+      "message": "ЕКСПЕРИМЕНТАЛНО: Премахване на бутони за социални медии"
+   },
+   "privacyOptionsOff": {
+      "message": "изключено"
+   },
+   "privacyOptionsOn": {
+      "message": "включено"
+   },
+   "privacyOptionsSplit": {
+      "message": "Раздвоение на личността"
+   },
+   "privacyOptionsSplitNote": {
+      "message": "Периодична смяна на потребителски агент"
+   },
+   "privacyOptionsTitle": {
+      "message": "Опции за поверителност"
+   },
+   "privacyOptionsUntrace": {
+      "message": "Непроследимост"
+   },
+   "privacyOptionsUntraceNote": {
+      "message": "Блокиране на познати рекламни маяци и тракери"
+   },
+   "privacyOptionsWLBtnText": {
+      "message": "Управление на Whitelist"
+   },
+   "privacyOptionsWLText": {
+      "message": "Сайтовете в Whitelist няма да бъдат засегнати от по-горните настройки"
+   },
+   "privacyOptionsWLTitle": {
+      "message": "Сайтове в Whitelist"
+   },
+   "rateUsCTA": {
+      "message": "Оценете ни"
+   },
+   "rateUsHeader": {
+      "message": "Харесвате ли Windscribe?"
+   },
+   "rateUsHeaderText": {
+      "message": "Наистина ще оценим всеки рейтинг и мнение в Chrome Store"
+   },
+   "rateUsNo": {
+      "message": "Не, благодаря"
+   },
+   "recentLinksCopied": {
+      "message": "Копирано!"
+   },
+   "recentLinksCopy": {
+      "message": "Копиране"
+   },
+   "recentLinksLearn": {
+      "message": "Научете още за Secure.link"
+   },
+   "recentLinksMonth": {
+      "message": "Миналият месец"
+   },
+   "recentLinksNo": {
+      "message": "Не"
+   },
+   "recentLinksNoLinks": {
+      "message": "Нямате защитени линкове"
+   },
+   "recentLinksNoTitle": {
+      "message": "Без заглавие на страница"
+   },
+   "recentLinksOlder": {
+      "message": "По-стари"
+   },
+   "recentLinksSure": {
+      "message": "Сигурни ли сте?"
+   },
+   "recentLinksTitle": {
+      "message": "Скорошни линкове"
+   },
+   "recentLinksToday": {
+      "message": "Днес"
+   },
+   "recentLinksWeek": {
+      "message": "Миналата седмица"
+   },
+   "recentLinksYes": {
+      "message": "Да"
+   },
+   "remove": {
+      "message": "Премахване"
+   },
+   "secLinkAddMsg": {
+      "message": "Добавяне на съобщение (опционално)"
+   },
+   "secLinkAddPsw": {
+      "message": "Добавяне на парола за криптиране (опционално)"
+   },
+   "secLinkCopied": {
+      "message": "Линкът е копиран"
+   },
+   "secLinkForceIns": {
+      "message": "Force инсталиране"
+   },
+   "secLinkNotCopied": {
+      "message": "Линкът не е копиран"
+   },
+   "secLinkNote": {
+      "message": "*Изисква се Windscribe да бъде инсталиран, за да продължи напред"
+   },
+   "secLinkTitle": {
+      "message": "Опции на Secure.link"
+   },
+   "secLinkWarn": {
+      "message": "Паролата трябва да съдържа поне 4 символа"
+   },
+   "secureLinkBtnText": {
+      "message": "Копиране на Secure.Link"
+   },
+   "secureLinkErrTooltip": {
+      "message": "Не може да се направи Secure.link за тази страница"
+   },
+   "secureLinkTitle": {
+      "message": "Генератор Secure.Link"
+   },
+   "statusConnected": {
+      "message": "Свързан"
+   },
+   "statusConnectedDesktop": {
+      "message": "Свързан (Десктоп)"
+   },
+   "statusDisconnected": {
+      "message": "Несвързан"
+   },
+   "topNavBanned": {
+      "message": "Забранен"
+   },
+   "topNavDayLeft": {
+      "message": "Оставащ ден"
+   },
+   "topNavDaysLeft": {
+      "message": "Оставащи дни"
+   },
+   "topNavGBLeft": {
+      "message": "Оставащи GB"
+   },
+   "topNavUpgrade": {
+      "message": "Обновяване"
+   },
+   "upgradeTooltipText": {
+      "message": "Превишавате безплатното използване за този месец. Моля, обновете версията"
+   },
+   "whiteListAddAdsBtnText": {
+      "message": "Реклами в Whitelist"
+   },
+   "whiteListAddBtnText": {
+      "message": "Добавяне на сайт към"
+   },
+   "whiteListAddProxyBtnText": {
+      "message": "Прокси в Whitelist"
+   },
+   "whiteListAdsOnly": {
+      "message": "Само реклами"
+   },
+   "whiteListIssues": {
+      "message": "Имате проблеми с този сайт?"
+   },
+   "whiteListIt": {
+      "message": "Добавяне в Whitelist"
+   },
+   "whiteListListed": {
+      "message": "Този сайт е в Whitelist"
+   },
+   "whiteListNoProxy": {
+      "message": "Без прокси"
+   },
+   "whiteListQuestion": {
+      "message": "Спиране на блокинг тракери на този сайт?"
+   },
+   "whiteListRemove": {
+      "message": "Премахване от Whitelist"
+   },
+   "whiteListRemoveBtnText": {
+      "message": "Премахване на сайт от Whitelist"
+   },
+   "whiteListReportThanks": {
+      "message": "Благодарим. Ще го поправим съвсем скоро"
+   },
+   "whiteListReportUrl": {
+      "message": "Докладване на този URL, за да можем да го оправим"
+   },
+   "whiteListSitesTitle": {
+      "message": "Сайтове в Whitelist"
+   },
+   "whiteListTitle": {
+      "message": "Опции на Whitelist"
+   },
+   "whiteListTooltip": {
+      "message": "Не може да се добави празна страница към Whitelist"
+   }
+}

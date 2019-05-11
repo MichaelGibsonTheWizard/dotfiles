@@ -1,0 +1,18 @@
+2019/02/16-22:51:26.738 4924 Reusing MANIFEST /home/goatwizard/.config/google-chrome/Default/IndexedDB/https_www.joann.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/02/16-22:51:26.738 4924 Recovering log #11
+2019/02/16-22:51:26.738 4924 Reusing old log /home/goatwizard/.config/google-chrome/Default/IndexedDB/https_www.joann.com_0.indexeddb.leveldb/000011.log 
+2019/02/16-22:51:27.249 5120 Current memtable full; waiting...
+2019/02/16-22:51:27.249 5004 Level-0 table #15: started
+2019/02/16-22:51:27.283 5004 Level-0 table #15: 406 bytes OK
+2019/02/16-22:51:27.308 5004 Delete type=0 #11
+2019/02/16-22:51:27.308 5004 Level-0 table #17: started
+2019/02/16-22:51:27.308 5004 Level-0 table #17: 0 bytes OK
+2019/02/16-22:51:27.350 5004 Delete type=0 #14
+2019/02/16-22:51:27.350 5004 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\x05' @ 26 : 1
+2019/02/16-22:51:27.350 5004 Compacting 1@0 + 1@1 files
+2019/02/16-22:51:27.384 5004 Generated table #18@0: 4 keys, 460 bytes
+2019/02/16-22:51:27.384 5004 Compacted 1@0 + 1@1 files => 460 bytes
+2019/02/16-22:51:27.409 5004 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/02/16-22:51:27.409 5004 Delete type=2 #15
+2019/02/16-22:51:27.409 5004 Delete type=2 #10
+2019/02/16-22:51:27.409 5004 Manual compaction at level-0 from '\x00\x03\x00\x00\x05' @ 26 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

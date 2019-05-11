@@ -1,0 +1,134 @@
+{
+   "create_addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Salainen"
+   },
+   "create_addSection": {
+      "description": "label to add section",
+      "message": "Lisää osio"
+   },
+   "create_allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Kaikki taulut"
+   },
+   "create_chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Valitse taulu"
+   },
+   "create_chooseSection": {
+      "description": "label for board sections",
+      "message": "Valitse osio"
+   },
+   "create_closeAddForm": {
+      "description": "cancel create",
+      "message": "Peruuta"
+   },
+   "create_filter": {
+      "description": "placeholder text in Search input",
+      "message": "Haku"
+   },
+   "create_msgBoardFail": {
+      "description": "board create fail",
+      "message": "Taulun luominen epäonnistui."
+   },
+   "create_msgClose": {
+      "description": "pin create success close",
+      "message": "Sulje"
+   },
+   "create_msgHelp": {
+      "description": "get help button",
+      "message": "Täältä saat apua"
+   },
+   "create_msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Hups! Jokin meni vikaan. Tarkista, oletko kirjautunut Pinterestiin, ja yritä uudelleen."
+   },
+   "create_msgPinFail": {
+      "description": "pin create fail",
+      "message": "Sivun tallentaminen epäonnistui."
+   },
+   "create_msgPinSavedTo": {
+      "description": "board identifier",
+      "message": "Tallennettu: %"
+   },
+   "create_msgSeeItNow": {
+      "description": "pin / board create success button",
+      "message": "Katso"
+   },
+   "create_optNo": {
+      "description": "switch option no",
+      "message": "Ei"
+   },
+   "create_optYes": {
+      "description": "switch option yes",
+      "message": "Kyllä"
+   },
+   "create_outerAddFormOpener": {
+      "description": "header in Create form",
+      "message": "Luo taulu"
+   },
+   "create_placeholderDescription": {
+      "description": "placeholder text in Pin description",
+      "message": "Kuvaile Pin-lisäystä"
+   },
+   "create_placeholderFilterAddBoard": {
+      "description": "placeholder text in Create Board input",
+      "message": "Esim. Käyntikohteita"
+   },
+   "create_placeholderFilterAddSection": {
+      "description": "placeholder text in Create Section input",
+      "message": "Esim. Valaistus"
+   },
+   "create_submitAddForm": {
+      "description": "create new board",
+      "message": "Luo"
+   },
+   "create_topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Suositut taulut"
+   },
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Hups! Kuvaa ei voi tallentaa."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Ota nettilöydöt helposti talteen."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterestin tallennuspainike"
+   },
+   "grid_choosePin": {
+      "description": "Header message in the image picker overlay",
+      "message": "Valitse tallennettava Pin"
+   },
+   "logic_noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Et voi tehdä Pin-lisäyksiä tästä verkkotunnuksesta. Jos sinulla on kysyttävää, ota yhteyttä sivuston ylläpitäjään."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Hups!"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Piilota osoitettaessa näytettävät tallennuspainikkeet"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Tallennuspainikkeen asetukset"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Tallenna"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Haku"
+   },
+   "search_headerMessage": {
+      "description": "Header shown when search succeeds",
+      "message": "Lisää tällaista Pinterestiltä"
+   }
+}

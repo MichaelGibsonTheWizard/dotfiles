@@ -1,0 +1,332 @@
+{
+   "backTitle": {
+      "message": "Terug"
+   },
+   "connectionModeNameCR": {
+      "message": "Cruise Control"
+   },
+   "connectionModeNameDH": {
+      "message": "Dubbele Hop"
+   },
+   "connectionModeNameEA": {
+      "message": "Externe App"
+   },
+   "connectionModeNameML": {
+      "message": "Manueel"
+   },
+   "connectionModeText": {
+      "message": "Connectie Modus"
+   },
+   "connectionModeTooltipCruiseControl": {
+      "message": "Locatie zal automatisch veranderd worden als je toegang zoekt tot een geblokkeerde bron."
+   },
+   "connectionModeTooltipDefault": {
+      "message": "Je modus is gekozen aan de hand van je proxy instellingen"
+   },
+   "connectionModeTooltipDoubleHop": {
+      "message": "Desktop applicatie staat aan. Je verkeer is verdubbeld. Dit is veiliger, maar wel langzamer."
+   },
+   "connectionModeTooltipExternalApp": {
+      "message": "Je netwerkinstellingen worden beheerd door de Windscribe Desktop App"
+   },
+   "connectionModeTooltipManual": {
+      "message": "Locatie is door jou gekozen"
+   },
+   "errNetworkHeader": {
+      "message": "Oops, dat zou niet moeten gebeuren."
+   },
+   "errNetworkText": {
+      "message": "Kon de Windscribe servers niet bereiken. Je hebt geen internet verbinding of er is bij ons iets mis."
+   },
+   "errOtherExtensionHeader": {
+      "message": "Bescherming Uitgeschakeld"
+   },
+   "errOtherExtensionText": {
+      "message": "Windscribe werkt niet als je een andere extensie gebruikt die je proxy instellingen beheert."
+   },
+   "extDescription": {
+      "message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+   },
+   "extName": {
+      "message": "Windscribe - Free VPN and Ad Blocker"
+   },
+   "extShortName": {
+      "message": "Windscribe"
+   },
+   "loginButtonText": {
+      "message": "Inloggen"
+   },
+   "loginEmptyInput": {
+      "message": "Vul zowel gebuikersnaam en wachtwoord in om in te loggen"
+   },
+   "loginErr": {
+      "message": "Inloggegevens verkeerd, probeer opnieuw."
+   },
+   "loginForgotPassword": {
+      "message": "Wachtwoord vergeten"
+   },
+   "loginPasswordPlaceholder": {
+      "message": "Wachtwoord"
+   },
+   "loginSignUp": {
+      "message": "Aanmelden"
+   },
+   "loginTitle": {
+      "message": "Inloggen bij Windscribe"
+   },
+   "loginUsernamePlaceholder": {
+      "message": "Gebruikersnaam"
+   },
+   "loginWelcomeMsg": {
+      "message": "Geweldig, je wordt ingelogd"
+   },
+   "menuHelp": {
+      "message": "Hulp!"
+   },
+   "menuLanguages": {
+      "message": "Talen"
+   },
+   "menuLogout": {
+      "message": "Uitloggen"
+   },
+   "menuMyAcc": {
+      "message": "Mijn Account"
+   },
+   "menuPrivacyOptions": {
+      "message": "Privacy Opties"
+   },
+   "menuRecentSLinks": {
+      "message": "Recente Veilige Links"
+   },
+   "menuTitle": {
+      "message": "Menu"
+   },
+   "menuUpgrade": {
+      "message": "Upgrade"
+   },
+   "notificationEA": {
+      "message": "Je netwerk instellingen worden beheerd door de Windscribe Desktop App. Verbreek de verbinding in de app om Windscribe uit te zetten."
+   },
+   "notificationOff": {
+      "message": "De verbinding met Windscribe is verbroken"
+   },
+   "notificationOffDH": {
+      "message": "Dubbele hop connectie is verbroken. Je netwerk wordt nog steeds beheerd door de Windscribe desktop app"
+   },
+   "notificationOn": {
+      "message": "Je bent nu verbonden met Windscribe"
+   },
+   "notificationOnDH1": {
+      "message": "Je bent verbonden met Windscribe"
+   },
+   "notificationOnDH2": {
+      "message": "Dubbele hop staat aan. Dit kan de prestaties beïnvloeden."
+   },
+   "notificationOnEM": {
+      "message": "Je netwerk instellingen worden beheerd door de Windscribe Desktop App"
+   },
+   "privacyOptionsAdBlock": {
+      "message": "Advertentie Blocker"
+   },
+   "privacyOptionsAdBlockNote": {
+      "message": "Blokkeer advertenties op pagina's die je bezoekt"
+   },
+   "privacyOptionsAntiSoc": {
+      "message": "Anti-Sociaal"
+   },
+   "privacyOptionsAntiSocNote": {
+      "message": "EXPERIMENTEEL: Verwijder social media knoppen"
+   },
+   "privacyOptionsOff": {
+      "message": "uit"
+   },
+   "privacyOptionsOn": {
+      "message": "aan"
+   },
+   "privacyOptionsSplit": {
+      "message": "Splits Persoonlijkheid"
+   },
+   "privacyOptionsSplitNote": {
+      "message": "Draai je gebruiker willekeurig"
+   },
+   "privacyOptionsTitle": {
+      "message": "Privacy Opties"
+   },
+   "privacyOptionsUntrace": {
+      "message": "Onvindbaar"
+   },
+   "privacyOptionsUntraceNote": {
+      "message": "Blokkeer bekende advertenties en trackers"
+   },
+   "privacyOptionsWLBtnText": {
+      "message": "Beheer Whitelist"
+   },
+   "privacyOptionsWLText": {
+      "message": "Sites op de Whitelist zullen niet beïnvloed worden door deze instellingen"
+   },
+   "privacyOptionsWLTitle": {
+      "message": "Whitelisted Sites"
+   },
+   "rateUsCTA": {
+      "message": "Beoordeel ons"
+   },
+   "rateUsHeader": {
+      "message": "Hoe bevalt Windscribe?"
+   },
+   "rateUsHeaderText": {
+      "message": "We waarderen het als je ons beoordeelt en een recensie schrijft in de Chrome Store."
+   },
+   "rateUsNo": {
+      "message": "Nee bedankt"
+   },
+   "recentLinksCopied": {
+      "message": "Gekopieerd!"
+   },
+   "recentLinksCopy": {
+      "message": "Kopiëren"
+   },
+   "recentLinksLearn": {
+      "message": "Leer meer over veilige links"
+   },
+   "recentLinksMonth": {
+      "message": "Vorige maand"
+   },
+   "recentLinksNo": {
+      "message": "Nee"
+   },
+   "recentLinksNoLinks": {
+      "message": "Je hebt geen veilige links"
+   },
+   "recentLinksNoTitle": {
+      "message": "Geen pagina titel"
+   },
+   "recentLinksOlder": {
+      "message": "Ouder"
+   },
+   "recentLinksSure": {
+      "message": "Weet je het zeker?"
+   },
+   "recentLinksTitle": {
+      "message": "Recente Links"
+   },
+   "recentLinksToday": {
+      "message": "Vandaag"
+   },
+   "recentLinksWeek": {
+      "message": "Vorige Week"
+   },
+   "recentLinksYes": {
+      "message": "Ja"
+   },
+   "remove": {
+      "message": "Verwijderen"
+   },
+   "secLinkAddMsg": {
+      "message": "Voeg bericht toe (optioneel)"
+   },
+   "secLinkAddPsw": {
+      "message": "Voeg wachtwoord toe om te vergrendelen (optioneel)"
+   },
+   "secLinkCopied": {
+      "message": "Link gekopieerd"
+   },
+   "secLinkForceIns": {
+      "message": "Forceer installatie"
+   },
+   "secLinkNotCopied": {
+      "message": "Link niet gekopieerd"
+   },
+   "secLinkNote": {
+      "message": "*Windscribe moet geinstalleerd zijn om door te gaan"
+   },
+   "secLinkTitle": {
+      "message": "Veilige link Opties"
+   },
+   "secLinkWarn": {
+      "message": "Wachtwoord moet ten minste vier symbolen bevatten"
+   },
+   "secureLinkBtnText": {
+      "message": "Kopieer veilige link"
+   },
+   "secureLinkErrTooltip": {
+      "message": "Kan geen veilige link maken van deze pagina"
+   },
+   "secureLinkTitle": {
+      "message": "Veilige.Link Generator"
+   },
+   "statusConnected": {
+      "message": "Verbonden"
+   },
+   "statusConnectedDesktop": {
+      "message": "Verbonden (Desktop)"
+   },
+   "statusDisconnected": {
+      "message": "Verbinding verbroken"
+   },
+   "topNavBanned": {
+      "message": "Verbannen"
+   },
+   "topNavDayLeft": {
+      "message": "Dag over"
+   },
+   "topNavDaysLeft": {
+      "message": "Dagen over"
+   },
+   "topNavGBLeft": {
+      "message": "GB Over"
+   },
+   "topNavUpgrade": {
+      "message": "Upgrade"
+   },
+   "upgradeTooltipText": {
+      "message": "Je bent over het gratis limiet heen deze maand. Upgrade nu."
+   },
+   "whiteListAddAdsBtnText": {
+      "message": "Advertenties Whitelist"
+   },
+   "whiteListAddBtnText": {
+      "message": "Voeg site toe aan"
+   },
+   "whiteListAddProxyBtnText": {
+      "message": "Proxy Whitelist"
+   },
+   "whiteListAdsOnly": {
+      "message": "Alleen advertenties"
+   },
+   "whiteListIssues": {
+      "message": "Heb je problemen met deze site?"
+   },
+   "whiteListIt": {
+      "message": "Whitelist it"
+   },
+   "whiteListListed": {
+      "message": "Deze site is whitelisted"
+   },
+   "whiteListNoProxy": {
+      "message": "Geen Proxy"
+   },
+   "whiteListQuestion": {
+      "message": "Stop met het gebruiken van Blocking Trackers op deze site?"
+   },
+   "whiteListRemove": {
+      "message": "Verwijder van White List"
+   },
+   "whiteListRemoveBtnText": {
+      "message": "Verwijder site van Whitelist"
+   },
+   "whiteListReportThanks": {
+      "message": "Bedankt. We zullen hier zo snel mogelijk iets aan doen"
+   },
+   "whiteListReportUrl": {
+      "message": "Rapporteer deze URL, zodat we er iets aan kunnen doen"
+   },
+   "whiteListSitesTitle": {
+      "message": "Whitelisted sites"
+   },
+   "whiteListTitle": {
+      "message": "Whitelist Opties"
+   },
+   "whiteListTooltip": {
+      "message": "Kan geen lege pagina aan whitelist toevoegen"
+   }
+}
